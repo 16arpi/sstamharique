@@ -1,0 +1,3 @@
+# SST Amharique
+
+Hello world!
