@@ -1,3 +1,3 @@
-# SST Amharique
+# አማራ
 
 Hello world!
