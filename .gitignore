@@ -1,1 +1,8 @@
+# Python
 .venv
+
+# Data
+mms/clips/
+mms/*.csv
+mms/*.tsv
+mms/*.json
