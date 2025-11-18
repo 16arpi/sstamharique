@@ -107,7 +107,7 @@ def _(dataset, show_random_elements):
 
 @app.cell
 def _(dataset):
-    # Make of vocabulary
+    # Build the full vocab set
     def extract_all_chars(batch):
       all_text = " ".join(batch["sentence"])
       vocab = list(set(all_text))
