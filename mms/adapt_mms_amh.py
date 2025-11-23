@@ -63,7 +63,7 @@ def _():
 
         lf = pl.LazyFrame([dataset[i] for i in picks])
         return lf
-    return Dataset, show_random_elements
+    return Dataset, random, show_random_elements
 
 
 @app.cell(hide_code=True)
@@ -139,7 +139,7 @@ def _(vocab_dict):
 @app.cell
 def _(new_vocab_dict):
     import json
-    with open('vocab.json', 'w') as vocab_file:
+    with open("vocab.json", "w") as vocab_file:
         json.dump(new_vocab_dict, vocab_file)
     return
 
@@ -188,12 +188,60 @@ def _(feature_extractor, tokenizer):
     from transformers import Wav2Vec2Processor
 
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
+    return (processor,)
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""
+    # Preprocess Data
+    """)
     return
 
 
 @app.cell
 def _(dataset):
     dataset["train"][0]["audio"]
+    return
+
+
+@app.cell
+def _(dataset, random):
+    rand_int = random.randint(0, len(dataset["train"])-1)
+
+    print("Target text:", dataset["train"][rand_int]["sentence"])
+    print("Input array shape:", dataset["train"][rand_int]["audio"]["array"].shape)
+    print("Sampling rate:", dataset["train"][rand_int]["audio"]["sampling_rate"])
+    return
+
+
+@app.cell
+def _(processor):
+    def prepare_dataset(batch):
+        audio = batch["audio"]
+
+        # batched output is "un-batched"
+        batch["input_values"] = processor(audio["array"], sampling_rate=audio["sampling_rate"]).input_values[0]
+        batch["input_length"] = len(batch["input_values"])
+
+        batch["labels"] = processor(text=batch["sentence"]).input_ids
+        return batch
+    return (prepare_dataset,)
+
+
+@app.cell
+def _(dataset, prepare_dataset):
+    dataset["train"] = dataset["train"].map(prepare_dataset, remove_columns=dataset["train"].column_names)
+    dataset["test"] = dataset["test"].map(prepare_dataset, remove_columns=dataset["test"].column_names)
+    dataset["validation"] = dataset["validation"].map(prepare_dataset, remove_columns=dataset["validation"].column_names)
+    return
+
+
+@app.cell(hide_code=True)
+def _(mo):
+    mo.md(r"""
+    # Training
+    """)
     return
 
 
