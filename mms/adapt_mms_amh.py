@@ -110,14 +110,14 @@ def _(dataset):
     vocab_train = dataset["train"].map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True, remove_columns=dataset["train"].column_names)
     vocab_test = dataset["test"].map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True, remove_columns=dataset["test"].column_names)
     vocab_validation = dataset["validation"].map(extract_all_chars, batched=True, batch_size=-1, keep_in_memory=True, remove_columns=dataset["validation"].column_names)
-    return vocab_test, vocab_train
+    return vocab_test, vocab_train, vocab_validation
 
 
 @app.cell
-def _(vocab_test, vocab_train):
+def _(vocab_test, vocab_train, vocab_validation):
     from rich.pretty import pprint
 
-    vocab_list = list(set(vocab_train["vocab"][0]) | set(vocab_test["vocab"][0]))
+    vocab_list = list(set(vocab_train["vocab"][0]) | set(vocab_test["vocab"][0]) | set(vocab_validation["vocab"][0]))
     vocab_dict = {v: k for k, v in enumerate(sorted(vocab_list))}
     vocab_dict["|"] = vocab_dict[" "]
     del vocab_dict[" "]
