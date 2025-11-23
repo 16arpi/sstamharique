@@ -188,7 +188,7 @@ def _(feature_extractor, tokenizer):
     from transformers import Wav2Vec2Processor
 
     processor = Wav2Vec2Processor(feature_extractor=feature_extractor, tokenizer=tokenizer)
-    return (processor,)
+    return Wav2Vec2Processor, processor
 
 
 @app.cell(hide_code=True)
@@ -242,6 +242,153 @@ def _(mo):
     mo.md(r"""
     # Training
     """)
+    return
+
+
+@app.cell
+def _(Wav2Vec2Processor):
+    import torch
+
+    from dataclasses import dataclass, field
+    from typing import Any
+
+    @dataclass
+    class DataCollatorCTCWithPadding:
+        """
+        Data collator that will dynamically pad the inputs received.
+        Args:
+            processor (:class:`~transformers.Wav2Vec2Processor`)
+                The processor used for proccessing the data.
+            padding (:obj:`bool`, :obj:`str` or :class:`~transformers.tokenization_utils_base.PaddingStrategy`, `optional`, defaults to :obj:`True`):
+                Select a strategy to pad the returned sequences (according to the model's padding side and padding index)
+                among:
+                * :obj:`True` or :obj:`'longest'`: Pad to the longest sequence in the batch (or no padding if only a single
+                  sequence if provided).
+                * :obj:`'max_length'`: Pad to a maximum length specified with the argument :obj:`max_length` or to the
+                  maximum acceptable input length for the model if that argument is not provided.
+                * :obj:`False` or :obj:`'do_not_pad'` (default): No padding (i.e., can output a batch with sequences of
+                  different lengths).
+        """
+
+        processor: Wav2Vec2Processor
+        padding: bool | str = True
+
+        def __call__(self, features: list[dict[str, list[int] | torch.Tensor]]) -> dict[str, torch.Tensor]:
+            # split inputs and labels since they have to be of different lengths and need
+            # different padding methods
+            input_features = [{"input_values": feature["input_values"]} for feature in features]
+            label_features = [{"input_ids": feature["labels"]} for feature in features]
+
+            batch = self.processor.pad(
+                input_features,
+                padding=self.padding,
+                return_tensors="pt",
+            )
+
+            labels_batch = self.processor.pad(
+                labels=label_features,
+                padding=self.padding,
+                return_tensors="pt",
+            )
+
+            # replace padding with -100 to ignore loss correctly
+            labels = labels_batch["input_ids"].masked_fill(labels_batch.attention_mask.ne(1), -100)
+
+            batch["labels"] = labels
+
+            return batch
+    return (DataCollatorCTCWithPadding,)
+
+
+@app.cell
+def _(DataCollatorCTCWithPadding, processor):
+    data_collator = DataCollatorCTCWithPadding(processor=processor, padding=True)
+    return
+
+
+@app.cell
+def _():
+    from evaluate import load
+
+    wer_metric = load("wer")
+    return (wer_metric,)
+
+
+@app.cell
+def _(np, processor, wer_metric):
+    def compute_metrics(pred):
+        pred_logits = pred.predictions
+        pred_ids = np.argmax(pred_logits, axis=-1)
+
+        pred.label_ids[pred.label_ids == -100] = processor.tokenizer.pad_token_id
+
+        pred_str = processor.batch_decode(pred_ids)
+        # we do not want to group tokens when computing the metrics
+        label_str = processor.batch_decode(pred.label_ids, group_tokens=False)
+
+        wer = wer_metric.compute(predictions=pred_str, references=label_str)
+
+        return {"wer": wer}
+    return
+
+
+@app.cell
+def _(processor):
+    from transformers import Wav2Vec2ForCTC
+
+    # TODO: Tweak hyperparameters
+    model = Wav2Vec2ForCTC.from_pretrained(
+        "facebook/mms-1b-all",
+        attention_dropout=0.0,
+        hidden_dropout=0.0,
+        feat_proj_dropout=0.0,
+        layerdrop=0.0,
+        ctc_loss_reduction="mean",
+        pad_token_id=processor.tokenizer.pad_token_id,
+        vocab_size=len(processor.tokenizer),
+        ignore_mismatched_sizes=True,
+        device_map="auto",
+    )
+    return (model,)
+
+
+@app.cell
+def _(model):
+    model.init_adapter_layers()
+    return
+
+
+@app.cell
+def _(model):
+    # Freeze all weights, but the adapter layers
+    model.freeze_base_model()
+
+    adapter_weights = model._get_adapters()
+    for param in adapter_weights.values():
+        param.requires_grad = True
+    return
+
+
+@app.cell
+def _():
+    from transformers import TrainingArguments
+
+    training_args = TrainingArguments(
+      output_dir="wav2vec2-large-mms-1b-amharic-cv",
+      group_by_length=True,
+      per_device_train_batch_size=32,
+      evaluation_strategy="steps",
+      num_train_epochs=4,
+      gradient_checkpointing=True,
+      fp16=True,
+      save_steps=200,
+      eval_steps=100,
+      logging_steps=100,
+      learning_rate=1e-3,
+      warmup_steps=100,
+      save_total_limit=2,
+      push_to_hub=False,
+    )
     return
 
 
