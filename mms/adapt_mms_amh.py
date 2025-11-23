@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.17.7"
+__generated_with = "0.18.0"
 app = marimo.App()
 
 
@@ -30,14 +30,6 @@ def _(mo):
 
 @app.cell
 def _():
-    #del dataset_global
-    #del dataset
-    #del dataset_val
-    return
-
-
-@app.cell
-def _():
     from datasets import load_dataset, Audio
 
     dataset_global = load_dataset("csv", data_files="dataset.csv", split="train")
@@ -54,12 +46,12 @@ def _():
 
 @app.cell
 def _():
-    from datasets import ClassLabel
+    from datasets import ClassLabel, Dataset
     import random
     import polars as pl
     #from IPython.display import display, HTML
 
-    def show_random_elements(dataset, num_examples=10):
+    def show_random_elements(dataset: list[str], num_examples=10):
         assert num_examples <= len(dataset), "Can't pick more elements than there are in the dataset."
         picks = []
         for _ in range(num_examples):
@@ -68,9 +60,9 @@ def _():
                 pick = random.randint(0, len(dataset)-1)
             picks.append(pick)
 
-        lf = pl.LazyFrame(dataset[picks])
+        lf = pl.LazyFrame([dataset[i] for i in picks])
         return lf
-    return (show_random_elements,)
+    return Dataset, show_random_elements
 
 
 @app.cell(hide_code=True)
@@ -82,12 +74,12 @@ def _(mo):
 
 
 @app.cell
-def _(dataset):
+def _(Dataset, dataset):
     import re
 
     PUNCT = re.compile(r'[\፡\።\፣\፤\፥\፦\፧\፨\፠]')
 
-    def remove_punctuation(sample):
+    def remove_punctuation(sample: Dataset):
       sample["sentence"] = PUNCT.sub('', sample["sentence"]).lower()
       return sample
 
