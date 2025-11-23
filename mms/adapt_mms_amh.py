@@ -7,6 +7,13 @@ app = marimo.App()
 @app.cell
 def _():
     import os
+    import platform
+
+    # Try not to blow past 24GB of VRAM...
+    # Spoiler alert: it does ;'(.
+    if platform.node() == "ahsoka":
+        os.environ["TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL"] = 1
+        os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True" 
 
     os.chdir('./mms')
     return
