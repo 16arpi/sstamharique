@@ -303,7 +303,7 @@ def _(Wav2Vec2Processor):
 @app.cell
 def _(DataCollatorCTCWithPadding, processor):
     data_collator = DataCollatorCTCWithPadding(processor=processor, padding=True)
-    return
+    return (data_collator,)
 
 
 @app.cell
@@ -329,7 +329,7 @@ def _(np, processor, wer_metric):
         wer = wer_metric.compute(predictions=pred_str, references=label_str)
 
         return {"wer": wer}
-    return
+    return (compute_metrics,)
 
 
 @app.cell
@@ -377,7 +377,7 @@ def _():
       output_dir="wav2vec2-large-mms-1b-amharic-cv",
       group_by_length=True,
       per_device_train_batch_size=32,
-      evaluation_strategy="steps",
+      eval_strategy="steps",
       num_train_epochs=4,
       gradient_checkpointing=True,
       fp16=True,
@@ -389,6 +389,35 @@ def _():
       save_total_limit=2,
       push_to_hub=False,
     )
+    return (training_args,)
+
+
+@app.cell
+def _(
+    compute_metrics,
+    data_collator,
+    dataset,
+    model,
+    processor,
+    training_args,
+):
+    from transformers import Trainer
+
+    trainer = Trainer(
+        model=model,
+        data_collator=data_collator,
+        args=training_args,
+        compute_metrics=compute_metrics,
+        train_dataset=dataset["train"],
+        eval_dataset=dataset["test"],
+        processing_class=processor.feature_extractor,
+    )
+    return (trainer,)
+
+
+@app.cell
+def _(trainer):
+    trainer.train()
     return
 
 
