@@ -429,6 +429,19 @@ def _(trainer):
 
 
 @app.cell
+def _(model, target_lang, training_args):
+    from safetensors.torch import save_file as safe_save_file
+    from transformers.models.wav2vec2.modeling_wav2vec2 import WAV2VEC2_ADAPTER_SAFE_FILE
+    import os
+
+    adapter_file = WAV2VEC2_ADAPTER_SAFE_FILE.format(target_lang)
+    adapter_file = os.path.join(training_args.output_dir, adapter_file)
+
+    safe_save_file(model._get_adapters(), adapter_file, metadata={"format": "pt"})
+    return
+
+
+@app.cell
 def _():
     import marimo as mo
     return (mo,)
