@@ -41,6 +41,7 @@ def _():
     dataset_val = dataset["train"].train_test_split(test_size=0.2)
     dataset["train"] = dataset_val["train"]
     dataset["validation"] = dataset_val["test"]
+    dataset
     return (dataset,)
 
 
@@ -77,11 +78,12 @@ def _(mo):
 def _(Dataset, dataset):
     import re
 
-    PUNCT = re.compile(r'[\፡\።\፣\፤\፥\፦\፧\፨\፠]')
+    PUNCT = re.compile(r'[፡።፣፤፥፦፧፨፠]')
 
     def remove_punctuation(sample: Dataset):
-      sample["sentence"] = PUNCT.sub('', sample["sentence"]).lower()
-      return sample
+        # We shouldn't need to lowercase, as the alphasylabbary has no concept of caps
+        sample["sentence"] = PUNCT.sub('', sample["sentence"])
+        return sample
 
     dataset["train"] = dataset["train"].map(remove_punctuation)
     dataset["test"] = dataset["test"].map(remove_punctuation)
