@@ -78,7 +78,7 @@ def _(mo):
 def _(Dataset, dataset):
     import re
 
-    PUNCT = re.compile(r'[፡።፣፤፥፦፧፨፠]')
+    PUNCT = re.compile(r'[!-:?፡።፣፤፥፦፧፨፠‘’“”‹›]')
 
     def remove_punctuation(sample: Dataset):
         # We shouldn't need to lowercase, as the alphasylabbary has no concept of caps
@@ -115,6 +115,8 @@ def _(dataset):
 
 @app.cell
 def _(vocab_test, vocab_train):
+    from rich.pretty import pprint
+
     vocab_list = list(set(vocab_train["vocab"][0]) | set(vocab_test["vocab"][0]))
     vocab_dict = {v: k for k, v in enumerate(sorted(vocab_list))}
     vocab_dict["|"] = vocab_dict[" "]
@@ -123,7 +125,7 @@ def _(vocab_test, vocab_train):
     vocab_dict["[UNK]"] = len(vocab_dict)
     vocab_dict["[PAD]"] = len(vocab_dict)
 
-    vocab_dict
+    pprint(vocab_dict)
     return (vocab_dict,)
 
 
