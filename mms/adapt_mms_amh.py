@@ -383,7 +383,8 @@ def _():
     training_args = TrainingArguments(
       output_dir="wav2vec2-large-mms-1b-amharic-cv",
       group_by_length=True,
-      per_device_train_batch_size=32,
+      per_device_train_batch_size=16, # Lowered from 32 to lower memory pressure
+      gradient_accumulation_steps=1, # TODO: We might need to increase this to lower memory pressure some more
       eval_strategy="steps",
       num_train_epochs=4,
       gradient_checkpointing=True,
