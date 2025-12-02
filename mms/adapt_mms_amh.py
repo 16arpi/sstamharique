@@ -1,6 +1,6 @@
 import marimo
 
-__generated_with = "0.18.0"
+__generated_with = "0.18.1"
 app = marimo.App()
 
 
@@ -9,6 +9,8 @@ def _():
     import os
     import platform
 
+    import numpy as np
+
     # Try not to blow past 24GB of VRAM...
     # Spoiler alert: it does ;'(.
     if platform.node() == "ahsoka":
@@ -16,7 +18,7 @@ def _():
         os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
 
     os.chdir('./mms')
-    return
+    return np, os
 
 
 @app.cell(hide_code=True)
@@ -384,7 +386,7 @@ def _():
       output_dir="wav2vec2-large-mms-1b-amharic-cv",
       group_by_length=True,
       per_device_train_batch_size=16, # Lowered from 32 to lower memory pressure
-      gradient_accumulation_steps=1, # TODO: We might need to increase this to lower memory pressure some more
+      gradient_accumulation_steps=1, # NOTE: This could be used as another lever to reduce memory pressure some more
       eval_strategy="steps",
       num_train_epochs=4,
       gradient_checkpointing=True,
@@ -430,7 +432,7 @@ def _(trainer):
 
 
 @app.cell
-def _(model, target_lang, training_args):
+def _(model, os, target_lang, training_args):
     from safetensors.torch import save_file as safe_save_file
     from transformers.models.wav2vec2.modeling_wav2vec2 import WAV2VEC2_ADAPTER_SAFE_FILE
 
