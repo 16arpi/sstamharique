@@ -12,10 +12,9 @@ def _():
     import numpy as np
 
     # Try not to blow past 24GB of VRAM...
-    # Spoiler alert: it does ;'(.
     if platform.node() == "ahsoka":
         os.environ["TORCH_ROCM_AOTRITON_ENABLE_EXPERIMENTAL"] = "1"
-        os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
+        # os.environ["PYTORCH_ALLOC_CONF"] = "expandable_segments:True"
 
     os.chdir('./mms')
     return np, os
@@ -385,7 +384,7 @@ def _():
     training_args = TrainingArguments(
       output_dir="wav2vec2-large-mms-1b-amharic-cv",
       group_by_length=True,
-      per_device_train_batch_size=16, # Lowered from 32 to lower memory pressure
+      per_device_train_batch_size=24, # Lowered from 32 to lower memory pressure
       gradient_accumulation_steps=1, # NOTE: This could be used as another lever to reduce memory pressure some more
       eval_strategy="steps",
       num_train_epochs=4,
@@ -427,7 +426,8 @@ def _(
 
 @app.cell
 def _(trainer):
-    trainer.train()
+    train_output = trainer.train()
+    print(train_output)
     return
 
 
