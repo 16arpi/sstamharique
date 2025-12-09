@@ -1,0 +1,5 @@
+id,mp3,original_index,resolved_url,http_status,datetime_utc,fetch_error,path,mimetype,encoding,body_size
+69dc4321b639a7d5b0fc18b4a853c95a,http://audio2.abiblica.org/bibles/app/audio/17/1/1.mp3,0,https://www.wordproaudio.net/bibles/app/audio/17/1/1.mp3,200,2025-12-09T09:43:41.074944,,bc1df76ca55dde465913f82e47b12ba6.mp3,audio/mpeg,utf-8,610328
+a1f07e371a8960d4a93e03467ecd43cf,http://audio2.abiblica.org/bibles/app/audio/17/19/1.mp3,1,https://www.wordproaudio.net/bibles/app/audio/17/19/1.mp3,200,2025-12-09T09:43:54.395766,,29d10b702b91c7d0d926cbe7095edbfa.mp3,audio/mpeg,utf-8,320786
+3a970a40ad8d1b44d19508d8caf1c96f,http://audio2.abiblica.org/bibles/app/audio/17/16/1.mp3,2,https://www.wordproaudio.net/bibles/app/audio/17/16/1.mp3,200,2025-12-09T09:43:56.137268,,bcb4997bfcfac6b13981e5c54b9ef327.mp3,audio/mpeg,utf-8,280352
+206579800815ad16a06612dcfd2a6698,http://audio2.abiblica.org/bibles/app/audio/17/60/1.mp3,3,https://www.wordproaudio.net/bibles/app/audio/17/60/1.mp3,200,2025-12-09T09:43:59.520499,,614b9d51375d686767d2b92df865c24e.mp3,audio/mpeg,utf-8,1570066
