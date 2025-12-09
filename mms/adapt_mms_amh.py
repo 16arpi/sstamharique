@@ -387,7 +387,7 @@ def _():
       per_device_train_batch_size=24, # Lowered from 32 to lower memory pressure
       gradient_accumulation_steps=1, # NOTE: This could be used as another lever to reduce memory pressure some more
       eval_strategy="steps",
-      num_train_epochs=4,
+      num_train_epochs=24,
       gradient_checkpointing=True,
       fp16=True,
       save_steps=200,
