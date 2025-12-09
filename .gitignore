@@ -6,3 +6,5 @@ mms/clips/
 mms/*.csv
 mms/*.tsv
 mms/*.json
+credentials.json
+.env
