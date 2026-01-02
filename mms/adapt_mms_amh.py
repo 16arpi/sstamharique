@@ -45,8 +45,8 @@ def _():
     dataset_global = dataset_global.cast_column("audio", Audio(sampling_rate=16000))
     print(dataset_global[0]["audio"])
 
-    dataset = dataset_global.train_test_split(test_size=0.2)
-    dataset_val = dataset["train"].train_test_split(test_size=0.2)
+    dataset = dataset_global.train_test_split(test_size=0.2, seed=42)
+    dataset_val = dataset["train"].train_test_split(test_size=0.2, seed=42)
     dataset["train"] = dataset_val["train"]
     dataset["validation"] = dataset_val["test"]
     dataset
