@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 #
 ##
-# pyannote
 
 from datasets import load_from_disk, DatasetDict
 from transformers import Wav2Vec2ForCTC, AutoProcessor

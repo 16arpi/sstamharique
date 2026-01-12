@@ -1,9 +1,15 @@
 awscli
 datasets
+evaluate
 loguru
 pip
+pyannote
 python-dotenv
 ruff
 tqdm
 typer
+torch
+torchcodec
+transformers
+uroman
 -e .
