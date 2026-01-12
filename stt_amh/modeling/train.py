@@ -297,6 +297,7 @@ class TrainContext:
 	def save_adapter(self) -> None:
 		logger.info("Saving trained adapter to disk...")
 		save_dir = self.run_dir / "mms-1b-amh"
+		save_dir.mkdir(parents=True, exist_ok=True)
 
 		adapter_file = WAV2VEC2_ADAPTER_SAFE_FILE.format(self.target_lang)
 		adapter_file = save_dir / adapter_file
