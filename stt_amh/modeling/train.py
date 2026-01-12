@@ -115,6 +115,7 @@ class TrainContext:
 	def __init__(self) -> None:
 		self.target_lang = "amh"
 		self.run_dir = MODELS_DIR / f"amh-{time.strftime('%Y%m%d_%H%M%S')}"
+		self.run_dir.mkdir(parents=True, exist_ok=True)
 
 	def setup(self) -> None:
 		self.dataset = load_dataset()
