@@ -301,6 +301,10 @@ class TrainContext:
 
 		safe_save_file(self.model._get_adapters(), adapter_file, metadata={"format": "pt"})
 
+		# Actually save the whole thing, as i'm not sure mixing our adapter with the stock model quite works...
+		logger.info("Saving model to disk...")
+		self.trainer.save_model(self.run_dir / "mms-1b-amh")
+
 
 @app.command()
 def main() -> None:
