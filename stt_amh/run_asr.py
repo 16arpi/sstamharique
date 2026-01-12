@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 from functools import partial
+import re
 
 from datasets import load_from_disk
 from loguru import logger
@@ -42,7 +43,9 @@ class InferenceContext:
 
 		if use_custom_adapter:
 			logger.info(f"Using our own <blue>{self.target_lang}</blue> adapter layers")
-			self.model.load_adapter(self.target_lang, local_files_only=True, cache_dir=PRETRAINED_AMH)
+			self.model.load_adapter(
+				self.target_lang, local_files_only=True, cache_dir=PRETRAINED_AMH, use_safetensors=True
+			)
 		else:
 			logger.info(f"Using upstream <blue>{self.target_lang}</blue> adapter layers")
 			self.model.load_adapter(self.target_lang)
@@ -56,8 +59,12 @@ class InferenceContext:
 		ids = torch.argmax(outputs, dim=-1)[0]
 		transcription = self.processor.decode(ids)
 		romanized = self.uroman.romanize_string(transcription, lcode=self.target_lang)
-		logger.info(f"Transcription: <blue>{transcription}</blue>")
-		logger.info(f"Romanized: <green>{romanized}</green>")
+
+		# Strip tags for loguru's sake...
+		safe_tr = re.sub(r"<[^<]+?>", "", transcription)
+		safe_ro = re.sub(r"<[^<]+?>", "", romanized)
+		logger.info(f"Transcription: <blue>{safe_tr}</blue>")
+		logger.info(f"Romanized: <green>{safe_ro}</green>")
 
 		return transcription, romanized
 
@@ -69,7 +76,7 @@ def main(with_custom_adapter: Annotated[bool, typer.Option(help="Use our own cus
 	ctx.load_dataset()
 	ctx.load_model()
 
-	results = {}
+	results = []
 	for i, data_point in enumerate(tqdm(ctx.dataset["test"], desc="Inferencing...")):
 		sample = data_point["audio"]["array"]
 		transcription, romanized = ctx.run_asr(sample)
