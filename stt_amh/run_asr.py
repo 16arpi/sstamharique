@@ -2,6 +2,7 @@
 from functools import partial
 import json
 import re
+import statistics
 
 from datasets import load_from_disk
 from jiwer import wer
@@ -98,6 +99,8 @@ def main(custom_adapter: Annotated[bool, typer.Option(help="Use our own custom a
 				"wer": wer_score,
 			}
 		)
+	scores = [e["wer"] for e in results]
+	logger.info(f"Mean WER: <red>{statistics.mean(scores)}</red>")
 
 	# Dump the results to disk
 	report = REPORTS_DIR / f"stt-test-{custom_adapter and 'custom' or 'stock'}.json"
