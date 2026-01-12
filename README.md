@@ -75,3 +75,8 @@ Training an adapter (likely requires > 16GB of VRAM; but less than 24GB; lower t
 ```bash
 python stt_amh/modeling/train.py
 ```
+
+Testing the stock and fine-tuned model (on the test dataset):
+```bash
+python stt_amh/run_asr.py [--no-custom-adapter]
+```
