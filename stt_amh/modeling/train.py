@@ -45,14 +45,14 @@ def show_random_elements(dataset: list[str], num_examples=10):
 		pick = random.randint(0, len(dataset) - 1)
 		while pick in picks:
 			pick = random.randint(0, len(dataset) - 1)
-			picks.append(pick)
+		picks.append(pick)
 
-	lf = pl.LazyFrame([dataset[i] for i in picks])
+	df = pl.DataFrame([dataset[i] for i in picks])
 	with pl.Config(
 		tbl_cols=-1,
 		fmt_str_lengths=500,
 	):
-		print(lf.collect())
+		print(df)
 
 
 # Build the full vocab set

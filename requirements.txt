@@ -1,9 +1,12 @@
 awscli
 datasets
 evaluate
+jiwer
+librosa
 loguru
+polars
 pip
-pyannote
+pyannote.audio
 python-dotenv
 ruff
 tqdm
