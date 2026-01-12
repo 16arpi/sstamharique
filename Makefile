@@ -84,7 +84,7 @@ $(EXTERNAL_DATASETS):
 
 $(PROCESSED_DATASETS):
 	for dataset in $(EXTERNAL_DATASETS) ; do \
-		[[ "$${dataset}" == *.zip ]] && unzip "$${dataset}" -d data/processed/ ; \
+		[ "$${dataset}" == *.zip ] && unzip "$${dataset}" -d data/processed/ ; \
 	done
 
 $(MODELS):
@@ -93,7 +93,7 @@ $(MODELS):
 
 $(MODELS_CACHE):
 	for model in $(MODELS) ; do \
-		[[ "$${model}" == *.tar.gz ]] && tar xvf "$${model}" -C models/ ; \
+		[ "$${model}" == *.tar.gz ] && tar xvf "$${model}" -C models/ ; \
 	done
 
 .PHONY: download_data
