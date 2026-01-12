@@ -293,7 +293,7 @@ class TrainContext:
 		logger.info("Starting training...")
 		train_output = trainer.train()
 		logger.info("Done training!")
-		print(train_output)
+		pprint(train_output)
 
 	def save_adapter(self) -> None:
 		logger.info("Saving trained adapter to disk...")
