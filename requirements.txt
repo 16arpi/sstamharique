@@ -1,0 +1,19 @@
+accelerate
+awscli
+datasets
+evaluate
+jiwer
+librosa
+loguru
+polars
+pip
+pyannote.audio
+python-dotenv
+ruff
+tqdm
+typer
+torch
+torchcodec
+transformers
+uroman
+-e .
