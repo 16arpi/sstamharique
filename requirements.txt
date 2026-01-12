@@ -1,3 +1,4 @@
+accelerate
 awscli
 datasets
 evaluate
