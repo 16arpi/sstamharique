@@ -279,7 +279,7 @@ class TrainContext:
 			push_to_hub=False,
 		)
 
-		trainer = Trainer(
+		self.trainer = Trainer(
 			model=self.model,
 			data_collator=data_collator,
 			args=training_args,
@@ -290,7 +290,7 @@ class TrainContext:
 		)
 
 		logger.info("Starting training...")
-		train_output = trainer.train()
+		train_output = self.trainer.train()
 		logger.info("Done training!")
 		pprint(train_output)
 
