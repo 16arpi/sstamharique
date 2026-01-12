@@ -3,8 +3,9 @@
 #################################################################################
 
 PROJECT_NAME = stt_amh
-PYTHON_VERSION = 3.12
-PYTHON_INTERPRETER = python
+PYTHON_VERSION = 3
+PYTHON_INTERPRETER = python$(PYTHON_VERSION)
+PROJECT_DIR := $(dir $(realpath $(lastword $(MAKEFILE_LIST))))
 
 #################################################################################
 # COMMANDS                                                                      #
@@ -15,7 +16,7 @@ PYTHON_INTERPRETER = python
 .PHONY: requirements
 requirements:
 	uv pip install -r requirements.txt
-	
+
 
 
 
@@ -44,26 +45,30 @@ format:
 .PHONY: sync_data_down
 sync_data_down:
 	aws s3 sync s3://tal-m2-amh/data/ \
-		data/ 
-	
+		data/
+	aws s3 sync s3://tal-m2-amh/models/ \
+		models/
+
 
 ## Upload Data to storage system
 .PHONY: sync_data_up
 sync_data_up:
 	aws s3 sync data/ \
-		s3://tal-m2-amh/data 
-	
+		s3://tal-m2-amh/data/
+	aws s3 sync models/ \
+		s3://tal-m2-amh/models/
+
 
 
 
 ## Set up Python interpreter environment
 .PHONY: create_environment
 create_environment:
-	uv venv --python $(PYTHON_VERSION)
+	uv venv --python $(PYTHON_VERSION) --system-site-packages
 	@echo ">>> New uv virtual environment created. Activate with:"
 	@echo ">>> Windows: .\\\\.venv\\\\Scripts\\\\activate"
 	@echo ">>> Unix/macOS: source ./.venv/bin/activate"
-	
+
 
 
 
