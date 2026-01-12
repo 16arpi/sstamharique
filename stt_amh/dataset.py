@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import contextlib
 from functools import partial
 import re
 from typing import Any
@@ -9,7 +10,7 @@ from loguru import logger
 from rich.pretty import pprint
 import typer
 
-from stt_amh.config import CV_DATASET, CV_DATASET_DESC
+from stt_amh.config import CV_DATASET, CV_DATASET_DESC, CV_DATASET_DIR
 
 app = typer.Typer()
 
@@ -68,7 +69,9 @@ def main():
 	ds = preprocess_dataset(ds)
 
 	pprint(ds)
-	ds.save_to_disk(CV_DATASET.as_posix())
+	# The paths in the CSV are relative...
+	with contextlib.chdir(CV_DATASET_DIR):
+		ds.save_to_disk(CV_DATASET.as_posix())
 
 
 if __name__ == "__main__":
