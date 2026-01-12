@@ -296,14 +296,17 @@ class TrainContext:
 
 	def save_adapter(self) -> None:
 		logger.info("Saving trained adapter to disk...")
+		save_dir = self.run_dir / "mms-1b-amh"
+
 		adapter_file = WAV2VEC2_ADAPTER_SAFE_FILE.format(self.target_lang)
-		adapter_file = self.trainer_output_dir / adapter_file
+		adapter_file = save_dir / adapter_file
 
 		safe_save_file(self.model._get_adapters(), adapter_file, metadata={"format": "pt"})
 
 		# Actually save the whole thing, as i'm not sure mixing our adapter with the stock model quite works...
 		logger.info("Saving model to disk...")
-		self.trainer.save_model(self.run_dir / "mms-1b-amh")
+		self.trainer.save_model(save_dir / "mms-1b-amh")
+		self.processor.save_pretrained(save_dir / "mms-1b-amh")
 
 
 @app.command()
