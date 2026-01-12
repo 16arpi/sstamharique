@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 from functools import partial
+import json
 import re
 
 from datasets import load_from_disk
+from evaluate import load
 from loguru import logger
 import torch
 from torchcodec.decoders import AudioDecoder
@@ -12,7 +14,7 @@ import typer
 from typing_extensions import Annotated
 import uroman as ur
 
-from stt_amh.config import CV_DATASET, PRETRAINED_AMH
+from stt_amh.config import CV_DATASET, PRETRAINED_AMH, REPORTS_DIR
 
 # Always enable color in loguru
 logger = logger.opt(colors=True)
@@ -26,6 +28,7 @@ class InferenceContext:
 		self.target_lang = "amh"
 		self.model_id = "facebook/mms-1b-all"
 		self.uroman = ur.Uroman()
+		self.wer = load("wer")
 
 	def load_dataset(self) -> None:
 		logger.info("Loading the dataset")
@@ -50,7 +53,7 @@ class InferenceContext:
 			logger.info(f"Using upstream <blue>{self.target_lang}</blue> adapter layers")
 			self.model.load_adapter(self.target_lang)
 
-	def run_asr(self, sample: AudioDecoder) -> tuple[str, str]:
+	def run_asr(self, sample: AudioDecoder, reference: str) -> tuple[str, str]:
 		inputs = self.processor(sample, sampling_rate=16_000, return_tensors="pt").to(self.model.device)
 
 		with torch.no_grad():
@@ -60,26 +63,31 @@ class InferenceContext:
 		transcription = self.processor.decode(ids)
 		romanized = self.uroman.romanize_string(transcription, lcode=self.target_lang)
 
+		# Compute the WER
+		wer = self.wer.compute(predictions=[transcription], references=[reference])
+
 		# Strip tags for loguru's sake...
 		safe_tr = re.sub(r"<[^<]+?>", "", transcription)
 		safe_ro = re.sub(r"<[^<]+?>", "", romanized)
 		logger.info(f"Transcription: <blue>{safe_tr}</blue>")
 		logger.info(f"Romanized: <green>{safe_ro}</green>")
+		logger.info(f"WER: <yellow>{wer:.4f}</yellow>")
 
 		return transcription, romanized
 
 
 @app.command()
-def main(with_custom_adapter: Annotated[bool, typer.Option(help="Use our own custom adapter")] = True) -> None:
+def main(custom_adapter: Annotated[bool, typer.Option(help="Use our own custom adapter")] = True) -> None:
 	"""Run a full inference test on the test dataset"""
 	ctx = InferenceContext()
 	ctx.load_dataset()
-	ctx.load_model()
+	ctx.load_model(custom_adapter)
 
 	results = []
 	for i, data_point in enumerate(tqdm(ctx.dataset["test"], desc="Inferencing...")):
 		sample = data_point["audio"]["array"]
-		transcription, romanized = ctx.run_asr(sample)
+		ref = data_point["sentence"]
+		transcription, romanized = ctx.run_asr(sample, ref)
 		results.append(
 			{
 				"sample": i,
@@ -87,6 +95,11 @@ def main(with_custom_adapter: Annotated[bool, typer.Option(help="Use our own cus
 				"romanized": romanized,
 			}
 		)
+
+	# Dump the results to disk
+	report = REPORTS_DIR / f"stt-test-{custom_adapter and 'custom' or 'stock'}.json"
+	with report.open("w") as f:
+		json.dump(results, f)
 
 
 if __name__ == "__main__":
