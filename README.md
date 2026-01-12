@@ -62,7 +62,7 @@ source .venv/bin/activate
 make requirements
 ```
 
-Pull the ready-to-go dataset:
+Pull the ready-to-go dataset and our pretrained adapter:
 ```bash
 make download_data
 ```

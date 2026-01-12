@@ -13,6 +13,10 @@ EXTERNAL_DATASETS := $(patsubst %,data/external/%,$(EXTERNAL_DATASET_FILES))
 PROCESSED_DATASET_FILES := mms/dataset.csv
 PROCESSED_DATASETS := $(patsubst %,data/processed/%,$(PROCESSED_DATASET_FILES))
 
+MODEL_FILES := amh-pretrained.tar.gz
+MODELS := $(patsubst %,models/%,$(MODEL_FILES))
+MODELS_CACHE := models/pretrained
+
 DATASETS := $(EXTERNAL_DATASETS) $(PROCESSED_DATASETS)
 
 #################################################################################
@@ -68,6 +72,9 @@ sync_data_up:
 	for dataset in $(EXTERNAL_DATASETS) ; do \
 		aws s3api put-object-acl --bucket tal-m2-amh --acl public-read --key $${dataset} ; \
 	done
+	for model in $(MODELS) ; do \
+		aws s3api put-object-acl --bucket tal-m2-amh --acl public-read --key $${model} ; \
+	done
 
 
 ## Download experiment data w/o S3
@@ -80,8 +87,17 @@ $(PROCESSED_DATASETS):
 		[[ "$${dataset}" == *.zip ]] && unzip "$${dataset}" -d data/processed/ ; \
 	done
 
+$(MODELS):
+	mkdir -p models
+	wget "https://tal-m2-amh.s3.gra.io.cloud.ovh.net/$@" -O "$@"
+
+$(MODELS_CACHE):
+	for model in $(MODELS) ; do \
+		[[ "$${model}" == *.tar.gz ]] && tar xvf "$${model}" -C models/ ; \
+	done
+
 .PHONY: download_data
-download_data: $(DATASETS)
+download_data: $(DATASETS) $(MODELS) $(MODELS_CACHE)
 
 ## Set up Python interpreter environment
 .PHONY: create_environment
