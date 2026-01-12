@@ -1,1 +1,1928 @@
-[{"sample": 0, "transcription": "\u12e8\u12ab\u12ed\u122e\u1295 \u134d\u120b\u130e\u1275 \u12e8\u121a\u1343\u122b\u122d \u1283\u12ed\u120d \u12c8\u12f0\u1225\u120d\u1323\u1295 \u12a5\u1295\u12f3\u12ed\u12c8\u1323\u1275 \u1230\u130b\u1208\u127d", "romanized": "yakaayerone felaagote yamitzaaraare xaayele wadaseletaane enedaayewataate sagaalache", "wer": 0.625}, {"sample": 1, "transcription": "\u12a8\u12da\u12eb\u121d \u120d\u1301 \u12a5\u1263\u12ad \u1205\u12f5 \u1218\u1277\u1295 \u12a5\u1294\u1209 \u1230\u12f3\u1275 \u1265\u120e \u12c8\u12f0 \u1264\u1271 \u12ed\u12df\u1275 \u1204\u12f0", "romanized": "kaziyaame leju ebaake hede matwane eneelu sadaate belo wada beetu yezwate heeda", "wer": 0.7}, {"sample": 2, "transcription": "\u12a8\u1263\u1205\u122d \u12cd\u1225\u122d \u12a0\u1263\u1271\u1295 \u120a\u12eb\u1308\u1299\u1275 \u12a5\u12e8\u1204\u12f1 \u120d\u1301\u1295 \u12a0\u1263\u1274 \u12a5\u1295\u12f0\u121d\u1290 \u1232\u120d\u1205 \u12a5\u130d\u12da\u12a0\u1265\u1214\u122d \u12e8\u1218\u1235\u1308\u12f0\u1293\u1208\u129d \u12a0\u120d\u1275\u1260\u120d", "romanized": "kabaahere wesere abaatune liyaaganyute eyaheedu lejune abaatee enedamena silehe egeziabehheere yamasegadanaalanye aletebale", "wer": 0.5714285714285714}, {"sample": 3, "transcription": "\u124b\u121a\u12cd\u1295 \u12ab\u120b\u1218\u1321 \u12e8\u121a\u12a8\u1270\u120b\u1278\u12cd \u1235\u1245\u120b\u1275 \u1290\u12cd\u1293 \u1229\u1245 \u12a5\u1293 \u1230\u134a \u130d\u12db\u1275\u1295 \u12eb\u12ab\u1208\u1208 \u134d\u1208\u130b \u12a0\u12f0\u1228\u1309", "romanized": "qwaamiwene kaalaamatu yamikatalaachawe seqelaate nawenaa ruqe enaa safi gezaatene yaakaalala felagaa adaragu", "wer": 0.18181818181818182}, {"sample": 4, "transcription": "\u1261 \u12a8\u134d\u1270\u129b \u12e8\u12a0\u12e8\u122d \u12f5\u1265\u12f0\u1263 \u12cd\u1235\u1325 \u12e8\u1275\u122b\u1295\u1235\u1356\u122d\u1275 \u12a5\u1295\u130d\u1235\u1243\u1234 \u12ed\u1240\u1325\u120f\u120d", "romanized": "bu kafetanyaa yaayare debedabaa wesete yateraaneseporete enegeseqaasee yeqatelwale", "wer": 0.7142857142857143}, {"sample": 5, "transcription": "\u1260\u1229\u1232\u12eb \u1260\u1235\u120d\u120b \u12ad\u1234\u1275 \u12a0\u1230\u1228\u12cd \u12a0\u121c\u122a\u12ab\u12ca \u130b\u12dc\u1320\u129b \u134d\u122d\u12f5 \u1264\u1275 \u1240\u1228\u1260", "romanized": "barusiyaa baselelaa keseete asarawe ameerikaawi gaazeetanyaa ferede beete qaraba", "wer": 0.3333333333333333}, {"sample": 6, "transcription": "\u12a8\u12c8\u122b\u1275 \u1260\u134a\u1275 \u12e8\u1270\u12f0\u1228\u1230\u12cd\u1295 \u130d\u132d\u1275\u1295 \u1260\u12d8\u120b\u1242\u1290\u1275 \u12e8\u121b\u1246\u121d \u1235\u121d\u121d\u1290\u1275 \u1270\u12a8\u1275\u1208\u12cd\u1295 \u1260\u1270\u12c8\u1230\u1290 \u1218\u120d\u12a9 \u12a2\u1295\u1270\u122d\u1294\u1275 \u1270\u1218\u120d\u1237\u120d \u1265\u120f\u120d", "romanized": "kawaraate bafite yatadarasawene gechetene bazalaaqinate yamaaqome sememenate takatelawene batawasana maleku inetareneete tamaleswale belwale", "wer": 0.07692307692307693}, {"sample": 7, "transcription": "\u120d\u1306\u127b\u1278\u12cd \u1233\u12ed\u1320\u130d\u1267\u1278\u12cd \u12a5\u1290\u122d\u1231\u121d \u12a5\u1295\u12f0\u1263\u1261 \u1260\u1240\u1291 \u12ad\u134d\u1208 \u130a\u12dc \u12f3\u130d\u121d \u120b\u12ed \u12e8\u1270\u12eb\u12e9\u1275 \u12a5\u1208\u12eb\u12eb\u1209", "romanized": "lejochaachawe saayetagebwachawe enaresume enedabaabu baqanu kefela gizee daageme laaye yatayaayute elayaayaalu", "wer": 0.3}, {"sample": 8, "transcription": "\u1260\u1309\u12f5\u1299\u1271 \u12e8\u12ad\u120d\u1209 \u122d\u12a5\u1235 \u12a0\u1295\u121d\u1235\u1275\u122b\u1276\u127d \u1218\u1295\u1325\u123d \u12a0\u12f2\u1233 \u1273\u1210\u129d\u1270\u12cb\u120d", "romanized": "bagudenyutu yakelelu reese anemeseteraatoche maneteshe adisaa taahhanyetawaale", "wer": 0.8571428571428571}, {"sample": 9, "transcription": "\u1260\u12ab\u12ed\u122e \u1218\u12f0\u1265\u122e\u127d \u1260\u121d\u130d\u12f5 \u1264\u1276\u127d \u1260\u1230\u12ce\u127d \u1264\u1275 \u12cd\u1235\u1325\u121d \u1231\u12f3\u1293\u12ca\u12eb\u1295 \u1230\u122b\u1270\u129e\u127d\u1295 \u121b\u12ed\u1275 \u12e8\u1270\u1208\u1218\u12f0 \u1290\u12cd", "romanized": "bakaayero madaberoche bamegede beetoche basawoche beete weseteme sudaanaawiyaane saraatanyochene maayete yatalamada nawe", "wer": 0.3333333333333333}, {"sample": 10, "transcription": "\u12ed\u1205\u1295\u1295\u121d \u121d\u120d\u12ad\u1275 \u1260\u1326\u122d\u1290\u1271 \u1260\u1201\u1208\u1271\u1295 \u1260\u12a9\u120d \u1263\u1209 \u1270\u12cb\u12e8\u12ce\u127d\u121d \u1232\u1208\u1260\u1235\u121d \u1273\u12a0\u12ed\u1277\u120d", "romanized": "yeheneneme melekete batorenatu bahulatune bakule baalu tawaayawocheme silabaseme taaayetwale", "wer": 0.3333333333333333}, {"sample": 11, "transcription": "\u12e8\u1215\u1265\u1228\u1271\u1295 \u1241\u120d\u134d \u1218\u122d\u1205 \u1308\u1262\u122b\u12ca \u1260\u121b\u12f5\u1228\u130d \u1275\u120d\u1245 \u121b\u1233\u12eb\u1296 \u1232\u1209\u121d \u1270\u1293\u130d\u1228\u12cb\u120d", "romanized": "yahheberatune qulefe marehe gabiraawi bamaaderage teleqe maasaayaano silume tanaagerawaale", "wer": 0.3}, {"sample": 12, "transcription": "\u1265\u12d9 \u12d3\u1218\u1275 \u1218\u1296\u122d \u12a5\u1295\u12f4\u1275 \u12a5\u1295\u127d\u120b\u1208\u1295", "romanized": "bezu aamate manore enedeete enechelaalane", "wer": 0.0}, {"sample": 13, "transcription": "\u12e8\u1304\u1294\u122b\u120d \u1230\u12d3\u1228 \u1218\u12b0\u1290\u1295 \u1264\u1270\u1230\u1266\u127d \u12a5\u1295\u12f2\u1201\u121d \u1304\u1294\u122b\u120d \u1218\u12ae\u1295\u1296\u127d \u12a5\u1293 \u12e8\u1304\u1294\u122b\u120d \u1230\u12d5\u122b \u12e8\u1240\u12f5\u1218\u12cd \u1263\u120d\u12f0\u122d\u130e\u127d \u1260\u1270\u1308\u1299\u1260\u1275 \u1290\u12cd", "romanized": "yajeeneeraale saaara makwanane beetasaboche enedihume jeeneeraale makonenoche enaa yajeeneeraale saeraa yaqademawe baaledaregoche bataganyubate nawe", "wer": 0.5}, {"sample": 14, "transcription": "\u1264\u1270 \u1230\u1265 \u12d8\u1218\u12f5 \u12a0\u12dd\u121b\u12f5 \u12a5\u1293 \u12c8\u12f3\u1306\u127f \u1200\u1308\u122d \u1264\u1275 \u1293\u1278\u12cd", "romanized": "beeta sabe zamade azemaade enaa wadaajocwa hagare beete naachawe", "wer": 1.1666666666666667}, {"sample": 15, "transcription": "\u1235\u1208\u12da\u1205 \u1290\u12cd \u12a0\u1263\u1275\u1205 \u12a0\u1348\u122d \u1218\u122c\u1275 \u12e8\u1230\u1320", "romanized": "selazihe nawe abaatehe afare mareete yasata", "wer": 0.16666666666666666}, {"sample": 16, "transcription": "\u12e8\u12a5\u1295\u1235\u1233\u12cd\u1324\u1295 \u12a5\u1290\u1275 \u12e8\u1270\u1218\u1228\u1218\u1228 \u12a5\u1293 \u12e8\u1225\u130b\u12cd \u121d\u1295\u132d \u1260\u12f0\u1295\u1264\u1275\u12c8\u1240 \u1218\u1206\u1295 \u12a5\u1295\u12f0\u121a\u1308\u1263\u12cd \u12ed\u1218\u12ad\u122b\u1209", "romanized": "yaenesesaaweteene enate yatamaramara enaa yasegaawe meneche badanebeetewaqa mahone enedamigabaawe yemakeraalu", "wer": 0.36363636363636365}, {"sample": 17, "transcription": "\u1260\u12a5\u12f5\u121c \u1275\u120d\u1241 \u12c8\u1295\u12f5 \u12f0\u130d\u121e \u12e8\u1218\u1276 \u12a0\u1235\u122b \u1236\u1235\u1275 \u12d3\u1218\u1271 \u126c\u1295\u12d9\u12cc\u120b\u12ca \u1206\u12cb\u1295 \u126a\u1295\u1234\u1295\u1274\u121e\u122b \u1293\u1278\u12cd", "romanized": "baedemee telequ wanede dagemo yamato aseraa sosete aamatu veenezuweelaawi howaane vineseeneteemoraa naachawe", "wer": 0.5}, {"sample": 18, "transcription": "\u1260\u12d3\u1209\u1295 \u12a8\u1270\u1278\u130d\u122e \u12c8\u1308\u1296\u127d \u130b\u122d \u12a0\u1265\u122e \u121b\u1233\u1208\u134d \u12a5\u1295\u12f0\u121a\u1308\u1263\u121d \u12a0\u1233\u1235\u1260\u12cb\u120d", "romanized": "baaalune katachagero waganoche gaare abero maasaalafe enedamigabaame asaasebawaale", "wer": 0.125}, {"sample": 19, "transcription": "\u12a8\u1348\u1295\u1302 \u1218\u1338\u12f3\u1275 \u12eb\u1208\u1260\u1275 \u1218\u122c\u1275 \u1218\u1320\u1290\u1230\u134a \u1260\u1218\u1206\u1291 \u1225\u122b\u12cd \u121b\u1246\u1218 \u12e8\u1208\u12cd\u121d", "romanized": "kafaneji matsadaate yaalabate mareete matanasafi bamahonu seraawe maaqoma yalaweme", "wer": 0.4}, {"sample": 20, "transcription": "\u1208\u130d\u12da\u1214\u122d \u121d\u1235\u130b\u1293 \u12ed\u1308\u1263\u12cb\u120d", "romanized": "lagezihheere mesegaanaa yegabaawaale", "wer": 0.3333333333333333}, {"sample": 21, "transcription": "\u12a8\u12a0\u134d\u122a\u12ab \u1205\u1265\u1228\u1275 \u12a8\u134d\u1270\u129b \u1270\u12c8\u12ab\u12ee\u127d \u1218\u12ab\u12a8\u120d \u12a0\u1295\u12f1 \u1260\u1218\u1206\u1295 \u1201\u1208\u1271 \u1270\u12cb\u130a \u1283\u12ed\u120e\u127d \u12eb\u12f0\u122b\u12f0\u122c \u1290\u1260\u1229\u1275 \u12e8\u12ac\u1293\u12cd \u1355\u122c\u12dd\u12f3\u1295\u1275 \u1290\u1260\u1229", "romanized": "kaaferikaa heberate kafetanyaa tawakaayoche makaakale anedu bamahone hulatu tawaagi xaayeloche yaadaraadaree nabarute yakeenaawe pereezedaanete nabaru", "wer": 0.4}, {"sample": 22, "transcription": "\u1348\u1295\u1302\u12ce\u1279 \u12a0\u12f0\u130b\u1295 \u12a8\u121b\u1235\u12a8\u1270\u120d \u1263\u1208\u1348 \u1260\u1270\u1240\u1229\u1267\u1278\u12cd \u12a0\u12ab\u1263\u1262\u12ce\u127d \u130d\u1265\u122d\u1293 \u12a5\u1293 \u130d\u1263\u1273\u12cd\u1295 \u1328\u121d\u122e \u1218\u1230\u1208\u1273 \u12a5\u1295\u1245\u1235\u1243\u1234\u12ce\u127d\u1295 \u12ed\u1308\u12f5\u1263\u1209", "romanized": "fanejiwochu adagaane kamaasekatale baalafa bataqarubwachawe akaabaabiwoche geberenaa enaa gebaataawene chamero masalataa eneqeseqaaseewochene yegadebaalu", "wer": 0.23076923076923078}, {"sample": 23, "transcription": "\u1273\u121b\u129d \u12e8\u121a\u1263\u120d\u1271 \u12cd\u123e\u127d \u1260\u1230\u12cd \u1225\u130b \u1241\u1295\u1323\u1295 \u1270\u12c8\u1325\u1228\u12cd \u12a5\u1295\u1245\u120d\u134d \u1270\u132d\u1296\u1278\u12cd \u12a0\u1208\u12a8\u1208\u12a9", "romanized": "taamaanye yamibaaletu weshoche basawe segaa qunetaane tawaterawe eneqelefe tachenochawe alakalaku", "wer": 0.2}, {"sample": 24, "transcription": "\u120b\u1265\u1293\u1271\u1295 \u134b\u123d \u12ed\u1320\u12ed\u1240\u1295", "romanized": "laabenaatune faashe yetayeqane", "wer": 1.0}, {"sample": 25, "transcription": "\u12e8\u121a\u12f0\u1295\u1240\u12cd \u12ed\u1205\u1295 \u12e8\u12a0\u1295\u12f5 \u12d3\u1218\u1275 \u134d\u122d\u12f5\u121d \u12a0\u120d\u1348\u1338\u1219\u1275 \u1295\u121d", "romanized": "yamidaneqawe yehene yaanede aamate feredeme alefatsamute neme", "wer": 0.3333333333333333}, {"sample": 26, "transcription": "\u12e8\u1308\u1320\u121b\u1275\u1295 \u12e8\u12cd\u132d \u121d\u1295\u12db\u122a \u1325\u1228\u1275 \u1260\u1218\u1238\u1348\u1295 \u12a0\u1235\u1348\u120b\u130a \u1208\u1206\u1291 \u12ed\u1308\u1262 \u121d\u1205\u122d\u1276\u127d \u12ad\u134d\u12eb \u1208\u1218\u1348\u1338\u121d \u12f5\u130b\u1275 \u12eb\u1235\u1348\u120d\u130b\u1273\u120d", "romanized": "yagatamaatene yaweche menezaari terate bamashafane asefalaagi lahonu yegabi meheretoche kefeyaa lamafatsame degaate yaasefalegaataale", "wer": 0.3076923076923077}, {"sample": 27, "transcription": "\u12a5\u1295\u1235\u1233\u1271 \u12a5\u1295\u12f4\u1275 \u12a5\u1293\u12e8\u1275 \u1290\u12cd \u12eb\u12f0\u1309\u1275 \u12e8\u121a\u1208\u12cd\u1295 \u1290\u12cd \u12ed\u120b\u1209 \u12e8\u1235\u1208\u121d\u130d\u1263\u1208\u1219\u12eb", "romanized": "enesesaatu enedeete enaayate nawe yaadagute yamilawene nawe yelaalu yaselamegebaalamuyaa", "wer": 0.4166666666666667}, {"sample": 28, "transcription": "\u12a8\u120c\u1309\u120b \u1208\u1218\u12cd\u1228\u12f5 \u12a8\u121a\u12f0\u1228\u1309\u1275 \u1295\u1245\u1295\u1246\u127d \u1218\u12ab\u12a8\u120d \u12a0\u1295\u12f1 \u12ed\u1205\u1328\u12cb\u1273 \u1290\u12cd", "romanized": "kaleegulaa lamawerade kamidaragute neqeneqoche makaakale anedu yehechawaataa nawe", "wer": 0.6666666666666666}, {"sample": 29, "transcription": "\u1260\u12da\u1205\u121d \u1270\u1235\u121b\u121d\u1270 \u12a5\u12f5\u12a9\u120b\u12cd\u121d \u1290\u1265\u1229\u1295 \u1233\u12ed\u1348\u122b \u1296\u122e \u1218\u12c8\u1348\u122d\u12a5\u1293 \u1290\u1265\u1229\u1295 \u121b\u1313\u1313\u1275 \u1300\u1218\u1228", "romanized": "baziheme tasemaameta edekulaaweme naberune saayefaraa noro mawafareenaa naberune maagwaagwaate jamara", "wer": 0.3}, {"sample": 30, "transcription": "\u1260\u1275\u12cd\u120d\u12f5 \u1266\u1273\u1278\u12cd \u12a0\u1235\u1218\u122b \u1260\u1210\u12dd\u12dd \u1218\u12ab\u1290\u1218\u1243\u1265\u122d \u1208\u121b\u12f5\u1228\u130d \u1348\u1243\u12f5 \u121b\u130d\u1298\u1275 \u12a5\u1295\u12f3\u120d\u127b\u1209 \u1353\u1235\u1270\u122d \u121a\u12ab\u120d \u12a0\u1235\u1228\u12f5\u1270\u12cb\u120d", "romanized": "batewelede botaachawe asemaraa bahhazeze makaanamaqaabere lamaaderage faqaade maagenyate enedaalechaalu paasetare mikaale aseradetawaale", "wer": 0.46153846153846156}, {"sample": 31, "transcription": "\u12a5\u1295\u12f0\u12da\u1205 \u12a5\u1295\u12f0\u12da\u1205 \u12a8\u1270\u1263\u1208 \u1266\u1273\u1290 \u12e8\u12c8\u12f0\u1240\u12cd\u12a0\u1208\u12cd", "romanized": "enedazihe enedazihe katabaala botaana yawadaqawealawe", "wer": 0.5714285714285714}, {"sample": 32, "transcription": "\u1204\u121d\u1272 \u1260\u12e8\u1218\u1295 \u12cd\u1235\u1325 \u1233\u12cd\u12f3 \u1228\u1265 \u12eb\u1208\u121d\u1275\u1218\u122b\u12cd \u1325\u121d\u122d \u1326\u122d \u12e8\u121a\u12cb\u1309 \u12c8\u1325\u1273\u12f0\u122e\u127d\u1295 \u1260\u1308\u134d \u1260\u121b\u1245\u1228\u1265 \u12ed\u1273\u12c8\u1243\u1209", "romanized": "heemeti bayamane wesete saawedaa rabe yaalametemaraawe temere tore yamiwaagu watetaadarochene bagafe bamaaqerabe yetaawaqaalu", "wer": 0.3076923076923077}, {"sample": 33, "transcription": "\u12e8\u1275\u129b\u12cd\u121d \u12a0\u1308\u122d \u12e8\u12a0\u1263\u12ed\u12c8\u1295 \u12da\u1295 \u1232\u1320\u1240\u121d \u1260\u120c\u120e\u127d \u12e8\u1270\u134b\u1230\u1231 \u1200\u1308\u122b\u1275 \u120b\u12ed \u12a8\u134d\u1270\u129b \u1309\u12f3\u1273 \u1208\u121b\u1235\u12a8\u1275\u1209\u1295 \u121b\u1228\u1270\u1308\u1323\u1208\u1260\u122d", "romanized": "yatenyaaweme agare yaabaayewane zine sitaqame baleeloche yatafaasasu hagaraate laaye kafetanyaa gudaataa lamaasekatelune maaratagataalabare", "wer": 0.5}, {"sample": 34, "transcription": "\u12a8\u12a0\u1295\u12f5 \u12e8\u1215\u1295\u1343 \u1270\u124b\u122b\u127d \u1308\u1295\u12dd\u122d \u1270\u1240\u1265\u1208\u12cd \u12eb\u120d\u1270\u1265\u1208\u12cd \u1290\u12cd \u1209\u120b \u1208\u12a5\u12dd\u122d \u12e8\u1270\u12f3\u1228\u1309\u1275", "romanized": "kaanede yahhenetzaa taqwaaraache ganezere taqabelawe yaaletabelawe nawe lulaa laezere yatadaaragute", "wer": 0.6}, {"sample": 35, "transcription": "\u130d\u12f5\u1261\u1295 \u1260\u12cd\u1203 \u12e8\u1218\u1219\u120b\u1275 \u1202\u12f0\u1275 \u1260\u121d\u1295\u12eb\u120d \u130a\u12dc \u12e8\u12a8\u1293\u12cd\u1295 \u12e8\u121a\u1208\u12cd \u1241\u120d\u134b \u1309\u12f3\u12ed \u1270\u1218\u12ad\u122f\u120d", "romanized": "gedebune bawehaa yamamulaate hidate bameneyaale gizee yakanaawene yamilawe qulefaa gudaaye tamakerwale", "wer": 0.38461538461538464}, {"sample": 36, "transcription": "\u121b\u1308\u120d\u1308\u120d \u12cb\u130b \u12d3\u1208\u121d \u12a5\u1235\u1320\u1275 \u12a5\u1293 \u121b\u1233\u1290\u1235\u12f5", "romanized": "maagalegale waagaa aalame esetate enaa maasaanasede", "wer": 1.25}, {"sample": 37, "transcription": "\u12e8\u12a0\u12f2\u1233\u1263\u1275 \u12a0\u12c8\u120b\u1306\u127d \u1260\u12a8\u1270\u121b \u12a0\u12d5\u12ab\u1262\u1294 \u12cd\u1235\u1325 \u1270\u1233\u1275\u134f\u1278\u12cd \u12a5\u1295\u12f2\u1328\u121d\u122d \u1270\u1320\u12e8\u1240", "romanized": "yaadisaabaate awalaajoche bakatamaa aekaabinee wesete tasaatefwachawe enedichamere tatayaqa", "wer": 0.5555555555555556}, {"sample": 38, "transcription": "\u12a5\u1294 \u12c8\u1228\u122b \u1295\u1243\u12c8\u121b\u1209", "romanized": "enee wararaa neqaawamaalu", "wer": 0.6666666666666666}, {"sample": 39, "transcription": "\u1236\u134b \u120b\u12ed \u12c8\u12ed\u1218\u129d\u1273\u1264\u1275 \u12a0\u1235\u1240\u121d\u1323\u12cb\u1278\u12cd \u1225\u122b\u1278\u12cd \u1218\u1328\u1228\u1235 \u120b\u12ed \u1290\u12cd \u1275\u12a9\u1228\u1273\u1278\u12cd", "romanized": "sofaa laaye wayemanyetaabeete aseqametaawaachawe seraachawe macharase laaye nawe tekurataachawe", "wer": 0.45454545454545453}, {"sample": 40, "transcription": "\u1325\u122c\u1232\u12ab \u12e8\u121a\u1218\u1308\u1261 \u1230\u12ce\u127d \u1218\u1205\u1260\u122b \u12e8\u1270\u1235\u1235\u122b\u1278\u12cd \u1290\u130d\u1228 \u1218\u1295\u1308\u12f5 \u12eb\u1270\u1293\u12ad\u122b\u1209", "romanized": "tereesikaa yamimagabu sawoche mahebaraa yataseseraachawe nagera manegade yaatanaakeraalu", "wer": 0.6666666666666666}, {"sample": 41, "transcription": "\u12e8\u1235\u1245\u120b\u1275 \u132d\u12ab\u1294 \u12a0\u1295\u12f1 \u121b\u1233\u12eb \u1290\u134d\u1235 \u12a8\u1235\u130b \u1235\u12ad\u1275\u120d \u120b\u12ed \u12f5\u1228\u1235 \u12e8\u121a\u1348\u1306 \u130a\u12dc \u1228\u1305\u121d \u1218\u1206\u1291 \u1290\u12cd", "romanized": "yaseqelaate chekaanee anedu maasaayaa nafese kasegaa seketele laaye derase yamifajo gizee rajeme mahonu nawe", "wer": 0.3076923076923077}, {"sample": 42, "transcription": "\u12a5\u12eb\u134d\u12f0\u12f1\u129d \u1290\u1260\u122d", "romanized": "eyaafedadunye nabare", "wer": 0.5}, {"sample": 43, "transcription": "\u1290\u1325\u1228\u12cd \u12e8\u12c8\u1321 \u12e8\u1218\u1230\u1209\u129d\u1295 \u12a0\u1295\u12f5 \u1201\u1208\u1275 \u1241\u121d \u1290\u1308\u122e\u127d\u1295 \u120b\u1295\u1233 \u1293 \u12a5\u1295\u12f5\u1273\u1290\u1261\u1275 \u120d\u1246\u1235\u1241\u1235", "romanized": "naterawe yawatu yamasalunyene anede hulate qume nagarochene laanesaa naa enedetaanabute leqosequse", "wer": 0.5555555555555556}, {"sample": 44, "transcription": "\u12a8\u12a0\u1218\u1273\u1275 \u1260\u120b\u12ed \u1270\u1208\u12eb\u1270\u12cd \u12e8\u1290\u1260\u1229 \u1264\u1270 \u1230\u12ce\u127d \u1208\u1218\u1300\u1218\u122a\u12eb \u130a\u12dc \u1218\u120a\u1230\u12cd \u1208\u121b\u1308\u1293\u1298\u1275 \u12a5\u1293 \u1208\u1218\u1290\u130b\u1308\u122d \u127d\u1208\u12cb\u120d", "romanized": "kaamataate balaaye talayaatawe yanabaru beeta sawoche lamajamariyaa gizee malisawe lamaaganaanyate enaa lamanagaagare chelawaale", "wer": 0.5}, {"sample": 45, "transcription": "ldldyldldldyljrylrlrlybylylylybylyrylylrylyldyry", "romanized": "ldldyldldldyljrylrlrlybylylylybylyrylylrylyldyry", "wer": 1}, {"sample": 46, "transcription": "\u1230\u1266\u1279\u121d \u1230\u121b\u1278\u12cd\u1295 \u12a5\u1295\u12f3\u12ed \u1320\u134b \u1260\u1218\u134d\u122b\u1275 \u1236\u1235\u1275 \u1235\u120d\u127b \u1320\u134d \u1230\u122d\u1270\u12cd \u1324\u12ed\u1349\u1295 \u12ed\u12d8 \u12c8\u12f0 \u1218\u1295\u12f0\u1229 \u1270\u1218\u1208\u1230", "romanized": "sabochume samaachawene enedaaye tafaa bamaferaate sosete selechaa tafe saretawe teeyefune yeza wada manedaru tamalasa", "wer": 0.6153846153846154}, {"sample": 47, "transcription": "\u12a8\u1202\u1233\u121b\u12c8\u122b\u1228\u12f3 \u1263\u12da\u120d \u1295\u12cd\u1323", "romanized": "kahisaamaawaraaradaa baazile newetaa", "wer": 1.0}, {"sample": 48, "transcription": "\u12a0\u1201\u1295 \u12dd\u121d\u1265\u120b\u127d \u12c8\u12f0 \u1218\u1295\u12f0\u122b\u127d\u12cd \u1270\u1218\u1208\u1231 \u12a5\u1293 \u1260\u128b\u120b \u12e8\u1308\u1263\u127d\u12cb\u120d \u1232\u120b\u1278\u12cd \u1270\u1290\u1225\u1270\u12cd \u1204\u12f1", "romanized": "ahune zemebelaache wada manedaraachewe tamalasu enaa baxwaalaa yagabaachewaale silaachawe tanasetawe heedu", "wer": 0.6363636363636364}, {"sample": 49, "transcription": "\u121b\u1230\u1265 \u1293 \u1218\u12c8\u1230\u1295 \u12a0\u1208\u1265\u1295", "romanized": "maasabe naa mawasane alabene", "wer": 0.6666666666666666}, {"sample": 50, "transcription": "\u12ad\u120d\u12a8\u120b\u12cd\u1295 \u12eb\u12f0\u1228\u1309\u1275 \u12ed\u120d\u1275\u1228 \u1263\u1208\u1225\u120d\u1323\u1293\u1275 \u1218\u1206\u1293\u1278\u12cd\u1295 \u1208\u1264\u1270\u1230\u1261 \u1245\u122d\u1265 \u12e8\u1206\u1291\u121d \u12a5\u1295\u1329\u1275 \u1208\u1262\u1262\u1232 \u12ed\u1275\u130d\u1228\u129b \u1308\u120d\u1338\u12cb\u120d", "romanized": "kelekalaawene yaadaragute yeletera baalaseletaanaate mahonaachawene labeetasabu qerebe yahonume enechute labibisi yetegeranyaa galetsawaale", "wer": 0.4166666666666667}, {"sample": 51, "transcription": "\u12a0\u1295\u12f5 \u1290\u1308\u122d \u1208\u121b\u12f5\u1228\u130d \u1201\u120d \u130a\u12dc \u1275\u130d\u120d \u1290\u12cd\u121d", "romanized": "anede nagare lamaaderage hule gizee tegele naweme", "wer": 0.5}, {"sample": 52, "transcription": "\u12e8\u12de\u1205\u1295 \u132d\u122b \u1265\u120b \u1218\u1208\u1270\u127d", "romanized": "yazohene cheraa belaa malatache", "wer": 0.5}, {"sample": 53, "transcription": "\u1218\u1228\u1308\u130b\u1275 \u12e8\u12e8\u121a\u1208\u12cd \u12a0\u1308\u120b\u1208\u1345 \u130d\u1265\u1345\u1295 \u1328\u121d\u122e \u1260\u1265\u12d9 \u12a0\u1295\u1263\u130d\u1295\u1295 \u1218\u1295\u130d\u1235\u1273\u1275 \u1270\u1243\u12cb\u121a \u12e8\u12ce\u127d\u1295 \u1208\u121b\u1348\u1295 \u12ed\u12cd\u120b\u120d", "romanized": "maragagaate yayamilawe agalaalatze gebetzene chamero babezu anebaagenene manegesetaate taqaawaami yawochene lamaafane yewelaale", "wer": 0.7272727272727273}, {"sample": 54, "transcription": "\u12ed\u1205 \u121c\u1295 \u121b\u1208\u1275 \u1290\u12cd \u1265\u1208\u1261 \u1218\u1295\u1308\u12f3\u1278\u12cd\u1295 \u1240\u1320\u1209", "romanized": "yehe meene maalate nawe belabu manegadaachawene qatalu", "wer": 0.2857142857142857}, {"sample": 55, "transcription": "\u121b\u121b\u12ed \u12a5\u1295\u12f3\u1270\u129d\u123a \u12a5\u12e8\u1218\u1323\u1201 \u1290\u12cd \u12e8\u121a\u1209 \u12f5\u121d\u1346\u127d \u1273\u12ad\u1232 \u1230\u120d\u134d \u120b\u12ed \u1233\u12ed\u1240\u122d \u12ed\u1230\u121b\u1209", "romanized": "maamaaye enedaatanyeshi eyamataahu nawe yamilu demetzoche taakesi salefe laaye saayeqare yesamaalu", "wer": 0.3333333333333333}, {"sample": 56, "transcription": "\u1235\u1208\u12da\u1205\u121d \u12a8\u12db\u122c \u1300\u121d\u122e \u12e8\u12ad\u120d\u120d\u120d\u12e9 \u1283\u12ed\u120d \u12e8\u121a\u1263\u120b \u12f0\u1228\u1303\u1300\u1275 \u12a5\u1293 \u1218\u12cb\u1245\u122d \u12e8\u1208\u121d", "romanized": "selaziheme kazaaree jamero yakeleleleyu xaayele yamibaalaa darajaajate enaa mawaaqere yalame", "wer": 0.36363636363636365}, {"sample": 57, "transcription": "\u12ed\u1205 \u121b\u123d\u1295 \u1260\u1270\u1320\u1243\u121a\u12ce\u127d \u12a8\u12a5\u1295\u1265\u122d\u1275 \u1260\u1273\u127d \u12c8\u12ed\u121d \u1260\u1273\u127d\u129b\u12cd \u1300\u122d\u1263 \u120b\u12ed \u12e8\u121a\u1208\u1325\u1349\u1275 \u1290\u12cd", "romanized": "yehe maashene batataqaamiwoche kaeneberete bataache wayeme bataachenyaawe jarebaa laaye yamilatefute nawe", "wer": 0.09090909090909091}, {"sample": 58, "transcription": "\u12e8\u12e9\u12ad\u122c\u12ed\u1295 \u12c8\u1273\u12f6\u127d \u1229\u1232\u12eb \u1240\u1235\u1260\u1240\u1235 \u12a5\u12eb\u1238\u1290\u1348\u127d \u1290\u12cd \u12a0\u1209", "romanized": "yayukereeyene wataadoche rusiyaa qasebaqase eyaashanafache nawe alu", "wer": 0.5}, {"sample": 59, "transcription": "\u12a82 \u12d3\u121d \u1260\u134a\u1275 \u12e8\u12c8\u122b\u1260\u1263 \u1205\u1218\u121d\u1295\u12f5 \u1208\u1218\u1240\u1290\u1235 \u12e8\u121a\u1228\u12f3 \u1274\u12ad\u1296\u120e\u12e5\u1295 \u1260\u1270\u1218\u1208\u12a8\u1270 \u1260\u121b\u1260\u122b \u121c\u12f5\u12eb \u120b\u12ed \u12a0\u12e8\u127d", "romanized": "ka2 aame bafite yawaraababaa hemamenede lamaqanase yamiradaa teekenolozhene batamalakata bamaabaraa meedeyaa laaye ayache", "wer": 0.5714285714285714}, {"sample": 60, "transcription": "\u12a8\u130b\u1203\u1321 \u12a8\u1265\u1276\u127d \u1260\u1218\u1240\u1320\u120d\u121d \u12a8\u12f0\u1208\u1261 \u12a8\u1265\u1276\u127d \u12e8\u121a\u130d\u129d \u1225\u130b \u1260\u1245\u12f0\u121d \u1270\u12a8\u1275\u1295 \u12a5\u1295\u12f0\u121a\u1240\u1218\u1325 \u1218\u1211\u1229 \u12eb\u1235\u1228\u12f3\u1209", "romanized": "kagaahaatu kabetoche bamaqataleme kadalabu kabetoche yamigenye segaa baqedame takatene enedamiqamate mahhuru yaaseradaalu", "wer": 0.4166666666666667}, {"sample": 61, "transcription": "\u12ed\u1205 \u12f0\u130d\u121e \u12a0\u12ab\u120b\u12ed \u12a5\u12f5\u1308\u1275 \u1265\u127b \u12e8\u121a\u1218\u1208\u12a8\u1275 \u1290\u12cd", "romanized": "yehe dagemo akaalaaye edegate bechaa yamimalakate nawe", "wer": 0.2857142857142857}, {"sample": 62, "transcription": "\u1320\u1245\u120b\u12ed \u121a\u1292\u1235\u1275\u122d \u12a0\u1265\u12eb\u1205\u121d\u122d \u1208\u1275\u1295\u1233\u12ed \u1260\u12d3\u120d \u12e8\u12a5\u1295\u12b3\u1293 \u12f0\u1228\u1233\u1278\u12cd \u1218\u120d\u12ad\u1275 \u12a0\u1235\u1270\u120b\u120d\u134f\u120d", "romanized": "taqelaaye minisetere abeyaahemere latenesaaye baaale yaenekwaanaa darasaachawe malekete asetalaalefwale", "wer": 0.7}, {"sample": 63, "transcription": "\u1326\u122d\u1290\u1271 \u12a8\u1236\u1235\u1275 \u12a0\u1235\u122d\u1275 \u12d3\u1218\u1273\u1275 \u1260\u128b\u120b \u1260\u12a0\u12cd\u1353 \u12e8\u1291 \u1201\u1208\u12750\u1205 \u1201\u1208\u1275 \u1290\u1260\u122d \u12e8\u1325\u1313\u1278\u12cd", "romanized": "torenatu kasosete aserete aamataate baxwaalaa baawepaa yanu hulate0he hulate nabare yategwaachawe", "wer": 0.45454545454545453}, {"sample": 64, "transcription": "\u1208\u12da\u1205 \u12a6\u1355\u122c\u123d\u1290\u1275 \u1233\u12ab\u1275 \u1302\u1261\u1272 \u12a2\u1275\u12ee\u1335\u12eb \u12a5\u1293 \u1233\u12cd\u12f5 \u12a0\u1228\u1262\u12eb\u1295\u121d \u12a0\u1218\u1235\u130d\u1290\u12cb\u120d", "romanized": "lazihe opereeshenate saakaate jibuti iteyopheyaa enaa saawede arabiyaaneme amasegenawaale", "wer": 0.3333333333333333}, {"sample": 65, "transcription": "\u1208\u12f2\u120b \u12e9\u1292\u1268\u122d\u1232\u1272\u12cd \u1218\u121d\u1214\u122d \u12f6\u12ad\u1270\u122d \u12ed\u1206\u1294 \u1260\u1236\u1235\u1271 \u121d\u1295\u1235\u1233\u1275 \u1225\u130b \u12cd\u1235\u1325 \u12e8\u121a\u1308\u1299\u1275 \u1295\u1325\u1228 \u121d\u130d\u1266\u127d \u1270\u1218\u1233\u1233\u12ed \u1293\u1278\u12cd", "romanized": "ladilaa yunivaresitiwe mamehheere doketare yehonee basosetu menesesaate segaa wesete yamiganyute netera megeboche tamasaasaaye naachawe", "wer": 0.35714285714285715}, {"sample": 66, "transcription": "\u1275\u12a9\u1228\u1275\u1295 \u1218\u1235\u1270\u1275 \u1218\u1295\u1348\u1233 \u12ca\u1290\u1275 \u121b\u130e\u122d\u1260\u1275 \u1260\u1325\u121e\u1293 \u12d8\u1208\u130d \u120b\u1208 \u1230\u12d3\u1275 \u1218\u1246\u12d5\u12e8\u1275 \u12a5\u1293 \u122b\u1235 \u121b\u1238\u123b\u120d \u1293\u12cd \u12e8\u120b\u1209 \u1260\u1218\u133b\u134b\u1278\u12cd", "romanized": "tekuratene masetate manefasaa winate maagorebate batemonaa zalage laala saaate maqoeyate enaa raase maashashaale naawe yalaalu bamatsaafaachawe", "wer": 0.6666666666666666}, {"sample": 67, "transcription": "\u12a0\u1295\u12f5 \u1233\u1295\u1261\u1233 \u1260\u12a0\u121b\u12a8\u129d 2\u120800 \u1203\u121d\u1233 \u12ab\u122e\u120a\u1295 \u12a0\u1208\u12cd", "romanized": "anede saanebusaa baamaakanye 2la00 haamesaa kaaroline alawe", "wer": 0.75}, {"sample": 68, "transcription": "\u12a0\u122b\u1275 \u12d3\u121d\u1325 \u12a8\u1275\u121d\u1205\u122d\u1275 \u1264\u1275 \u12d5\u122d\u1240\u12cd \u12e8\u1246\u12ed \u12c8\u12f0 \u1275\u121d\u1205\u122d\u1275 \u1264\u1275 \u1218\u1218\u1208\u1235 \u12ed\u1348\u120d\u130b\u1209", "romanized": "araate aamete katemeherete beete ereqawe yaqoye wada temeherete beete mamalase yefalegaalu", "wer": 0.45454545454545453}, {"sample": 69, "transcription": "\u1260\u1262\u123e\u134d\u1271 \u12a0\u12f2\u1235 \u12e8\u12a2\u1295\u12f1\u1235\u1275\u122a \u1353\u122d\u12ad \u1208\u1218\u1308\u1295\u1263\u1275 \u12e8\u121a\u12eb\u1235\u127d\u1228\u12cd\u1295 \u1235\u121d\u121d\u1290\u1275 \u12a8\u12a2\u1275\u12ee\u1335\u12eb \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u12ae\u121a\u123d\u1295 \u130b\u122d \u1270\u1348\u122b\u122d\u121f\u120d", "romanized": "babishofetu adise yaineduseteri paareke lamaganebaate yamiyaasecherawene sememenate kaiteyopheyaa inevasetemanete komishene gaare tafaraaremwale", "wer": 0.08333333333333333}, {"sample": 70, "transcription": "\u12e8\u12a2\u1275\u12ee\u1335\u12eb\u127d\u1295 \u1275\u1295\u1233\u12a4 \u12a5\u1295\u12f0\u121a\u1233\u12ab \u121d\u1295\u121d \u1325\u122d\u1325\u122d \u12e8\u1208\u12cd", "romanized": "yaiteyopheyaachene tenesaaee enedamisaakaa meneme teretere yalawe", "wer": 0.3333333333333333}, {"sample": 71, "transcription": "\u12a8\u12a0\u1201\u1295 \u1260\u128b\u120b \u12a8\u1264\u1270 \u1218\u1295\u130d\u1225\u1275 \u12e8\u122d\u1243\u127d\u1201 \u1200\u1275\u121e\u1229\u121d", "romanized": "kaahune baxwaalaa kabeeta manegesete yareqaachehu hatemorume", "wer": 0.5}, {"sample": 72, "transcription": "\u12ed\u1205 \u1290\u12cd \u12a8\u121a\u1263\u120d \u1235\u121d\u121d\u1290\u1275 \u120b\u12ed \u12eb\u120d\u12f0\u1228\u1231\u121d", "romanized": "yehe nawe kamibaale sememenate laaye yaaledarasume", "wer": 0.16666666666666666}, {"sample": 73, "transcription": "\u1260\u1218\u133d\u1210\u134d \u1245\u12f1\u1235 \u1218\u1220\u1228\u1275 \u12e8\u122e\u121b \u12c8\u1273\u12f0\u122e\u127d \u12a8\u12a2\u12e8\u1231\u1235 \u130b\u122d \u12a0\u1265\u1228\u12cd \u12e8\u1270\u1230\u1240\u1229\u1275 \u1201\u1208\u1275 \u12c8\u1295\u1300\u120e\u127d\u1295 \u12a5\u130d\u122d \u1230\u1265\u1228\u12cb\u120d", "romanized": "bamatsehhafe qeduse masarate yaromaa wataadaroche kaiyasuse gaare aberawe yatasaqarute hulate wanejalochene egere saberawaale", "wer": 0.07692307692307693}, {"sample": 74, "transcription": "\u12cd\u1245\u12a5\u1293 \u12a8\u1270\u1230\u1323\u1278\u12cd \u12e8\u12d3\u12ed\u121b\u1296\u1275 \u1218\u122a\u12ce\u127d \u12cd\u132a \u12eb\u1209 \u12a5\u121d\u1290\u1276\u127d \u12e8\u121d\u122b\u1263\u12cd\u12eb\u1293 \u1305\u1295\u12f3\u1218\u1235\u1348\u133d\u121a\u12eb\u1293\u1278\u12cd \u12ed\u120b\u1209", "romanized": "weqeenaa katasataachawe yaaayemaanote mariwoche wechi yaalu emenatoche yameraabaaweyaanaa jenedaamasefatsemiyaanaachawe yelaalu", "wer": 0.6363636363636364}, {"sample": 75, "transcription": "\u12a0\u1235\u12ad\u122c\u1293\u1278\u12cd \u1260\u1206\u1235\u1352\u1273\u120d \u12a5\u1295\u12f0\u121a\u1308\u129d \u1208\u12f0\u1205\u1295\u1290\u1273\u1278\u12cd \u1232\u1263\u120d \u1235\u121b\u1278\u12cd\u1295 \u12ed\u121d\u1295 \u1320\u1245\u1233\u1278\u12cd \u121d\u1295\u132e\u127d \u1270\u1293\u130d\u1228\u12cb\u120d", "romanized": "asekereenaachawe bahosepitaale enedamiganye ladahenenataachawe sibaale semaachawene yemene taqesaachawe menechoche tanaagerawaale", "wer": 0.3333333333333333}, {"sample": 76, "transcription": "\u1208\u1275\u12cd\u120d\u12f5 \u12a0\u122b\u12eb \u12e8\u121a\u1206\u1295 \u1264\u1270 \u12ad\u1290\u1275 \u12a5\u1295\u12f2\u1296\u12c8\u122d \u1208\u121b\u12f5\u1228\u130d \u12a0\u1220\u122b\u122f\u1295 \u1260\u1325\u1293\u1275 \u1270\u123b\u123d\u120e \u1264\u1270 \u12ad\u122d\u1235\u1272\u12eb\u1293\u12cb \u1208\u1275\u12cd\u120d\u12f5 \u121b\u123b\u1308\u122d", "romanized": "latewelede araayaa yamihone beeta kenate enedinoware lamaaderage asaraarwane batenaate tashaashelo beeta keresetiyaanaawaa latewelede maashaagare", "wer": 0.42857142857142855}, {"sample": 77, "transcription": "\u12e8\u12a5\u122d\u123b\u12cd\u1295 \u1260\u122c \u1225\u122b\u12cd\u1291\u1295 \u1260\u1230\u120b\u1295 \u12a8\u1218\u1235\u122b\u1275 \u12ed\u120d\u1245 \u1260\u1240\u1295\u12f1 \u12ed\u12c8\u130b\u1278\u12cd", "romanized": "yaereshaawene baree seraawenune basalaane kamaseraate yeleqe baqanedu yewagaachawe", "wer": 0.5}, {"sample": 78, "transcription": "\u1260\u1300\u122d\u1218\u1293\u12ca\u12cd \u1338\u1210\u134a \u12a2\u12e9\u1265\u1209\u12f6\u120d\u134d \u12a5\u1293 \u12a2\u1275\u12ee\u1335\u12eb\u12ca \u12a0\u1263\u130e\u122d\u130e\u122a\u12cd\u1235\u1275\u1265\u1265\u122d \u12e8\u1270\u12f0\u1228\u1230 \u12eb\u121b\u1228\u129b \u1218\u12dd\u1308\u1260\u1245 \u12a0\u120b\u1275 \u1290\u12cd", "romanized": "bajaremanaawiwe tsahhafi iyubeludolefe enaa iteyopheyaawi abaagoregoriwesetebebere yatadarasa yaamaaranyaa mazegabaqe alaate nawe", "wer": 0.6428571428571429}, {"sample": 79, "transcription": "\u12a5\u122d\u1231\u121d \u12c8\u120b\u1306\u127d\u123d \u12a5\u1290\u121b\u1293\u1278\u12cd \u1265\u120e \u1232\u1320\u12ed\u1240\u1275 \u12a5\u122d\u1237\u121d \u12a5\u1294 \u12e8\u121b\u12cd\u1243\u1275 \u12a5\u1293\u1274\u129d \u1265\u127b \u1290\u12cd", "romanized": "eresume walaajocheshe enamaanaachawe belo sitayeqate ereswame enee yamaaweqaate enaateenye bechaa nawe", "wer": 0.3333333333333333}, {"sample": 80, "transcription": "\u12a8\u12da\u12eb\u121d \u12c8\u12f0 \u1264\u1276 \u12a0\u12c8\u1235\u12f3\u12cd \u12a8\u1270\u122b\u122b \u120b\u12ed \u12e8\u121a\u12d8\u122b\u12cd \u1295\u12d8\u122d \u1230\u1320\u127d\u12cd", "romanized": "kaziyaame wada beeto awasedaawe kataraaraa laaye yamizaraawe nezare satachewe", "wer": 0.4444444444444444}, {"sample": 81, "transcription": "\u12606\u120d0\u12ce\u1279 \u12cd\u12f5\u121c \u12e8 \u12cd\u1235\u1325 \u12e8\u121a\u1308\u1299\u1291\u1275 \u1353\u1235\u1270\u122d \u1270\u1235\u134b\u12a4 \u1263\u1208\u1270\u12f3\u122d\u1293 \u12eb\u1295\u12f5\u120d\u1303\u1200\u1263\u1275 \u1290\u1260\u1229", "romanized": "ba6le0wochu wedemee ya wesete yamiganyunute paasetare tasefaaee baalatadaarenaa yaanedelejaahabaate nabaru", "wer": 0.75}, {"sample": 82, "transcription": "\u1270\u1348\u1228\u12f0\u1263\u1278\u12cd \u12a5\u1293 \u12dd\u1265\u1325 \u12eb\u12c8\u1228\u12f1", "romanized": "tafaradabaachawe enaa zebete yaawaradu", "wer": 1.3333333333333333}, {"sample": 83, "transcription": "\u1264\u1270\u12d8\u121d\u122e\u1279 \u12a0\u1293 \u12c8\u12f3\u1306\u1279 \u12a0\u1232\u1308\u12f0\u1209 \u130d\u1295 \u121b\u123d\u12c8\u1277 \u12a0\u1265\u1228\u12cd \u1218\u12c8\u1270 \u1263\u1208\u1206\u1290\u1275 \u12c8\u1228\u1233\u1275", "romanized": "beetazamerochu anaa wadaajochu asigadalu gene maashewatwa aberawe mawata baalahonate warasaate", "wer": 1.0}, {"sample": 84, "transcription": "\u12a0\u121c\u122a\u12ab \u1260\u1235\u1270\u1275\u1290 \u12e8\u1235\u1275 \u12e8\u1348\u1228\u1295\u1306\u127d \u1232\u1206\u1295 \u12a8\u12a5\u1235\u122d \u1208\u121b\u1235\u1348\u1273\u1275\u1295 \u1260\u122d\u1240\u1273\u1325\u1228\u1270\u1275 \u12a5\u12e8\u1270\u12f0\u1228\u1309 \u1290\u12cd", "romanized": "ameerikaa basetatena yasete yafaranejoche sihone kaesere lamaasefataatene bareqataateratate eyatadaragu nawe", "wer": 0.6153846153846154}, {"sample": 85, "transcription": "\u1235\u1354\u1295 \u1235\u12f5\u1235\u1275 \u12a0\u12cd\u122e\u1355\u120b\u1296\u127d \u12c8\u12f0 \u1305\u1261\u1275 \u12e8\u1218\u120b\u12b3\u1295 \u12a0\u1235\u1273\u12cd\u1243\u1208\u127d", "romanized": "sepeene sedesete aweropelaanoche wada jebute yamalaakwaane asetaaweqaalache", "wer": 0.2857142857142857}, {"sample": 86, "transcription": "\u1275\u12ca\u1270\u122d \u12a8\u1275\u120b\u1295\u1275 \u1300\u121d\u122e \u1260\u123a\u12ce\u127d \u12e8\u121a\u1246\u1320\u122a \u1270\u12cb\u1305 \u1235\u12ce\u127d\u1295 \u1230\u121b\u12ed \u12e8\u121b\u1228\u130b \u1308\u132b \u121a\u120d\u12ad\u1275 \u121b\u1295\u1233\u1275 \u1300\u121d\u1228\u120d", "romanized": "tewitare katelaanete jamero bashiwoche yamiqotari tawaaje sewochene samaaye yamaaragaa gachaa milekete maanesaate jamerale", "wer": 0.6666666666666666}, {"sample": 87, "transcription": "\u12a0\u121c\u122a\u12ab\u12ca\u12cd \u130b\u12dc\u1320\u129b \u12a2\u126b\u1295 \u130c\u122d\u123e\u12ae\u126a\u127d \u12e8\u12a5\u1235\u1229\u1295 \u1201\u1294\u1273 \u12ed\u130d\u1263\u129d \u1208\u121b\u1208\u1275 \u121e\u1235\u12a9 \u1260\u121a\u1308\u1299 \u134d\u122d\u12f5 \u1264\u1275 \u1240\u1228\u1260", "romanized": "ameerikaawiwe gaazeetanyaa ivaane geereshokoviche yaeserune huneetaa yegebaanye lamaalate moseku bamiganyu ferede beete qaraba", "wer": 0.23076923076923078}, {"sample": 88, "transcription": "\u1260\u12ac\u1295\u12eb \u122b\u1233\u1278\u12cd\u1295 \u12a0\u1235\u122d\u1260\u12cd \u1232\u1338\u1209 \u12e8\u121e\u1271\u1293\u1278\u12cd \u12e8\u1270\u1263\u1209 \u12e8\u12eb\u1295\u12f5 \u1230\u12ce\u127d \u12a0\u1235\u12ad\u122c\u1275\u1295 \u1270\u1308\u1298", "romanized": "bakeeneyaa raasaachawene aserebawe sitsalu yamotunaachawe yatabaalu yayaanede sawoche asekereetene taganya", "wer": 0.5833333333333334}, {"sample": 89, "transcription": "\u12e8\u1263\u1208\u1349 \u12d3\u1218\u1275 \u12e8\u1208\u1295\u12f5\u1295 \u1218\u122b\u1275\u1206\u1295 \u12cd\u12f5\u12f5\u122d \u12a0\u1238\u1293\u134a\u12cb \u12eb\u12d3\u1208\u121d \u12d8\u122d\u134d \u12e8\u128b\u120b\u12cd \u12ad\u1265\u122f\u1295 \u1208\u121b\u1235\u1320\u1260\u1245 \u1275\u122e\u1323\u1208\u127d", "romanized": "yabaalafu aamate yalanedene maraatehone wededere ashanaafiwaa yaaaalame zarefe yaxwaalaawe keberwane lamaasetabaqe terotaalache", "wer": 0.36363636363636365}, {"sample": 90, "transcription": "\u1338\u1265 \u1260\u1230\u12cd \u120d\u1306\u127d \u1235\u1270\u1275 \u121d\u12ad\u1295\u12eb\u1275 \u12e8\u1218\u1323 \u1290\u12cd", "romanized": "tsabe basawe lejoche setate mekeneyaate yamataa nawe", "wer": 0.14285714285714285}, {"sample": 91, "transcription": "\u1293\u1219\u1293 \u1270\u12c8\u1235\u12f6 \u121d\u122d\u1218\u122b \u12a5\u1295\u12f0\u121a\u12f0\u1228\u130d \u12d8\u1235\u1273\u1295\u12f3\u122d\u12f1 \u12e8\u1270\u1263\u1208\u12cd \u12e8\u12ac\u1295\u12eb \u130b\u12dc\u1323 \u12d8\u130d\u1267\u120d", "romanized": "naamunaa tawasedo meremaraa enedamidarage zasetaanedaaredu yatabaalawe yakeeneyaa gaazeetaa zagebwale", "wer": 0.1111111111111111}, {"sample": 92, "transcription": "\u12e8\u1218\u1300\u1218\u122a\u12eb\u12cd \u121d\u12ad\u122d \u1260\u12a5\u1305\u1205 \u12eb\u1208\u12cd\u1295 \u1290\u1308\u122d \u12a0\u1275\u120d\u1240\u1245", "romanized": "yamajamariyaawe mekere baejehe yaalawene nagare ateleqaqe", "wer": 0.0}, {"sample": 93, "transcription": "\u1304\u1294\u122b\u120d \u1261\u1228\u1203\u1295 \u12e8\u1228\u1305\u121d \u12d8\u1218\u1295 \u12c8\u1273\u12f0\u122d \u1293\u1278\u12cd", "romanized": "jeeneeraale burahaane yarajeme zamane wataadare naachawe", "wer": 0.3333333333333333}, {"sample": 94, "transcription": "\u1260\u12da\u1205\u121d \u130d\u1265\u1345 66 \u1260\u1218\u1276 \u12e8\u12cd\u1203 \u12f5\u122d\u123b \u1232\u1296\u122b\u1275 202 \u1260\u12180 \u12f0\u130d\u121e \u12e8\u1231\u12f3\u1295 \u1290\u12cd", "romanized": "baziheme gebetze 66 bamato yawehaa dereshaa sinoraate 202 bama0 dagemo yasudaane nawe", "wer": 0.35714285714285715}, {"sample": 95, "transcription": "\u1260\u12a0\u1201\u1291 \u12c8\u1245\u1275 \u12e8\u1201\u1208\u1270\u129b \u12f0\u1228\u1303 \u1275\u121d\u1205\u122d\u1275 \u1264\u1275 \u12a5\u12eb\u1208\u127d \u1260\u12a0\u124b\u124b\u1218\u1279 \u1355\u122e\u12f3\u12ad\u123d\u1295 \u12a9\u1263\u1295\u12eb\u12e8\u1230\u122b\u127d \u1290\u12cd", "romanized": "baahunu waqete yahulatanyaa darajaa temeherete beete eyaalache baaqwaaqwaamachu perodaakeshene kubaaneyaayasaraache nawe", "wer": 0.25}, {"sample": 96, "transcription": "\u12a5\u1295\u12f0\u121b\u1275\u1240\u1260\u120d \u1260\u1270\u1228\u130b\u130b \u121a\u1235\u1275\u1308\u120d\u12dd \u1246\u12ed\u1273\u1208\u127d", "romanized": "enedamaateqabale bataragaagaa misetegaleze qoyetaalache", "wer": 0.5}, {"sample": 97, "transcription": "\u12a5\u1293\u1276 \u12a0\u1348\u1295\u1303\u121d\u12ab\u129d \u12c8\u12ed\u121d \u1260\u1200\u1308\u122c\u12cd \u124b\u1295\u124b \u12a5\u1295\u12f5\u1275\u1206\u1295 \u12eb\u12f0\u1228\u130b\u1275\u1295 \u121d\u12ad\u1295\u12eb\u1275 \u12c8\u12f0\u134a\u1275 \u12a5\u1295\u12f0\u121d\u1275\u1228\u12f3 \u1204\u1208\u1293 \u1219\u1209\u121d\u1290\u1275 \u12a0\u120b\u1275", "romanized": "enaato afanejaamekaanye wayeme bahagareewe qwaaneqwaa enedetehone yaadaragaatene mekeneyaate wadafite enedameteradaa heelanaa mulumenate alaate", "wer": 0.4}, {"sample": 98, "transcription": "\u12ed\u1205 \u1265\u127b \u1260\u1242\u1275 \u120b\u120d\u1206\u1290 \u1208\u121d\u1295 \u12a0\u1295\u12f5 \u1240\u1295 \u12a0\u1265\u1228\u1295 \u12a0\u1293\u12f5\u122d\u121d", "romanized": "yehe bechaa baqite laalehona lamene anede qane aberane anaadereme", "wer": 0.2222222222222222}, {"sample": 99, "transcription": "\u1260\u1270\u1208\u12ed \u1260\u1270\u1208\u12ed \u12a5\u1295\u12f0\u12ed\u1201\u12f3 \u1200\u1308\u122d\u1295 \u1260\u123d\u1229\u123e\u122b\u134a \u1233\u1295\u1272\u12ad \u1208\u1218\u1238\u1324 \u12e8\u121b\u12eb\u1218\u1290\u1271 \u1230\u12ce\u127d\u1295 \u12ed\u12d8\u1295 \u130d\u12df\u127d\u1295 \u1240\u1208\u120d \u12a0\u12ed\u1206\u1295\u121d", "romanized": "batalaye batalaye enedayehudaa hagarene basherushoraafi saanetike lamashatee yamaayaamanatu sawochene yezane gezwachene qalale ayehoneme", "wer": 0.5}, {"sample": 100, "transcription": "\u120d\u1265 \u120d\u1271\u120d \u12e8\u121a\u1308\u1260\u12cd \u12e8\u121a\u1240\u122d\u1261 \u121d\u130d\u1266\u127d\u1295 \u1260\u1219\u1209 \u1218\u1265\u120b\u1275 \u12a5\u1295\u12f0\u120c\u1208\u1263\u1279 \u1290\u12cd \u12ed\u120b\u1209 \u1263\u1208\u1219\u12eb\u12ce\u1279", "romanized": "lebe letule yamigabawe yamiqarebu megebochene bamulu mabelaate enedaleelabaachu nawe yelaalu baalamuyaawochu", "wer": 0.2727272727272727}, {"sample": 101, "transcription": "\u1260\u12f5\u1228\u130b\u1308\u121a \u12ed\u1323\u1230\u1290\u12cd \u12ab\u1208 \u1260\u128b\u120b \u12a8\u1215\u130d \u1215\u130d\u1263\u1265 \u12cd\u132a \u12e8\u1273\u1235\u1229 \u12c8\u1324\u1296\u127d \u12a5\u1295\u12f2\u1348\u1271 \u1260\u1218\u130d\u1208\u132b\u12cd \u1320\u12ed\u124b\u120d", "romanized": "baderagaagami yetaasanawe kaala baxwaalaa kahhege hhegebaabe wechi yataaseru wateenoche enedifatu bamagelachaawe tayeqwaale", "wer": 0.46153846153846156}, {"sample": 102, "transcription": "\u12dd\u122d\u12dd\u122d \u1218\u1228\u1303\u12ce\u127d\u1295 \u1218\u1219\u120b\u1275 \u12e8\u121a\u1320\u1260\u1245\u1263\u1278\u12cd \u1232\u1206\u1295 \u12a8\u12da\u12eb\u121d \u12e8\u1234\u1276\u127d \u1324\u1293 \u12f6\u12ad\u1270\u122d \u1270\u1235\u121b\u121a \u1270\u1230\u1275\u134a\u12ce\u127d\u1295 \u1218\u1228\u1321", "romanized": "zerezere marajaawochene mamulaate yamitabaqebaachawe sihone kaziyaame yaseetoche teenaa doketare tasemaami tasatefiwochene maratu", "wer": 0.08333333333333333}, {"sample": 103, "transcription": "\u12a5\u12eb\u1208 \u134a\u1208\u1218\u1295 \u1260\u1208\u12a5\u120a\u1271\u1323\u1275 \u120b\u12ed \u12e8\u12c8\u122d\u1241\u1295 \u1240\u1208\u1260\u1273\u12e8\u12cd", "romanized": "eyaala filamane balaelitutaate laaye yawarequne qalabataayawe", "wer": 0.625}, {"sample": 104, "transcription": "\u1263\u120d\u1295\u1300\u122b\u1278\u12cd \u127e\u12ed \u12ed\u1263\u120b\u1209", "romanized": "baalenejaraachawe choye yebaalaalu", "wer": 0.0}, {"sample": 105, "transcription": "\u1260\u12a0\u12f2\u1235 \u1230\u1260\u1263 \u1260\u123d\u1265\u122d \u12a5\u1293 \u1215\u1308 \u1218\u1295\u130d\u1235\u1273\u12ca \u1225\u122d\u12d3\u1271\u1295 \u1260\u1283\u12ed\u120d \u1208\u1218\u1293\u12f5\u1295 \u12a0\u1232\u1228\u12cb\u120d \u1260\u121a\u120d \u1260\u123d\u1265\u122d \u12c8\u1295\u1300\u120d\u12ad\u1235 \u1240\u122d\u1266\u1263\u1278\u12cb\u120d", "romanized": "baadise sababaa bashebere enaa hhega manegesetaawi sereaatune baxaayele lamanaadene asirawaale bamile bashebere wanejalekese qarebobaachawaale", "wer": 0.3333333333333333}, {"sample": 106, "transcription": "\u12a0\u12ad\u1208\u12cd\u1295 \u1260\u134c\u12f4\u122b\u120d \u1218\u1295\u130d\u1235\u1271\u12a5\u1293 \u1260\u1205\u12cb\u1275 \u1218\u12ab\u12a8\u120d \u12e8\u1270\u12f0\u1228\u1230\u12cd \u1235\u121d\u121d\u1290\u1275 \u12eb\u120b\u1295\u12f3\u123d \u121b\u1218\u1295\u1273\u1275 \u1218\u1270\u12ad\u1260\u122d \u12ed\u1296\u12cd\u1260\u1275 \u12a0\u120d\u1265\u1208\u12cb\u120d", "romanized": "akelawene bafeedeeraale manegesetuenaa bahewaate makaakale yatadarasawe sememenate yaalaanedaashe maamanetaate matakebare yenowebate alebelawaale", "wer": 0.7142857142857143}, {"sample": 107, "transcription": "\u12ed\u1218n \u12a0\u1261 \u130b\u122d\u130b \u1260\u1270\u1263\u1208\u127d \u12dc\u130a\u12eb \u12a5\u1235\u12a8\u1349 \u1201\u1208 \u120d\u1306\u127b \u1262\u1218\u12d8\u130d\u1261\u121d \u12a5\u1235\u12a8\u1201\u121d\u1295 \u121d\u120b\u123d \u12a5\u1295\u12f3\u1270\u1230\u1270 \u1270\u1293\u130d\u122b\u1208\u127d", "romanized": "yeman abu gaaregaa batabaalache zeegiyaa esekafu hula lejochaa bimazagebume esekahumene melaashe enedaatasata tanaageraalache", "wer": 0.7142857142857143}, {"sample": 108, "transcription": "\u12ad\u1349 \u1208\u122b\u1231\u121d \u12a0\u1295\u12f5 \u12a0\u12ed\u1290\u1205\u1295 \u12a0\u12cd\u1323\u1293 \u121d\u130d\u1265 \u1230\u1325\u1203\u1208\u12cd \u12a0\u1208\u12cd", "romanized": "kefu laraasume anede ayenahene awetaanaa megebe satehaalawe alawe", "wer": 0.5714285714285714}, {"sample": 109, "transcription": "\u12e8\u130d\u12f5\u1261\u1295 \u130d\u1295\u1263\u1273 \u12a8\u121a\u12eb\u12a8\u1293\u12cd\u1291 \u1225\u122b \u1270\u12b3\u122b\u132e\u127d \u1218\u12ab\u12a8\u120d \u12e8\u1323\u120a\u12eb\u1291 \u1233\u120c\u1292 \u12ed\u1320\u1240\u1233\u120d", "romanized": "yagedebune genebaataa kamiyaakanaawenu seraa takwaaraachoche makaakale yataaliyaanu saaleeni yetaqasaale", "wer": 0.2222222222222222}, {"sample": 110, "transcription": "\u12f2 \u12a0\u130e\u1274 \u12e8\u1270\u1263\u1208\u12ca \u12e8\u1300\u122d\u1218\u1295 \u1218\u133d\u1204\u1275 \u12e8\u134a\u122d\u130d\u133d\u120b\u123d \u12e8\u1203\u1295\u1233 \u12a0\u122b\u1275 \u12a0\u1218\u1295\u1271\u1295 \u1235\u1356\u1270\u129b \u12ae\u1321 \u12a0\u1275\u121f\u120d", "romanized": "di agotee yatabaalawi yajaremane matseheete yafiregetselaashe yahaanesaa araate amanetune sepotanyaa kotu atemwale", "wer": 0.7857142857142857}, {"sample": 111, "transcription": "\u1260\u1270\u12a8\u1273\u127344 \u1325\u132b\u12cb\u1273\u12ce\u127d \u12e8\u1270\u1238\u1290\u1348 \u1261\u12f5\u1295 \u12a5\u1295\u12f4\u1275 \u1206\u1296 \u12a8\u121c\u12f3 \u12cd\u132d \u12e8\u1260\u122d\u1270\u1295 \u1293\u1238\u1290\u134d\u127d \u12a0\u1208", "romanized": "batakataataa44 techaawaataawoche yatashanafa budene enedeete hono kameedaa weche yabaretane naashanafeche ala", "wer": 0.6666666666666666}, {"sample": 112, "transcription": "\u1260\u1218\u12f2\u1290\u12cb \u12a8\u134d\u1230\u12e8 \u12e8\u1270\u12a9\u1230 \u1293\u12ed\u134d\u12f3\u12ab\u12f5\u121d\u1235 \u12dc\u12e8\u1270\u1230\u121b \u1290\u12cd", "romanized": "bamadinawaa kafesaya yatakusa naayefedaakaademese zeeyatasamaa nawe", "wer": 0.875}, {"sample": 113, "transcription": "\u12a5\u1295\u12f2\u1201\u121d \u12ac\u1293\u12ca\u1271 \u12a0\u1275\u120c\u1275 \u1353\u12ed\u122c\u1275 \u1304\u1355\u1305\u12ed\u1275\u122d \u1226\u1235\u1270\u129b \u12f0\u1228\u1303 \u12c8\u1273\u1208\u127d", "romanized": "enedihume keenaawitu ateleete paayereete jeepejeyetere sosetanyaa darajaa wataalache", "wer": 0.5}, {"sample": 114, "transcription": "\u123d\u121b\u130d\u120c\u12ce\u1279\u121d \u1230\u120b\u121d \u1208\u121b\u12cd\u1228\u122d\u1270\u12cb\u12eb\u12e9", "romanized": "shemaageleewochume salaame lamaaweraretawaayaayu", "wer": 0.75}, {"sample": 115, "transcription": "\u1206\u1296\u121d \u1232\u1275\u12eb \u1260\u1234\u1275 \u12e8\u1270\u1218\u1230\u1208\u127d \u12e8\u1230\u12ed\u1323 \u120d\u1305 \u1290\u1260\u1228\u127d", "romanized": "honome siteyaa baseete yatamasalache yasayetaa leje nabarache", "wer": 0.2857142857142857}, {"sample": 116, "transcription": "\u1260\u1218\u1328\u1228\u123b \u121d\u1293\u1205 \u1200\u134a\u1235 \u12ed\u1205\u1295 \u12ed\u120b\u1209", "romanized": "bamacharashaa menaahe hafise yehene yelaalu", "wer": 0.6}, {"sample": 117, "transcription": "\u1260\u1321\u1295\u127a \u1200\u134d\u1273\u127d \u12cd\u1324\u1276\u127d \u121d\u12ad\u1295\u12eb\u1275 \u12a5\u1295\u12f0\u1206\u1290 \u1308\u121d\u1273\u1208\u12cd \u1275\u120b\u1208\u127d", "romanized": "batunechi hafetaache weteetoche mekeneyaate enedahona gametaalawe telaalache", "wer": 0.42857142857142855}, {"sample": 118, "transcription": "\u1263\u1208\u1349 \u1235\u12f5\u1235\u1275 \u12c8\u122b\u1235 \u1265\u127b \u1201\u1208\u1275 \u1262\u120a\u12ee\u1295 \u12f6\u120b\u122d \u12e8\u12cd\u132d \u12ed\u1240\u1325\u1270 \u12a2\u1295\u1268\u1235\u1275\u1218\u1295\u1275 \u1218\u1233\u1265 \u1218\u127b\u1209\u1295\u121d \u1270\u1218\u120d\u12ad\u1277\u127d", "romanized": "baalafu sedesete waraase bechaa hulate biliyone dolaare yaweche yeqateta inevasetemanete masaabe machaaluneme tamaleketwache", "wer": 0.46153846153846156}, {"sample": 119, "transcription": "\u12e8\u1205\u12f3\u1234\u12cd \u130d\u12f5\u1265 \u130d\u1295 \u1263\u1273 \u121d\u1295\u121d \u12a0\u12ed\u1290\u1275 \u12e8\u12f0\u1295\u1290\u1275 \u1225\u130b\u1275 \u1260\u1231\u12f3\u1295\u1293 \u1260\u130d\u1265\u1345 \u120b\u12ed \u12a5\u1295\u12f0\u121b\u12eb\u1235\u1308\u1275\u120d \u1208\u121d\u12ad\u122d \u1264\u1271 \u12a0\u1235\u122d\u12f5\u1273\u1208\u127d", "romanized": "yahedaaseewe gedebe gene baataa meneme ayenate yadanenate segaate basudaanenaa bagebetze laaye enedamaayaasegatele lamekere beetu aseredetaalache", "wer": 0.5714285714285714}, {"sample": 120, "transcription": "\u1260\u130b\u122d \u1218\u1218\u130d\u1265 \u1260\u1235\u1290\u120d\u1265\u1293 \u12f0\u1228\u1303 \u1218\u120d\u12ab\u121d \u1235\u121c\u1275 \u12a0\u1208\u12cd", "romanized": "bagaare mamagebe basenalebenaa darajaa malekaame semeete alawe", "wer": 0.5}, {"sample": 121, "transcription": "\u1260\u1270\u12f0\u1228\u1308\u12cd \u12cd\u12ed\u1275 \u1325\u12eb\u1244\u12ce\u1279 \u1219\u1209 \u1260\u1219\u1209 \u1219\u120b\u123d \u12a5\u1295\u12f0\u121a\u12eb\u1308\u129d \u12a5\u1293 \u1230\u120d\u1349\u1295 \u1218\u122b\u12d8\u1219\u1295 \u1308\u120d\u1343 \u1290\u1260\u122d", "romanized": "batadaragawe weyete teyaaqeewochu mulu bamulu mulaashe enedamiyaaganye enaa salefune maraazamune galetzaa nabare", "wer": 0.5}, {"sample": 122, "transcription": "\u12e8\u12d3\u1208\u121d \u1218\u1340 \u1200\u134d\u1275 \u1240\u1295 \u12a5\u1293\u1235\u1218\u120d\u12ad\u1276 \u12e8\u1240\u1228\u1260", "romanized": "yaaalame matza hafete qane enaasemaleketo yaqaraba", "wer": 0.8}, {"sample": 123, "transcription": "\u12e8\u1235\u121c\u1295 \u12a2\u1275\u12ee\u12aa\u12e8\u1295 \u12e8\u12a5\u122d\u1235\u1260\u122d\u1235\u1326\u122d\u1290\u1275 \u12e8\u12ad\u134b\u1328\u1348\u1275 \u12e8\u1218\u1295\u1308\u12f0 \u12a0\u134d\u122a\u12ab \u12e8\u122b\u1237 \u127d\u130d\u122d \u1260\u122b\u1237 \u1218\u1230\u1275 \u12a5\u1295\u12f0\u121d\u1275 \u1235\u121b\u1233\u12e8 \u1208\u12cd", "romanized": "yasemeene iteyokiyane yaeresebaresetorenate yakefaachafate yamanegada aferikaa yaraaswa chegere baraaswa masate enedamete semaasaaya lawe", "wer": 0.8}, {"sample": 124, "transcription": "\u12ed\u1260\u120d\u1325 \u12e8\u121a\u12eb\u1246\u122b\u1299 \u1265\u1208\u12cd\u121d \u12a8\u120c\u120b\u12cd \u12a5\u1295\u12f2\u1208\u12e9 \u12a8\u121a\u12eb\u1228\u1313\u1278\u12cd \u12a5\u12cd\u1290\u1273\u12ce\u127d \u1206\u1290\u12cd \u12a5\u1293\u1308\u129b\u1278\u12cb\u1208\u1290\u12cd\u12eb\u1209\u1275", "romanized": "yebalete yamiyaaqoraanyu belaweme kaleelaawe enedilayu kamiyaaragwaachawe ewenataawoche honawe enaaganyaachawaalanaweyaalute", "wer": 0.36363636363636365}, {"sample": 125, "transcription": "\u1260\u12f0\u1228\u1230\u1262 \u1290\u1308\u122d \u1201\u120b \u12a0\u12dd\u1290\u12cb\u120d \u12e8\u121a\u120b\u12cd \u12a8\u1243\u1208 \u121d\u1295\u120d\u1231 \u12a0\u1295\u12f1 \u1218\u1235\u1218\u122d \u1290\u12cd", "romanized": "badarasabi nagare hulaa azenawaale yamilaawe kaqaala menelesu anedu masemare nawe", "wer": 0.3}, {"sample": 126, "transcription": "\u12a5\u122d\u1231\u121d \u1309\u12de\u12cd\u1295 \u1240\u1325\u120e \u12a0\u1295\u12f5 \u1205\u120d \u12e8\u121a\u12eb\u132d\u12f5 \u1230\u12cd \u12d8\u1295\u12f5 \u12f0\u1228\u1230", "romanized": "eresume guzowene qatelo anede hele yamiyaachede sawe zanede darasa", "wer": 0.1111111111111111}, {"sample": 127, "transcription": "\u12e8\u1229\u12cb\u1295\u12f3 \u120d\u1242\u1275 \u1270\u1320\u1293\u1240\u12cd\u121d \u1219\u12dc\u12ed\u121d \u1270\u1230\u122d\u1276 \u12c8\u1208\u1273\u120d", "romanized": "yaruwaanedaa leqite tatanaaqaweme muzeeyeme tasareto walataale", "wer": 1.0}, {"sample": 128, "transcription": "\u12a0\u1263 \u130e\u122d\u130e\u122a\u12ce\u1235 \u1235\u1208 \u1245\u12f1\u1235\u1275 \u121b\u122a\u12eb\u121d \u12e8\u12f0\u1228\u1231\u1275\u1295 \u121d\u1235\u130b\u1293 \u130d\u1325\u121e\u127d \u12a5\u1293 \u12e8\u1208\u1270\u1208\u1275\u1290\u1308\u130d\u122e\u127d \u1218\u12dd\u130d\u1265 \u12ed\u1308\u129b\u120d", "romanized": "abaa goregoriwose sela qedusete maariyaame yadarasutene mesegaanaa getemoche enaa yalatalatenagageroche mazegebe yeganyaale", "wer": 0.5833333333333334}, {"sample": 129, "transcription": "\u121d\u1295\u121d \u12a0\u1235\u122b\u1305 \u12ed\u120b\u1278\u12cd\u121d", "romanized": "meneme aseraaje yelaachaweme", "wer": 0.6666666666666666}, {"sample": 130, "transcription": "\u123c\u126a\u120d\u12f5 \u12c8\u12f0 \u1355\u122a\u121a\u12e8\u122d \u120a\u1309 \u1208\u1218\u1218\u1208\u12dd \u12a8\u132b\u134d \u12f0\u122d\u1237\u120d", "romanized": "sheevilede wada perimiyare ligu lamamalaze kachaafe dareswale", "wer": 0.2857142857142857}, {"sample": 131, "transcription": "\u1260\u12d8\u130b\u1262\u1290\u1275 \u1232\u1220\u122b \u12e8\u1290\u1260\u1228\u12cd \u12a2\u126b\u1295 \u12e8\u12ab\u1275\u122a\u1295\u1260\u122d\u130d \u1260\u1270\u1263\u1208\u123d \u12a8\u1270\u121b \u1260\u1241\u1325\u1325\u122d \u1225\u122d \u12a8\u12cb\u1208 \u1260\u128b\u120b \u1260\u1235\u1208\u120b \u12c8\u1295\u1300\u120d \u1270\u12a8\u134f\u120d", "romanized": "bazagaabinate sisaraa yanabarawe ivaane yakaaterinebarege batabaalashe katamaa baqutetere sere kawaala baxwaalaa baselalaa wanejale takafwale", "wer": 0.35714285714285715}, {"sample": 132, "transcription": "sl\u1264\u1270l\u12eb\u12ed\u121d\u130d\u1263\u1240\u1228\u1265\u1208\u1275", "romanized": "slbeetalyaayemegebaaqarabelate", "wer": 1.0}, {"sample": 133, "transcription": "\u130d\u12f5\u1261\u1275 \u1232\u1320\u1293\u1240\u1245 \u12a5\u1235\u12a8 6\u123a 40050 \u121c\u130b\u12cb\u1275 \u121b\u1218\u1295\u1328\u1275 \u12ed\u127d\u120b\u120d \u1270\u1265\u120f\u120d", "romanized": "gedebute sitanaaqaqe eseka 6shi 40050 meegaawaate maamanechate yechelaale tabelwale", "wer": 0.5833333333333334}, {"sample": 134, "transcription": "\u12ab\u1215\u12ad\u121d \u12a5\u1293 \u1218\u1223\u122b\u12ed \u12e8\u120d\u1245 \u12a0\u12f2\u1235 \u134b\u123d\u1295 \u1275\u1238\u122d\u1275\u121d \u12a5\u1295\u12f2\u1218\u1235\u120d \u12a5\u1295\u12f3\u12a0\u1240\u12f1 \u1273\u1275\u1228\u12f3\u1208\u127d", "romanized": "kaahhekeme enaa masaaraaye yaleqe adise faashene teshareteme enedimasele enedaaaqadu taateradaalache", "wer": 0.7777777777777778}, {"sample": 135, "transcription": "\u1274\u121d\u12f2\u12d9 \u12ed\u1273\u1278\u12cd\u1295 \u1208\u1270\u1320\u1290\u129b \u12d3\u1218\u1273\u1278\u12cd \u1260\u12a5\u1235\u1326\u1273 \u12e8\u1308\u12db\u127d\u120b\u1278\u12cd \u1290\u132d \u1353\u120b\u12de \u12e8\u1270\u1270\u1298\u12cd \u1231\u122a \u1260\u12a0\u1201\u1295 \u12c8\u1245\u1275 \u12a0\u1208\u1218\u1229 \u12ed\u1320\u1325\u1273\u1278\u12cb\u120d", "romanized": "teemedizu yetaachawene latatananyaa aamataachawe baesetotaa yagazaachelaachawe nache paalaazo yatatanyawe suri baahune waqete alamaru yetatetaachawaale", "wer": 0.5714285714285714}, {"sample": 136, "transcription": "\u12e8\u12a5\u1295\u12f2\u1205 \u12d3\u12ed\u1290\u1271 \u1326\u122d\u1290\u1275 \u1309\u12f3\u12eb\u1275 \u12e8\u130d\u1265\u1345\u1241\u1235\u1290\u12cd \u1270\u120e \u12a0\u12ed\u123d\u122d\u121d", "romanized": "yaenedihe aayenatu torenate gudaayaate yagebetzequsenawe talo ayeshereme", "wer": 0.5555555555555556}, {"sample": 137, "transcription": "\u12e9\u1293\u12ed\u1275\u12f5 \u1260\u12a4\u134d\u12a4 \u12cb\u1295\u132b \u12a8\u1265\u122b\u12ed\u1270\u1295 \u12ed\u132b\u12cd\u1273\u120d", "romanized": "yunaayetede baeefeee waanechaa kaberaayetane yechaawetaale", "wer": 0.2}, {"sample": 138, "transcription": "\u1313\u12f0\u129b\u12ec\u1204\u12f5\u12a9\u120b \u1206\u12ed \u12a5\u1294\u1295 \u1208\u121d\u1295\u1275\u1238\u1238\u129b\u1208\u1205", "romanized": "gwaadanyaayeeheedekulaa hoye eneene lameneteshashanyaalahe", "wer": 0.6666666666666666}, {"sample": 139, "transcription": "\u12a0\u1265\u12db\u129b\u12ce\u1279\u1295 \u12c8\u12f0 \u12a0\u12cb\u123d \u1230\u1263\u1275 \u12e8\u1326\u122d \u12ab\u121d\u1355 \u1218\u12c8\u1230\u12f3\u1278\u12cd\u1295 \u12e8\u1264\u1270 \u12ad\u122d\u1235\u1272\u12eb\u1297 \u12e8\u1215\u130d \u1263\u1208\u121a\u12eb\u12ce\u127d \u1208\u1262\u1262\u1232 \u1308\u120d\u1340\u12cb\u120d", "romanized": "abezaanyaawochune wada awaashe sabaate yatore kaamepe mawasadaachawene yabeeta keresetiyaanwa yahhege baalamiyaawoche labibisi galetzawaale", "wer": 0.23076923076923078}, {"sample": 140, "transcription": "\u12a5\u1235\u12a8 \u12a0\u1201\u1295 \u130d\u120d\u1345 \u12a0\u124b\u121d \u12e8\u12eb\u12d8\u127d \u12a0\u12ed\u1218\u1235\u1208\u121d", "romanized": "eseka ahune geletze aqwaame yayaazache ayemaselame", "wer": 0.6666666666666666}, {"sample": 141, "transcription": "\u1234\u1293\u1276\u122d \u12a5\u1295\u12f2\u12c8\u1321 \u12a8\u1270\u12f0\u1228\u1309 \u1260\u128b\u120b \u1208\u130b\u12dc\u1320\u129e\u127d \u121d\u120d\u12ad\u1273\u1278\u12cd\u1295 \u12a0\u1235\u1270\u120b\u120d\u1348\u12cb\u120d", "romanized": "seenaatore enediwatu katadaragu baxwaalaa lagaazeetanyoche meleketaachawene asetalaalefawaale", "wer": 0.2857142857142857}, {"sample": 142, "transcription": "\u12a8\u12ab\u122d\u1271\u1295 \u1260\u1270\u1328\u121b\u122a\u121d \u134d\u1325\u1296 \u12f0\u1228\u123b \u12ed\u1209 \u12e8\u12c8\u1323\u1263\u1275 \u12e8\u12f0\u122d\u1349 \u121d\u122b\u1263 \u12e8\u12ad\u120d\u120d\u121d \u1260\u1326\u122d\u1290\u1271 \u12a8\u134d\u1270\u129b \u1270\u1308\u12f5\u1327\u120d", "romanized": "kakaaretune batachamaarime feteno darashaa yelu yawataabaate yadarefu meraabaa yakeleleme batorenatu kafetanyaa tagadethwale", "wer": 0.75}, {"sample": 143, "transcription": "\u12c8\u12f0 \u1264\u1275 \u12c8\u1235\u12f6 \u1270\u12ab\u134d\u120e \u1218\u1265\u120b\u1275 \u121b\u1205\u1260\u1228\u1230\u1263\u12ca \u12a5\u1293 \u1264\u1270\u1230\u1263\u12ca \u1201\u1294\u1273 \u120b\u12ed \u12a0\u12ce\u1295\u1273\u12ca \u12e8\u121a\u1293\u1295\u12f3\u1208\u12cd \u12ed\u1320\u1245\u1233\u1209", "romanized": "wada beete wasedo takaafelo mabelaate maahebarasabaawi enaa beetasabaawi huneetaa laaye awonetaawi yaminaanedaalawe yetaqesaalu", "wer": 0.21428571428571427}, {"sample": 144, "transcription": "\u1260\u1236\u121b\u120a \u12e8\u12ad\u120d\u1295\u1232\u1272\u12de\u1295 \u12e8\u1230\u1325\u1273 \u1235\u130b\u1275 \u1260\u1218\u1296\u1229 \u12ad\u122c\u12f6\u12cb \u12c8\u12f0 \u12e5\u1261\u1275 \u12e8\u121a\u12c8\u1235\u1229 \u12a0\u1235\u134b\u120d\u1275 \u1218\u1295\u1308\u12f5 \u1270\u12d8\u130b", "romanized": "basomaali yakelenesitizone yasatetaa segaate bamanoru kereedowaa wada zhebute yamiwaseru asefaalete manegade tazagaa", "wer": 0.6428571428571429}, {"sample": 145, "transcription": "\u1260\u12da\u1205 \u130a\u12dc \u12cd\u1238\u1273\u1219 \u1230\u12cd\u1203\u12cd\u1235\u1325 \u12c8\u122d\u12cd\u122e\u129d \u12a5\u1293 \u120d\u1219\u1275 \u12a0\u120b\u1278\u12cd", "romanized": "bazihe gizee weshataamu sawehaawesete wareweronye enaa lemute alaachawe", "wer": 0.4444444444444444}, {"sample": 146, "transcription": "\u1245\u12f5\u1218 \u1295\u1308\u12dd \u1340\u1215\u12ed \u12a8\u1218\u12cd\u1320\u1277 \u1260\u134a\u1275 \u133e \u1218\u12eb\u12db\u127d \u1230\u12d3\u1275 \u12f0\u130d\u121e \u1231\u1211\u122d \u12ed\u1260\u120b\u120d", "romanized": "qedema negaze tzahheye kamawetatwa bafite tso mayaazaache saaate dagemo suhhure yebalaale", "wer": 0.6363636363636364}, {"sample": 147, "transcription": "\u12e8\u1218\u1208\u12a5\u12ad\u1271\u1295 \u1219\u1296\u1243\u120d \u12a5\u1295\u12f0\u121a\u12a8\u1270\u1208\u12cd \u1240\u122d\u1267\u120d", "romanized": "yamalaeketune munoqaale enedamikatalawe qarebwale", "wer": 0.6}, {"sample": 148, "transcription": "\u12a5\u1228\u129b\u12cd\u121d \u12eb\u12f3\u1218\u1320 \u1290\u1260\u122d", "romanized": "eranyaaweme yaadaamata nabare", "wer": 0.3333333333333333}, {"sample": 149, "transcription": "\u1260\u12da\u1205 \u12d3\u12ed\u1290\u1275 \u1226\u1235\u1271\u121d \u12e8\u121a\u1348\u120d\u1309\u1275\u1295 \u12a0\u130d\u129d\u1270\u12cd \u1260\u1230\u120b\u121d \u1218\u1296\u122d \u1328\u1218\u1229", "romanized": "bazihe aayenate sosetume yamifalegutene agenyetawe basalaame manore chamaru", "wer": 0.25}, {"sample": 150, "transcription": "\u1208\u1218\u1206\u1291 \u12ed\u1205 \u1230\u12cd\u1295 \u1260\u1218\u1235\u1240\u120d \u120b\u12ed \u1260\u1218\u1235\u1240\u120d \u12e8\u121a\u1348\u1338\u1218\u12cd \u12e8\u121e\u1275\u1245\u1323\u1275 \u1218\u1300\u1293 \u1270\u1300\u1218\u1228", "romanized": "lamahonu yehe sawene bamaseqale laaye bamaseqale yamifatsamawe yamoteqetaate majanaa tajamara", "wer": 0.38461538461538464}, {"sample": 151, "transcription": "\u1260\u1245\u12f3\u129e\u1279 \u12d8\u1218\u1293\u1275 \u12a0\u1263\u1273\u127d\u1295 \u12a0\u12f3\u121d \u12a0\u1275\u1265 \u120b\u12ed \u12e8\u1270\u1263\u1208\u12cd\u1295 \u12a5\u1338 \u1260\u1208\u1235 \u1260\u120d\u1276 \u12e8\u1348\u1323\u122c \u12a5\u1295\u1275\u12db\u12dd \u1270\u120b\u1208\u1348", "romanized": "baqedaanyochu zamanaate abaataachene adaame atebe laaye yatabaalawene etsa balase baleto yafataaree enetezaaze talaalafa", "wer": 0.5}, {"sample": 152, "transcription": "\u12ed\u1205 \u12a0\u1233\u12d8\u1295\u130d\u132d\u1275 \u120a\u1246 \u121a\u12ed\u1308\u1263\u120d \u1265\u1208\u12cb\u120d \u1355\u122c\u12dd\u12f3\u1295\u1271", "romanized": "yehe asaazanegechete liqo miyegabaale belawaale pereezedaanetu", "wer": 0.5714285714285714}, {"sample": 153, "transcription": "\u1208\u12da\u1205 \u1235\u12ac\u1275 \u12e8\u1270\u127b\u1208\u1295\u1295 \u1208\u121b\u12f5\u1228\u130d \u12dd\u130d\u1301 \u1218\u1206\u1293\u127d\u1295\u1295 \u12a0\u1228\u130b\u130d\u1323\u1208 \u1265\u1208\u12cb\u120d", "romanized": "lazihe sekeete yatachaalanene lamaaderage zegeju mahonaachenene aragaagetaala belawaale", "wer": 0.2222222222222222}, {"sample": 154, "transcription": "\u1225\u122b\u1201\u1295 \u12e8\u121a\u1230\u122b\u12cd \u1201\u120d \u130a\u12dc \u12a5\u12e8\u1270\u1290\u1308\u1228\u12cd \u1290\u12cd", "romanized": "seraahune yamisaraawe hule gizee eyatanagarawe nawe", "wer": 0.8}, {"sample": 155, "transcription": "\u1240\u1290\u1292\u1233 \u12a0\u122d\u1263 \u1201\u1208\u1275 \u12aa.\u121c \u122d\u1240\u1275\u1295 \u1260\u121d\u122e\u1325 \u121d\u122d\u1321\u1295 \u12e8\u130d\u120d\u1233\u1275 \u12a0\u1235\u1218\u12dd\u130d\u1267\u120d", "romanized": "qananisaa arebaa hulate ki.mee reqatene bamerote meretune yagelesaate asemazegebwale", "wer": 0.5454545454545454}, {"sample": 156, "transcription": "\u12c8\u1245\u1271 \u1260\u12a0\u12cd\u122e\u1353\u12cd\u12eb\u1291 \u12e8\u12ad\u1228\u121d\u1275 \u12c8\u1245\u1275 \u12a0\u1325\u121d\u1275 \u12e8\u121a\u1230\u1265\u122d \u1245\u133d\u1243\u12dc \u12e8\u1290\u1260\u1228\u1260\u1275 \u12a5\u1293\u1271 \u1260\u1210\u12d8\u1295 \u12e8\u1270\u1230\u1260\u1229\u1260\u1275 \u12eb\u12d5\u1208\u1275", "romanized": "waqetu baaweropaaweyaanu yakeramete waqete atemete yamisabere qetseqaazee yanabarabate enaatu bahhazane yatasabarubate yaaelate", "wer": 0.3076923076923077}, {"sample": 157, "transcription": "\u134e\u1276\u1295 \u12a5\u12eb\u1290\u1231 \u1208\u1290\u1260\u1229\u1275 \u12e8\u130b\u12dc\u1320\u129e\u127d \u1261\u12f5\u1295\u121d \u121d\u1295\u121d \u12a0\u120d\u1270\u1290\u1308\u1228\u121d", "romanized": "fotone eyaanasu lanabarute yagaazeetanyoche budeneme meneme aletanagarame", "wer": 0.42857142857142855}, {"sample": 158, "transcription": "\u12e8\u1275\u130d\u122b\u12ed \u1215\u12dd\u1265 \u1230\u120b\u121d \u12a5\u1295\u12f2\u1230\u134d\u1295 \u12a5\u1293 \u12c8\u12f0 \u1245\u12f5\u121e \u1215\u12ed\u12c8\u1271 \u1208\u1218\u1218\u1208\u1235 \u12a5\u1295\u1302 \u12e8\u1325\u12ed\u1205 \u12f5\u121d\u1343 \u12e8\u1218\u1235\u121b\u1275 \u1348\u1243\u122d \u12ed\u1290\u1275 \u12a5\u1295\u12f0\u120c\u1208\u12cd \u1270\u1293\u130d\u1228\u12cb\u120d", "romanized": "yategeraaye hhezebe salaame enedisafene enaa wada qedemo hheyewatu lamamalase eneji yateyehe demetzaa yamasemaate faqaare yenate enedaleelawe tanaagerawaale", "wer": 0.4666666666666667}, {"sample": 159, "transcription": "\u12a0\u1295\u1270\u121d \u12a5\u1295\u12f0 \u1260\u134a\u1271 \u1260\u12e8\u1233\u1218\u1295\u1271 \u1308\u1260\u12eb\u12cd \u1266\u1273 \u1273\u1308\u1298\u129b\u1208", "romanized": "anetame eneda bafitu bayasaamanetu gabayaawe botaa taaganyanyaala", "wer": 0.6666666666666666}, {"sample": 160, "transcription": "\u12a0\u121c\u122a\u12ab \u12a5\u1295\u130d\u120a\u12dd\u1293 \u1303\u1353\u1295\u1295 \u1328\u121d\u122e \u1260\u122d\u12ab\u1273\u12e8\u12ce\u127d \u12a0\u1308\u122b\u1275 \u12a4\u1295\u1263\u1232\u12ce\u127d \u12dc\u130e\u127b\u1278\u12cd\u1295 \u12a8\u12ab\u122d\u1271 \u121b\u12d5\u120b\u1235 \u12c8\u1321\u121d", "romanized": "ameerikaa enegelizenaa jaapaanene chamero barekaataayawoche agaraate eenebaasiwoche zeegochaachawene kakaaretu maaelaase watume", "wer": 0.6666666666666666}, {"sample": 161, "transcription": "\u12e8\u12a2\u12f3\u120d \u1348\u1325\u122d \u1260\u12d3\u120d \u1260\u12a5\u1235\u120d\u121d \u12a5\u1293 \u121d\u1290\u1275 \u1270\u12a8\u1273\u12ee\u127d \u12d8\u1295\u12f5 \u1260\u12f5\u121d\u1240\u1275 \u1270\u12a8\u1260\u1228", "romanized": "yaidaale fatere baaale baeseleme enaa menate takataayoche zanede bademeqate takabara", "wer": 0.5555555555555556}, {"sample": 162, "transcription": "\u1260\u12da\u1205 \u12a0\u12ed\u1290\u1275 \u1230\u12cd\u12e8\u12cd\u1295 \u1260\u1290\u1309\u1221 \u1305\u120e\u1275 \u12a8\u1230\u1231\u1275", "romanized": "bazihe ayenate saweyawene banagusu jelote kasasute", "wer": 0.5}, {"sample": 163, "transcription": "\u1230\u1210\u12ed \u1235\u1275\u1270\u120d\u1245 \u133e\u121d \u12eb\u1260\u1243\u120d", "romanized": "sahhaye setetaleqe tsome yaabaqaale", "wer": 0.5}, {"sample": 164, "transcription": "\u12a8\u12a2\u1292\u1268\u122d\u1232 \u12a0\u121b\u12ab\u122a\u12ce\u127d \u12a5\u1295\u12f2\u1201\u1295 \u12e8\u1219\u12eb \u12a0\u1235\u120d\u1273\u129e\u127d \u130b\u122d \u1270\u1290\u130b\u1308\u1229", "romanized": "kainivaresi amaakaariwoche enedihune yamuyaa aseletaanyoche gaare tanagaagaru", "wer": 0.42857142857142855}, {"sample": 165, "transcription": "\u12a2\u1295\u1270\u122d\u1294\u1275 \u12a5\u1295\u12f0\u121a\u12d8\u130b \u12e8\u1270\u1208\u12eb\u12e9 \u12f5\u122d\u1305\u1276\u127d \u122a\u1356\u122d\u1275 \u121b\u12f5\u1228\u130b\u1278\u12cd\u1295 \u12e8\u12db\u122c\u12cd \u12a0\u121d\u1290\u1235\u1272 \u1218\u130d\u1208\u1305 \u12a0\u1235\u1273\u12cd\u1237\u120d", "romanized": "inetareneete enedamizagaa yatalayaayu derejetoche riporete maaderagaachawene yazaareewe amenaseti magelaje asetaaweswale", "wer": 0.2}, {"sample": 166, "transcription": "\u1260\u12a2\u1275\u12ee\u1335\u12eb \u12cd\u1235\u122e\u1235 \u1264\u1270 \u12ad\u122d\u1235\u1272\u12eb\u1295 \u12e8\u1270\u12a8\u1230\u1270\u12cd\u1295 \u127d\u130d\u122d \u1208\u1218\u134d\u1273\u1275 \u12e8\u1270\u120b\u1208\u1349 \u12cd\u1233\u1294\u12ce\u127d \u121d\u1295\u12f5\u121d \u1293\u1278\u12cd", "romanized": "baiteyopheyaa weserose beeta keresetiyaane yatakasatawene chegere lamafetaate yatalaalafu wesaaneewoche menedeme naachawe", "wer": 0.18181818181818182}, {"sample": 167, "transcription": "\u1208\u1218\u1206\u1229 \u12a8\u121a\u12f0\u120d\u1261 \u12a8\u1265\u1276\u127d \u12ed\u120d\u1245 \u130d\u1326\u123d \u120b\u12ed \u1270\u1230\u121b\u1265\u1276 \u12eb\u12f0\u1309\u12a5\u1295\u1235\u1230\u12d3\u1275\u1295 \u1260\u1225\u130b\u127d\u12cd \u12ed\u12d8\u1275 \u12ed\u1218\u122d\u1327\u1278\u12cb\u120d", "romanized": "lamahoru kamidalebu kabetoche yeleqe getoshe laaye tasamaabeto yaadaguenesesaaatene basegaachewe yezate yemarethwachawaale", "wer": 0.6363636363636364}, {"sample": 168, "transcription": "\u12e8\u12e9\u12ac \u12dc\u130e\u127d \u1260\u12a0\u12cd\u122e\u1355\u120b\u1295 \u12dc\u130e\u127d\u1295 \u1208\u121d\u1295 \u121b\u12cd\u1323\u1275 \u12a0\u120d\u1270\u127b\u1208\u121d \u1232\u1209 \u1245\u122c\u1273 \u12a0\u1230\u121d\u1270\u12cb\u120d", "romanized": "yayukee zeegoche baaweropelaane zeegochene lamene maawetaate aletachaalame silu qereetaa asametawaale", "wer": 0.0}, {"sample": 169, "transcription": "\u120d\u1306\u127d \u12a8\u1260\u1209 \u12a8\u12c8\u1348\u1229 \u12f5\u1295\u1261\u123d\u1261\u123d \u12ab\u1209 \u12a5\u122d\u1308\u1273\u1278\u12cd \u12e8\u1270\u121f\u120b \u12e8\u1218\u1235\u1208\u1293\u120d \u1290\u1308\u122d \u130d\u1295 \u1270\u1233\u1235\u1270\u1293\u120d \u12ed\u120b\u1209", "romanized": "lejoche kabalu kawafaru denebushebushe kaalu eregataachawe yatamwalaa yamaselanaale nagare gene tasaasetanaale yelaalu", "wer": 0.16666666666666666}, {"sample": 170, "transcription": "\u12eb\u1208\u1295\u1295 \u133d\u1296 \u12a5\u121d\u1290\u1275 \u1208\u1218\u130d\u1208\u133d \u12a5\u1296\u12f3\u1208\u1295 \u1232\u1209 \u1218\u12a0\u133d\u1296\u12d6\u1275 \u1230\u1270\u12cb\u120d", "romanized": "yaalanene tseno emenate lamagelatse enodaalane silu maatsenoote satawaale", "wer": 0.75}, {"sample": 171, "transcription": "\u130d\u1265\u1345 \u12a8\u1231\u12f3\u1295 \u1326\u122d \u130b\u122d \u12d5\u1245\u122d\u1260\u1275 \u12a5\u1295\u12f3\u120b\u1275 \u12ed\u1273\u12c8\u1243\u120d", "romanized": "gebetze kasudaane tore gaare eqerebate enedaalaate yetaawaqaale", "wer": 0.2857142857142857}, {"sample": 172, "transcription": "\u121a\u1231 \u12cd\u123d\u121b \u1290\u1260\u122b\u1275 \u12a5\u1293 \u12cd\u123d\u121b \u12c8\u12f0\u1264\u1277 \u12a5\u1295\u12f2\u1218\u1323 \u1235\u1208\u1348\u1208\u1308\u127d \u12a0\u1295\u12f5 \u12d8\u12f4 \u1240\u12e8\u1230\u127d", "romanized": "misu weshemaa nabaraate enaa weshemaa wadabeetwa enedimataa selafalagache anede zadee qayasache", "wer": 0.4}, {"sample": 173, "transcription": "\u12a8\u1208\u1273\u1275 \u12a0\u1295\u12f5 \u1240\u1295 \u12f0\u130d\u121e \u12a0\u1295\u12f2\u1275 \u1246\u1295\u12f5 \u12c8\u1234\u1275 \u1235\u1273\u1208\u1245\u1235 \u12eb\u1308\u129b\u1273\u120d", "romanized": "kalataate anede qane dagemo anedite qonede waseete setaalaqese yaaganyaataale", "wer": 0.3333333333333333}, {"sample": 174, "transcription": "\u12e8\u1218\u1215\u1265\u1228\u1230\u1265 \u12a0\u1295\u1244\u12ce\u127d\u1295 \u12a2\u120b\u121b \u12eb\u12f0\u1228\u1308 \u12a5\u1235\u122d \u12a5\u1293 \u12c8\u12a8\u1263 \u1260\u1305\u1313 \u12a0\u1233 \u12a0\u1235\u1266\u129b\u120d \u1265\u120e \u1290\u1260\u122d", "romanized": "yamahheberasabe aneqeewochene ilaamaa yaadaraga esere enaa wakabaa bajegwaa asaa asebonyaale belo nabare", "wer": 0.5454545454545454}, {"sample": 175, "transcription": "\u1265\u12d9\u12ce\u127d \u1260\u1290\u1308\u1229 \u1232\u1233\u1208\u1309 \u12a0\u1295\u12f3\u1295\u12f1\u127d \u1260\u12c8\u1233\u1294\u12cd \u1232\u12eb\u12dd\u1291\u121d \u1290\u1260\u122d", "romanized": "bezuwoche banagaru sisaalagu anedaaneduche bawasaaneewe siyaazenume nabare", "wer": 0.42857142857142855}, {"sample": 176, "transcription": "\u1208\u12da\u1205 \u1296\u12a8\u1265\u1276\u127d \u12a5\u1295\u12f2\u1275\u1308\u12db \u1308\u1295\u12d8\u1265 \u12e8\u1270\u12c8\u1208 \u1260\u126a\u122d \u12e8\u1270\u1328\u121b\u122a \u1201\u120b\u1279\u1295 \u1308\u1295\u12d8\u1265 \u12a5\u1295\u12f0\u121d\u1273\u1308\u1299 \u12a0\u1218\u120b\u12ad\u1279 \u1203\u120d \u12a0\u120b\u1279", "romanized": "lazihe nokabetoche eneditegazaa ganezabe yatawala bavire yatachamaari hulaachune ganezabe enedametaaganyu amalaakechu haale alaachu", "wer": 0.7692307692307693}, {"sample": 177, "transcription": "\u12e8\u1262\u1262\u1232 \u12e8\u1229\u1232\u12eb \u12a0\u12d8\u130b\u1305 \u1235\u1272\u126d \u122e\u12dd\u1295\u1260\u122d\u130d \u12a2\u126b\u1295 \u130e\u1260\u1275\u130b\u1264\u1320\u129b \u12a5\u1293 \u1260\u1218\u122d\u1205 \u12e8\u121a\u1218\u122b \u1232\u1209 \u1308\u120d\u1338\u12cd\u1273\u120d", "romanized": "yabibisi yarusiyaa azagaaje setive rozenebarege ivaane gobategaabeetanyaa enaa bamarehe yamimaraa silu galetsawetaale", "wer": 0.15384615384615385}, {"sample": 178, "transcription": "\u1208\u1308\u1230 \u12a9\u1233\u1275 \u12a0\u12cb\u1242 \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12e8\u130d\u122d\u12b3\u1235 \u1325\u132b\u12cb\u127d \u1290\u12cd", "romanized": "lagasa kusaate awaaqi yaiteyopheyaa yagerekwaase techaawaache nawe", "wer": 0.625}, {"sample": 179, "transcription": "\u12e8\u12d8\u1308\u1263\u12cd \u12ed\u1205 \u1230\u1263\u12aa \u1260\u12a0\u12ab\u1263\u1262\u12cd \u1236\u1235\u1275 \u1218\u1295\u12f0\u122e\u127d\u1295 \u1293\u12dd\u122c\u1275 \u1260\u1270\u1208\u12ed\u121d \u12a5\u1293 \u1301\u12f2\u12eb \u1265\u120e \u1230\u12ed\u121f\u120d", "romanized": "yazagabaawe yehe sabaaki baakaabaabiwe sosete manedarochene naazereete batalayeme enaa judiyaa belo sayemwale", "wer": 0.3333333333333333}, {"sample": 180, "transcription": "\u12e8\u1274\u120c\u126a\u12e5\u1291\u1295 \u1290\u1308\u122d \u12a5\u1293 \u1246\u12e8\u12cd \u12a5\u1293 \u120d\u1306\u127d \u1260\u1220\u122b\u1270\u129b \u121b\u12f0\u130b\u1278\u12cd \u121d\u1295\u12f5 \u1290\u12cd \u127d\u130d\u1209", "romanized": "yateeleevizhenune nagare enaa qoyawe enaa lejoche basaraatanyaa maadagaachawe menede nawe chegelu", "wer": 0.75}, {"sample": 181, "transcription": "\u120d\u1301\u121d \u12ed\u1205\u1295 \u121b\u12f5\u1228\u130d \u12ed\u127d\u120b\u1208\u1201 \u1265\u120e \u1243\u120d\u1308\u1263", "romanized": "lejume yehene maaderage yechelaalahu belo qaalegabaa", "wer": 0.5714285714285714}, {"sample": 182, "transcription": "\u12e8\u1231\u12f3\u1295 \u1218\u1295\u130d\u1225\u1275 \u1260\u12a0\u1265\u12db\u129b\u12cd \u12a0\u1228\u1265 \u12eb\u120d\u1206\u1291\u1275\u1295 \u12e8\u12f3\u122d\u134e\u122d \u12a0\u121b\u1340\u12ed\u1265\u12f6\u127d\u1295\u121d \u1208\u1218\u12f0\u121d\u1230\u1235 \u1300\u1295 \u12f3\u12ca\u12f5 \u12cb\u1290\u129b \u1218\u122a \u1290\u1260\u122d", "romanized": "yasudaane manegesete baabezaanyaawe arabe yaalehonutene yadaarefore amaatzayebedocheneme lamadamesase jane daawide waananyaa mari nabare", "wer": 0.46153846153846156}, {"sample": 183, "transcription": "\u1260\u1231\u12f3\u1295 \u1309\u12f3\u12ed \u1240\u1270\u129b \u134d\u120b\u130e\u1275 \u12eb\u120b\u1278\u12cd \u130e\u1228\u1264\u1275 \u1200\u1308\u122b\u1275 \u1260\u122d\u12ab\u1276\u127d \u1293\u1278\u12cd", "romanized": "basudaane gudaaye qatanyaa felaagote yaalaachawe gorabeete hagaraate barekaatoche naachawe", "wer": 0.2222222222222222}, {"sample": 184, "transcription": "\u12ed\u1205\u1295 \u12f5\u12e8\u1205\u1295\u1293 \u12a0\u12f5\u122d\u130d \u12ab\u120d\u1270\u1263\u1208 \u121d\u1295\u121d \u12a0\u12ed\u1230\u122b\u121d", "romanized": "yehene deyahenenaa aderege kaaletabaala meneme ayesaraame", "wer": 0.2857142857142857}, {"sample": 185, "transcription": "\u12ab\u1230\u1265\u1295\u1260\u1275 \u130d\u1265 \u1260\u134d\u1325\u1290\u1275 \u12a5\u1295\u12f0\u122d\u1233\u1208 \u121b\u1208\u1275 \u12d8\u1260\u1275 \u1290\u12cd", "romanized": "kaasabenebate gebe bafetenate enedaresaala maalate zabate nawe", "wer": 0.14285714285714285}, {"sample": 186, "transcription": "\u12e8\u1231\u12f3\u1295 \u12e8\u1260\u1235\u1270\u1230\u121c\u1295 \u130e\u1228\u1264\u1275 \u1200\u1308\u122d \u130d\u1265\u1345 \u1260\u12ab\u122d\u1271\u121d \u12eb\u1208\u12cd\u121e\u1273\u12f5 \u130d\u132d\u1275 \u12a5\u1293 \u1260\u12a0\u1295\u12ad\u122e \u12e8\u1270\u12a8\u1273\u1270\u1208\u127d \u1290\u12cd", "romanized": "yasudaane yabasetasameene gorabeete hagare gebetze bakaaretume yaalawemotaade gechete enaa baanekero yatakataatalache nawe", "wer": 0.5}, {"sample": 187, "transcription": "\u1290\u1308\u122d \u130d\u1295 \u121d\u122d\u1275 \u12ab\u1208\u127d\u12cd \u12e9\u1292\u1268\u122d\u1232\u1272 \u1270\u1240\u1265\u1208 \u1295\u123b\u120a \u12e8\u121a\u120d\u12f5\u1265\u12f3\u1264 \u1232\u12f0\u122d\u1233\u1275 \u120c\u120e\u1279\u1295 \u12cd\u12f5\u1245 \u121b\u12f5\u1228\u130d \u1290\u1260\u1228\u1263\u1275", "romanized": "nagare gene merete kaalachewe yunivaresiti taqabela neshaali yamiledebedaabee sidaresaate leelochune wedeqe maaderage nabarabaate", "wer": 0.38461538461538464}, {"sample": 188, "transcription": "\u1201\u1208\u1270\u129b\u12cd \u1230\u12cd \u12f0\u130d\u121e \u1219\u1275 \u1290\u12cd", "romanized": "hulatanyaawe sawe dagemo mute nawe", "wer": 0.2}, {"sample": 189, "transcription": "\u1293\u1305\u126d \u12a5\u1294 \u12a0\u121b\u12ab\u122a \u12a0\u1233\u1235\u1276\u12ed \u1290\u12cd \u12a5\u1295\u1302 \u1295\u1339\u1290\u129d \u12ed\u120b\u1209", "romanized": "naajeve enee amaakaari asaasetoye nawe eneji netsunanye yelaalu", "wer": 0.5555555555555556}, {"sample": 190, "transcription": "\u1260\u12da\u12eb\u12cd \u12d3\u1218\u1275 \u1230\u1294\u12c8\u122d \u120b\u12ed \u12a2\u1275\u12ee\u1335\u12eb \u1201\u1208\u1270\u129b\u12cd\u1295 \u12e8\u12cd\u1203 \u1219\u120c\u1275 \u12a0\u12ab\u1202\u12f3\u1208\u127d", "romanized": "baziyaawe aamate saneeware laaye iteyopheyaa hulatanyaawene yawehaa muleete akaahidaalache", "wer": 0.2}, {"sample": 191, "transcription": "\u12a8\u1309\u1263 \u12a5\u1235\u12a8\u1338\u1325\u1277\u12cd \u121d\u12ad\u122d \u1264\u1275 \u12e8\u12f0\u1228\u1230\u12cd \u1273\u120b\u1241 \u12e8\u1202\u12f3\u1234 \u130d\u12f5\u1265", "romanized": "kagubaa esekatsatetwawe mekere beete yadarasawe taalaaqu yahidaasee gedebe", "wer": 0.3333333333333333}, {"sample": 192, "transcription": "\u1262\u1262\u1232 \u130d\u1295 \u12ed\u1205\u1295 \u1260\u1308\u120d\u1270\u129b\u12cd \u130d\u1295 \u12a0\u120b\u1323\u122b\u121d", "romanized": "bibisi gene yehene bagaletanyaawe gene alaataaraame", "wer": 0.5}, {"sample": 193, "transcription": "\u121d\u1295\u121d \u12a5\u1295\u12b3\u1295 \u12a8\u130d\u1265\u1345 \u12a5\u1293 \u12a8\u1231\u12f3\u1295 \u1270\u12f0\u130b\u130b\u121a \u1270\u1243\u12cb\u1218\u12cd \u1262\u1290\u1233\u1263\u1275\u121d", "romanized": "meneme enekwaane kagebetze enaa kasudaane tadagaagaami taqaawaamawe binasaabaateme", "wer": 0.42857142857142855}, {"sample": 194, "transcription": "\u1204\u1295\u1272 \u1260\u12cb\u1295\u12ed\u1290\u1275 \u12e8\u121a\u12ed\u123b\u121b\u12ed \u1290\u1260\u1229", "romanized": "heeneti bawaaneyenate yamiyeshaamaaye nabaru", "wer": 0.8}, {"sample": 195, "transcription": "\u12e8\u12a5\u122d\u123b \u1260\u122c\u12cd \u1225\u122b\u12cd\u1295 \u1218\u1235\u122b\u1275 \u12a0\u12ed\u1348\u120d\u130d\u121d", "romanized": "yaereshaa bareewe seraawene maseraate ayefalegeme", "wer": 0.2}, {"sample": 196, "transcription": "\u12c8\u12f0 \u120c\u120e\u127d \u12f5\u1203\u12ed \u12e8\u130e\u1228\u1264\u1275 \u1200\u1308\u1228\u1275 \u12e8\u1204\u12f0\u12cd\u1295 \u1260\u12a0\u12ed\u1290\u12a9\u122b\u129b \u12e8\u1270\u1270\u1263\u1260\u12a8 \u1290\u12cd", "romanized": "wada leeloche dehaaye yagorabeete hagarate yaheedawene baayenakuraanyaa yatatabaabaka nawe", "wer": 0.8888888888888888}, {"sample": 197, "transcription": "\u12eb\u120b\u1278\u12cd \u12cd\u1203 \u12e8\u1270\u1218\u1293\u1218\u1290 \u1260\u1235\u122b\u1263\u120d\u12f0\u1228\u1267\u1278 \u1293 \u12e8\u130e\u1228\u1266\u1276\u127b \u121e\u1273 \u12d8\u120d \u120d\u1267 \u1260\u1270\u1230\u1265\u1228\u1260\u1275 \u1201\u1294\u1273\u121d\u1290 \u12eb\u1208\u1278\u12cd", "romanized": "yaalaachawe wehaa yatamanaamana baseraabaaledarabwacha naa yagorabotochaa motaa zale lebwa batasaberabate huneetaamena yaalachawe", "wer": 0.7857142857142857}, {"sample": 198, "transcription": "\u12a8\u1230\u12e8\u1218 \u1260\u128b\u120b \u1270\u12ad\u1273\u12ee\u127d \u1260\u12cd\u1203 \u121b\u1246\u122a\u12eb \u1266\u1273\u12ce\u127d \u12a8\u1320\u1218\u1240 \u1260\u128b\u120b \u12a5\u1295\u12f2\u133e\u1219 \u1290\u130d\u122f\u1278\u12cb\u120d", "romanized": "kasayama baxwaalaa taketaayoche bawehaa maaqoriyaa botaawoche katamaqa baxwaalaa eneditsomu nagerwachawaale", "wer": 0.1}, {"sample": 199, "transcription": "\u1260\u1201\u1208\u1275 \u130d\u1265\u120d\u12ed\u1290\u1275 \u12a5\u12e8\u1218\u122b \u1201\u1208\u1271\u1295\u121d \u132b\u12cb\u1273 \u12a0\u127b \u1218\u1208\u12e8\u1271 \u1260\u1270\u132b\u12cb\u127e\u1279 \u12a5\u1293 \u1260\u12a0\u1230\u120d\u1323\u1299 \u120b\u12ed \u132b\u1293 \u12e8\u121a\u12eb\u1260\u1228\u1273 \u1290\u12cd", "romanized": "bahulate gebeleyenate eyamaraa hulatuneme chaawaataa achaa malayatu batachaawaachochu enaa baasaletaanyu laaye chaanaa yamiyaabarataa nawe", "wer": 0.26666666666666666}, {"sample": 200, "transcription": "\u1265\u12eb\u1294 \u1293\u134d\u122d\u1303 \u121b\u130d\u1208\u120d\u1295 \u12c8\u1208\u12f0", "romanized": "beyaanee naaferejaa maagelalene walada", "wer": 0.5}, {"sample": 201, "transcription": "\u1260\u1309 \u1348\u1243\u12f0\u129b \u12a0\u12cd\u1323\u1276\u127d\u121d \u12a8\u12da\u1205 \u1240\u12f0\u121d \u1232\u12eb\u12f0\u122d\u1309\u1275 \u12a5\u1295\u12f0\u1290\u1260\u1228\u12cd \u12e8\u121b\u1235\u1270\u1263\u1260\u1229\u12f5\u121a\u1293 \u1260\u1218\u12c8\u1323\u1275 \u12a8\u134d\u1270\u129b \u12a0\u1235\u1270\u12cb\u133d\u1265 \u121b\u1260\u1228\u12a8\u1273\u1278\u12cd\u1295 \u12e8\u1270\u1308\u1208\u1338\u12cd", "romanized": "bagu faqaadanyaa awetaatocheme kazihe qadame siyaadaregute enedanabarawe yamaasetabaabarudeminaa bamawataate kafetanyaa asetawaatsebe maabarakataachawene yatagalatsawe", "wer": 0.5333333333333333}, {"sample": 202, "transcription": "\u12f0\u1235 \u12e8\u121a\u120d \u130a\u12dc \u12a8\u12a5\u1237 \u130b\u122d \u12a0\u1233\u1208\u134d\u12a9", "romanized": "dase yamile gizee kaeswa gaare asaalafeku", "wer": 0.0}, {"sample": 203, "transcription": "\u12a2\u1275\u12ee\u1335\u12eb \u1205\u12f3\u1234 \u130d\u12f5\u1265\u1295 \u1260\u1270\u1218\u1208\u12a8\u1270 \u12e8\u1338\u1325\u1273\u12cd \u121d\u12ad\u122d \u1264\u1275 \u1218\u12c8\u12eb\u1271\u1295 \u12a5\u1295\u12f0\u121b\u1275\u1240\u1260\u1208\u12cd \u12a0\u1235\u1273\u12cd\u1243\u1208\u127d", "romanized": "iteyopheyaa hedaasee gedebene batamalakata yatsatetaawe mekere beete mawayaatune enedamaateqabalawe asetaaweqaalache", "wer": 0.3}, {"sample": 204, "transcription": "\u1218\u1235\u1240\u120d \u1208\u12d8\u1218\u1293\u1275 \u12e8\u12a8\u1320\u1208 \u132d\u12ab\u1294\u1295 \u12e8\u121a\u12eb\u1235\u1273\u12cd\u1235 \u1262\u1206\u1295\u121d \u1208\u12ad\u122d\u1235\u1272\u12eb\u1296\u127d \u130d\u1295 \u12a2\u12e8\u1231\u1235 \u1208\u134d\u1245\u122d \u1232\u120d \u1218\u1225\u12cb\u1275\u1290\u1275\u1295 \u1218\u1325\u1348\u1209\u1295 \u12e8\u121a\u12eb\u1218\u1208\u12ad\u1275 \u1290\u12cd", "romanized": "maseqale lazamanaate yakatala chekaaneene yamiyaasetaawese bihoneme lakeresetiyaanoche gene iyasuse lafeqere sile masewaatenatene matefalune yamiyaamalakete nawe", "wer": 0.2}, {"sample": 205, "transcription": "\u1260\u1245\u129d \u130d\u12db\u1275 \u12c8\u1245\u1275 \u1260\u12a5\u1295\u130d\u120a\u12dd \u12a0\u12f0\u122b\u12f3\u122a\u1290\u1275 \u1260\u1270\u12f0\u1228\u1308 \u1235\u121d\u121d\u1290\u1275 \u12c8\u1295\u12d9\u1295 \u1208\u1218\u12a8\u134b \u1348\u120d\u12a8 \u1235\u121d\u121d\u1290\u1275 \u120b\u12ed \u1270\u12f0\u122d\u1230\u12cb\u120d", "romanized": "baqenye gezaate waqete baenegelize adaraadaarinate batadaraga sememenate wanezune lamakafaa faleka sememenate laaye tadaresawaale", "wer": 0.3333333333333333}, {"sample": 206, "transcription": "\u1260\u1270\u1328\u121b\u122a\u121d \u12e8\u121a\u1292\u1235\u1275\u122f\u1275 \u12a8\u1320\u1245\u120b\u12ed \u12e8\u121a\u1235\u1275\u122d \u1200\u126a \u12e8\u12a0\u12d3\u1218\u12f5 \u12a5\u1293 \u12a8\u1236\u121b\u120a\u12eb \u1355\u122c\u12dd\u12f3\u1295\u1275 \u1210\u1230\u1295\u123c\u12ad \u1218\u1205\u1219\u12f5 \u130b\u122d \u12e8\u1226\u1235\u1275 \u12ed\u1239 \u12cd\u12ed\u1275 \u12a0\u12f0\u122d\u1308\u12cb\u120d", "romanized": "batachamaarime yaminiseterwate kataqelaaye yamisetere havi yaaaamade enaa kasomaaliyaa pereezedaanete hhasanesheeke mahemude gaare yasosete yeshu weyete adaregawaale", "wer": 0.8666666666666667}, {"sample": 207, "transcription": "\u1260\u1262\u1238\u134d\u1271 \u12a8\u1270\u121b \u12e8 \u12a2\u1295\u12f1\u1235\u1275\u122a \u1218\u1295\u12f0\u122d \u120a\u1308\u1290\u1263\u12a5\u1295\u12f0\u1206\u1290 \u1270\u1308\u1208\u1338", "romanized": "babishafetu katamaa ya ineduseteri manedare liganabaaenedahona tagalatsa", "wer": 0.7142857142857143}, {"sample": 208, "transcription": "\u1303\u1295\u1303\u12ca\u12f5 \u1260\u12d8\u122d \u121b\u132d\u12f3\u1275 \u1305\u121d\u120b \u1218\u12f5\u1348\u122d\u1295 \u12a5\u1295\u12f0 \u1326\u122d \u1218\u1233\u120b\u12ed \u1260\u1218\u1320\u1240\u121d \u12ad\u1235 \u12ed\u1240\u122d\u1265\u1260\u1273\u120d", "romanized": "jaanejaawide bazare maachedaate jemelaa madefarene eneda tore masaalaaye bamataqame kese yeqarebebataale", "wer": 0.18181818181818182}, {"sample": 209, "transcription": "\u12e8\u1348\u122d\u1275\u1296\u127d \u1260\u121c\u12f3\u1278\u12cd \u134d\u120d\u1203\u121d\u1295 \u12d3\u1208\u121d \u12a0\u1235\u1246\u121b\u1278\u12cd \u1275\u120d\u1245 \u12e8\u121b\u1235\u1320\u1242\u1245 \u12eb\u12f0\u12cb\u120d \u1290\u12cd", "romanized": "yafaretenoche bameedaachawe felehaamene aalame aseqomaachawe teleqe yamaasetaqiqe yaadawaale nawe", "wer": 0.75}, {"sample": 210, "transcription": "\u12a5\u1294 \u12f0\u130d\u121e \u12a8\u134d\u1270\u129d \u12a0\u12f0\u130b \u1263\u130b\u1320\u1218 \u130a\u12dc \u12a0\u12f5\u1290\u12eb\u12a0\u1208\u121d", "romanized": "enee dagemo kafetanye adagaa baagaatama gizee adenayaaalame", "wer": 0.42857142857142855}, {"sample": 211, "transcription": "\u12a0\u1263\u1277\u121d \u120d\u1305\u1277 \u1260\u1323\u121d \u1200\u1265\u1273\u1219 \u1295\u1239\u1295 \u12a5\u1295\u12f0\u1273\u1308\u1263\u12cd \u12a5\u1293 \u12a8\u1260\u12da\u1205\u121d \u1218\u1235\u121b\u121b\u1271\u1295\u1290\u1308\u1228\u1275", "romanized": "abaatwame lejetwa bataame habetaamu neshune enedataagabaawe enaa kabaziheme masemaamaatunenagarate", "wer": 0.6666666666666666}, {"sample": 212, "transcription": "\u12cb\u1293 \u12cd\u1241\u121d \u1290\u1308\u122d \u12e8\u1270\u1348\u1320\u1228\u12cd \u1338\u1265 \u12a5\u1235\u12aa\u12c8\u12f2\u12eb\u129b\u12cd \u12a0\u122b\u122d\u1246 \u12a0\u1208\u1218\u1246\u12ed\u1271 \u1260\u122d\u1245 \u12a5\u1293 \u1260\u12ed\u1245\u122d \u1270\u1218\u124b\u132d\u1271 \u120b\u12ed \u1290\u12cd", "romanized": "waanaa wequme nagare yatafatarawe tsabe esekiwadiyaanyaawe araareqo alamaqoyetu bareqe enaa bayeqere tamaqwaachetu laaye nawe", "wer": 0.6153846153846154}, {"sample": 213, "transcription": "\u12a5\u122d\u1231\u121d \u1218\u1295\u1308\u12f1\u1295 \u1240\u1325\u120e \u1208\u1226\u1235\u1270\u129b \u130a\u12dc \u12a0\u1308\u1298\u12cd \u1230\u12cd \u1275\u120d\u1245 \u12a0\u1208\u1275 \u12a5\u12e8\u1308\u134b \u1290\u1260\u122d", "romanized": "eresume manegadune qatelo lasosetanyaa gizee aganyawe sawe teleqe alate eyagafaa nabare", "wer": 0.18181818181818182}, {"sample": 214, "transcription": "\u1232\u1348\u1293\u1230\u1295 \u1260\u1218\u1300\u1218\u122a\u12eb \u12e8\u121b\u122b\u1271\u1295 \u1270\u1233\u1275\u134f \u12e8\u120c\u1295\u12f0\u1295 \u121b\u122b\u1271\u1295\u1295 \u121b\u123d\u1295\u134d\u127d \u12a0\u1208\u127d", "romanized": "sifanaasane bamajamariyaa yamaaraatune tasaatefwa yaleenedane maaraatunene maashenefeche alache", "wer": 0.8888888888888888}, {"sample": 215, "transcription": "\u12a5\u1343\u1293\u1275 \u1260\u1264\u1275 \u1235\u1228\u1270\u129e\u127d \u121b\u12f0\u130b\u1278\u12cd \u127d\u130d\u1229 \u121d\u1295\u12f5\u1290\u12cd", "romanized": "etzaanaate babeete seratanyoche maadagaachawe chegeru menedenawe", "wer": 0.5714285714285714}, {"sample": 216, "transcription": "\u1260\u1270\u1208\u12ed \u133e\u121d \u12e8\u121a\u1308\u12f0\u1348\u12cd \u1264\u1270\u1230\u1265 \u12a5\u1293 \u12a0\u12cd\u12f3\u1305 \u1260\u1270\u1230\u1260\u1230\u1260\u1260\u1275 \u1235\u1208\u1206\u1290 \u121d\u130d\u1265 \u1260\u122d\u12a8\u1275\u1275\u12f0\u122d\u1246 \u12ed\u12d8\u130b\u1300\u120d", "romanized": "batalaye tsome yamigadafawe beetasabe enaa awedaaje batasabasababate selahona megebe barekatetedareqo yezagaajale", "wer": 0.3333333333333333}, {"sample": 217, "transcription": "\u12a8\u12db \u12cd\u132d \u1260\u1206\u1290 \u1260\u121b\u1295\u129b\u12cd\u121d \u12f5\u1265\u1245 \u12a0\u1300\u1295\u12f3 \u12e8\u1270\u1290\u1233\u1233 \u12e8\u1320\u120d\u1243 \u1308\u1265\u1290\u1275 \u12a5\u1295\u1245\u1235\u1243\u1234 \u1260\u1273\u122a\u12ad \u1238\u1295\u130e \u120b\u12ed \u1270\u1320\u12eb\u1242 \u12eb\u12f0\u122d\u1308\u1295", "romanized": "kazaa weche bahona bamaanenyaaweme debeqe ajanedaa yatanasaasaa yataleqaa gabenate eneqeseqaasee bataarike shanego laaye tatayaaqi yaadaregane", "wer": 0.13333333333333333}, {"sample": 218, "transcription": "\u12a5\u1293\u1276\u127d \u1260\u1270\u1208\u12ed \u12e8\u1218\u1300\u1218\u122a\u12eb \u1208\u1303\u1278\u12cd\u1295 \u12a8\u12c8\u1208\u12f1 \u1260\u128b\u120b \u1260\u12a0\u132d\u122d \u12c8\u122d\u1275 \u12cd\u1235\u1325 \u12c8\u12f0 \u1225\u122b \u12a5\u1295\u12f2\u1218\u1208\u1231 \u12ed\u1308\u12f0\u12f3\u1209", "romanized": "enaatoche batalaye yamajamariyaa lajaachawene kawaladu baxwaalaa baachere warete wesete wada seraa enedimalasu yegadadaalu", "wer": 0.15384615384615385}, {"sample": 219, "transcription": "\u12ed\u1205\u1295\u1295\u121d \u12ab\u1208\u127d \u1260\u128b\u120b \u1270\u130b\u1265\u1270\u12cd \u1260\u1230\u120b\u121d \u1265\u1228\u12cd \u1218\u1296\u122d \u1300\u1218\u1229", "romanized": "yeheneneme kaalache baxwaalaa tagaabetawe basalaame berawe manore jamaru", "wer": 0.125}, {"sample": 220, "transcription": "\u12a8\u12ed\u1229\u121d\u1295 \u12a0\u12ed\u1290\u1275 \u12a5\u122d\u121d\u1303 \u12a5\u1295\u12f0\u121d\u1275 \u12cd\u1235\u1275 \u12a5\u1293\u12eb\u1208", "romanized": "kayerumene ayenate eremejaa enedamete wesete enaayaala", "wer": 1.0}, {"sample": 221, "transcription": "\u12e8\u120c\u120b \u12e8\u12a5\u121d\u1290\u1275 \u1270\u12a8\u1270\u12ed\u1305 \u1260\u12a5\u121d\u1290\u1273\u1278\u12cd \u121d\u12ad\u1295\u12eb\u1275 \u1208\u12a5\u1235\u122d \u1208\u1235\u12f0\u1275 \u1293 \u12a5\u1295\u12f0\u121a\u12f0\u1228\u1229 \u12ed\u1290\u1308\u1228", "romanized": "yaleelaa yaemenate takatayeje baemenataachawe mekeneyaate laesere lasedate naa enedamidararu yenagara", "wer": 0.5555555555555556}, {"sample": 222, "transcription": "\u1201\u1208\u1271 \u1200\u1308\u122b\u1275 \u1309\u12f3\u12e9\u1295 \u12c8\u12f0 \u1270\u1263\u1260\u1229\u1275 \u1218\u1295\u130d\u1225\u1273\u1275 \u12e8\u1338\u1320\u1273\u12cd \u121d\u12ad\u122d \u1264\u1275 \u12c8\u1235\u12f0\u12cd\u1275\u121d \u1290\u1260\u122d", "romanized": "hulatu hagaraate gudaayune wada tabaabarute manegesetaate yatsatataawe mekere beete wasedaweteme nabare", "wer": 0.2727272727272727}, {"sample": 223, "transcription": "\u1230\u12cd\u12e8\u12cd\u121d \u12a0\u1295\u1260\u1233\u12cd\u1295 \u12a8\u12c8\u1325\u1218\u12f1 \u12a0\u12c8\u1323\u12cd", "romanized": "saweyaweme anebasaawene kawatemadu awataawe", "wer": 0.0}, {"sample": 224, "transcription": "ls\u12aae\u1271 sn\u1326e\u1273\u130bl mnstr \u1206b\u12echml lslm lmsltn crrmjw\u1233\u12ednbr", "romanized": "lskietu sntoetaagaal mnstr hobyeehml lslm lmsltn crrmjwsaayenbr", "wer": 1.0}, {"sample": 225, "transcription": "\u12a5\u1295\u12f2\u1205 \u12a5\u12eb\u1208\u121d \u12ed\u1348\u1275\u1290\u12cd \u1300\u1218\u122d", "romanized": "enedihe eyaalame yefatenawe jamare", "wer": 0.0}, {"sample": 226, "transcription": "\u1208\u12da\u1205\u121d\u1290 \u12a0\u1295\u12f3\u1295\u12f5 \u1218\u1235\u122a\u12eb \u1264\u1276\u127d \u12a5\u1293 \u1275\u121d\u1205\u122d\u1275 \u1264\u1276\u127d \u1208\u1234\u1276\u127d \u12e8\u12cd\u122b\u1260\u1263\u1228\u134d\u1275 \u1218\u1235\u1320\u1275 \u12ed\u1300\u1218\u1229\u1275", "romanized": "lazihemena anedaanede maseriyaa beetoche enaa temeherete beetoche laseetoche yaweraababaarafete masetate yejamarute", "wer": 0.5}, {"sample": 227, "transcription": "\u1260\u1215\u12ed\u12c8\u1274 \u12e8\u1275\u122d\u1309\u121d \u12eb\u1208\u12cd \u1225\u122b\u121d \u1208\u1218\u1225\u122b\u1275 \u12a5\u1348\u120d\u130d \u1290\u1260\u122d", "romanized": "bahheyewatee yateregume yaalawe seraame lamaseraate efalege nabare", "wer": 0.14285714285714285}, {"sample": 228, "transcription": "\u12e8\u12a2\u1275\u12ee\u1352\u12eb \u130d\u122d\u12ae\u1235 \u134c\u12f4\u122cato\u1295 \u12a0pp\u120de \u1232\u1206\u1295 \u1218\u1240\u1218\u132b \u12c8\u1295\u1305 \u1235\u1273\u12f4\u121d \u1290\u12cd", "romanized": "yaiteyopiyaa gerekose feedeereeatone applee sihone maqamachaa waneje setaadeeme nawe", "wer": 0.8}, {"sample": 229, "transcription": "\u1206\u1296\u121d \u1304\u1294\u122b\u120d \u1261\u122b\u1203\u1295 \u12a0\u12ad\u122b\u122a \u1219\u1235\u120a\u121e\u127d\u1295 \u12a5\u1293 \u12e8\u1240\u12f5\u121e \u12a0\u1308\u12db\u12db\u1218\u122b\u122e\u127d\u1295 \u12c8\u12f0 \u1240\u12f0\u1218 \u1266\u1273\u1278\u12cd \u1218\u1218\u1208\u1235 \u1300\u1218\u1229 \u1232\u1209\u121d \u1270\u1293\u130d\u1228\u12cb\u120d", "romanized": "honome jeeneeraale buraahaane akeraari muselimochene enaa yaqademo agazaazaamaraarochene wada qadama botaachawe mamalase jamaru silume tanaagerawaale", "wer": 0.4}, {"sample": 230, "transcription": "\u1260\u12da\u1205 \u130d\u132d\u1275 \u121b\u1203\u120d \u1201\u1208\u1275 \u1300\u1294\u122b\u120e\u127d \u1260\u1263\u120b\u1295\u1323\u1290\u1275 \u1260\u133d\u1295\u134d \u1235\u1265\u122b \u1270\u1240\u121d\u1270\u12cb\u120d", "romanized": "bazihe gechete maahaale hulate janeeraaloche babaalaanetaanate batsenefe seberaa taqametawaale", "wer": 0.4444444444444444}, {"sample": 231, "transcription": "\u1230\u12ce\u127d \u12a5\u1235\u12a8 \u1218020 5\u121d\u1235\u1275 \u12a5\u1293 \u12180 \u1230\u120b\u12d3\u1233\u121d \u120a\u1296\u1229 \u12ed\u127d\u120b\u1209", "romanized": "sawoche eseka ma020 5mesete enaa ma0 salaaaasaame linoru yechelaalu", "wer": 0.5}, {"sample": 232, "transcription": "\u12ac\u120d\u126a\u1235 \u12aa\u1355\u1270\u121d \u1201\u1208\u1275 \u1230\u12d3\u1275 \u12a8\u1295\u12f5 \u12f0\u1242\u130b \u12a85\u1230\u12a8\u1295\u12f5 \u1260\u1218\u130d\u1263\u1275 \u12e8\u12d3\u1208\u121d \u1201\u1208\u1270\u129b \u1348\u1323\u1295 \u1230\u12d3\u1275 \u12a0\u1235\u1218\u12dd\u130d\u1267\u120d", "romanized": "keelevise kipetame hulate saaate kanede daqigaa ka5sakanede bamagebaate yaaalame hulatanyaa fataane saaate asemazegebwale", "wer": 0.4}, {"sample": 233, "transcription": "\u12a0\u1263\u12ed \u12a8\u12d3\u1208\u121b\u127d\u1295 \u1228\u12e3\u12e5 \u121e\u1295\u12de\u127d \u1260\u1240\u12f3\u121a\u1290\u1275 \u12ed\u1240\u1218\u1323\u120d", "romanized": "abaaye kaaalamaachene razhaazhe monezoche baqadaaminate yeqamataale", "wer": 0.3333333333333333}, {"sample": 234, "transcription": "\u1260\u12a0\u1295\u12f5 \u1219r\u127a \u1294\u1270 \u1263\u1208 \u1230\u1201\u1290\u130d\u1313\u122d", "romanized": "baanede murchi neeta baala sahunagegwaare", "wer": 0.8571428571428571}, {"sample": 235, "transcription": "\u1263\u120d\u12e8\u12cd \u134d\u1245\u1228\u129b\u12cd\u1295 \u120a\u12d8\u122d \u1232\u121e\u12ad\u122d \u134d\u1245\u1228\u129b\u12cd \u12f0\u130d\u121e \u1208\u121b\u121d\u1208\u1325 \u1232\u121e\u12ad\u122d \u1275\u130d\u120d\u130d\u121b \u1270\u1300\u1218\u1229", "romanized": "baaleyawe feqeranyaawene lizare simokere feqeranyaawe dagemo lamaamelate simokere tegelegemaa tajamaru", "wer": 0.4}, {"sample": 236, "transcription": "\u1260\u122d\u12ab\u1273 \u134d\u1295\u12f0\u1273\u12ce\u127d \u12e8\u121a\u12c8\u1290 \u132d\u12a9 \u122d\u12ac\u1276\u127d \u12a5\u1295\u12f2\u1201\u1295 \u1348\u122d\u12d5\u1275 \u1218\u1295\u1308\u1235 \u12e8\u1231\u12f3\u1295 \u12e8\u12d5\u1208\u1275 \u1270\u12d5\u1208\u1275 \u1218\u12f5\u122b \u1201\u1294\u1273 \u12a8\u1206\u1290 \u1240\u1293\u1275\u1295 \u12a0\u1235\u1246\u1320\u1228", "romanized": "barekaataa fenedataawoche yamiwana cheku rekeetoche enedihune fareete manegase yasudaane yaelate taelate maderaa huneetaa kahona qanaatene aseqotara", "wer": 0.4666666666666667}, {"sample": 237, "transcription": "\u1231\u12f3\u1295 \u12cd\u1235\u1325 \u12e8\u121a\u1205\u1296\u12cd\u1295 \u1290\u1308\u122d \u1260\u12a0\u120e\u1273\u12ca\u121d \u1206\u1290 \u1260\u12a0\u12c8\u1295\u1273\u12ca \u1270\u133d\u1296\u1295 \u120a\u12eb\u1233\u12f5\u122d\u1263\u1278\u12cd \u12ed\u127d\u120b\u120d", "romanized": "sudaane wesete yamihenowene nagare baalotaawime hona baawanetaawi tatsenone liyaasaaderebaachawe yechelaale", "wer": 0.4}, {"sample": 238, "transcription": "\u12a8\u12da\u12eb \u12f0\u130d\u121e \u12e8\u1270\u1240\u1293\u1243\u129b\u1278\u12cd\u1295 \u1235\u120d\u12ad \u12a0\u1235\u1320\u120d\u1348\u12cd \u121d\u1235\u1322\u1229 \u1260\u130b\u12dc\u1323\u120d \u12a0\u12f5\u1263\u12ca \u12a5\u1295\u12f2\u130b\u1208\u1325 \u12a0\u12f5\u122d\u1308\u12cb\u120d \u1260\u121a\u120d \u12a0\u1295\u12f5\u12d3\u1218\u1275 \u1270\u1348\u122d\u12f6\u1263\u1278\u12cb\u120d", "romanized": "kaziyaa dagemo yataqanaaqaanyaachawene seleke asetalefawe mesetiru bagaazeetaale adebaawi enedigaalate aderegawaale bamile anedeaamate tafaredobaachawaale", "wer": 0.35714285714285715}, {"sample": 239, "transcription": "\u12d5\u122d\u1245 \u12a0\u12cd\u122b\u1301\u121d \u12a5\u1231 \u12ed\u1245\u122d\u1263\u12e9\u121d \u12a5\u1231 \u1290\u12cd", "romanized": "ereqe aweraajume esu yeqerebaayume esu nawe", "wer": 0.2857142857142857}, {"sample": 240, "transcription": "\u1260\u1226\u1235\u1270\u129b\u12cd \u1233\u1325\u1295 \u12cd\u1235\u1325 \u12f0\u130d\u121e \u12c8\u122d\u1245 \u12a0\u1235\u1240\u121d\u1320\u12cd \u12a0\u1238\u1308\u12cd", "romanized": "basosetanyaawe saatene wesete dagemo wareqe aseqametawe ashagawe", "wer": 0.2857142857142857}, {"sample": 241, "transcription": "\u12e8\u130d\u12f5\u1261 \u1241\u1218\u1275 \u12a8\u1263\u122d \u1320\u1208\u120d\u1260\u120b\u12ed 50065 \u121c\u1275\u122d \u120b\u12ed \u12f0\u122d\u1230\u12cb\u120d", "romanized": "yagedebu qumate kabaare talalebalaaye 50065 meetere laaye daresawaale", "wer": 0.6666666666666666}, {"sample": 242, "transcription": "\u1235\u1245\u120b\u1275\u1295 \u12a5\u1293 \u121e\u1275\u1295 \u1208\u121b\u121d\u1208\u1325 \u1235\u120d \u12a8\u121b\u1296\u12ce\u1279 \u12d8\u1295\u12f5 \u12a0\u12f0\u12a8\u1208", "romanized": "seqelaatene enaa motene lamaamelate sele kamaanowochu zanede adakala", "wer": 0.5}, {"sample": 243, "transcription": "\u12a5\u122d\u121d\u1303\u12cd \u12eb\u120d\u1270\u1308\u1263 \u12e8\u1356\u1208\u1272\u12ab \u1270\u133d\u12d5\u1296\u1295 \u1208\u1218\u12a8\u120b\u12a8\u120d \u12a8\u1245\u122d\u1263 \u12a0\u1218\u1273\u1275 \u12c8\u12f5 \u12e8\u1270\u1300\u1218\u1228\u12cd \u1325\u1228\u1273\u12ab\u120d \u1290\u12cd", "romanized": "eremejaawe yaaletagabaa yapolatikaa tatseenone lamakalaakale kaqerebaa amataate wade yatajamarawe terataakaale nawe", "wer": 0.5}, {"sample": 244, "transcription": "\u12a5\u1285\u1277\u1295 \u1260\u1218\u130d\u12f0\u12f5 \u12a8\u1270\u12a8\u1230\u1231\u1275 \u12a0\u122b\u1275 \u12e8\u1240\u12f5\u121e\u12cd \u12e8\u12f0\u1205\u1290\u1275 \u1356\u120a\u1235 \u12a0\u1263\u120b\u1275 \u1218\u12ab\u12a8\u120d \u1201\u1208\u1271 \u1215\u12ed\u12c8\u1273\u127d\u12cd \u12a0\u120d\u134f\u120d", "romanized": "exetwane bamagedade katakasasute araate yaqademowe yadahenate polise abaalaate makaakale hulatu hheyewataachewe alefwale", "wer": 0.4166666666666667}, {"sample": 245, "transcription": "\u12a8\u12a2\u12ae\u1296\u121a \u12a5\u1293 \u121b\u1215\u1260\u122b \u12e8\u1201\u1294\u1273\u1295 \u121b\u1295\u1343\u122d \u1325\u122c\u12ed\u1235\u130b \u1218\u1218\u1308\u1265 \u12e8\u122b\u1231 \u1270\u133d\u1296 \u12a5\u1295\u12f3\u1208 \u12f6\u12ad\u1270\u122d \u12ab\u120a\u1262 \u12a0\u1235\u1228\u12f3\u1209", "romanized": "kaikonomi enaa maahhebaraa yahuneetaane maanetzaare tereeyesegaa mamagabe yaraasu tatseno enedaala doketare kaalibi aseradaalu", "wer": 0.6428571428571429}, {"sample": 246, "transcription": "\u1263\u122b\u1270\u129b\u12cd\u1295 \u1240\u1295 \u12ed\u1205\u1295\u1291 \u12a0\u12f0\u1228\u1308", "romanized": "baaraatanyaawene qane yehenenu adaraga", "wer": 0.25}, {"sample": 247, "transcription": "\u1263\u1208\u1349\u12cd\u1235\u1325 \u1233\u121d\u1295\u1273\u1275 \u1208\u12a0\u1235\u1276\u1295\u126a\u120b \u12a0\u1290\u1235\u1270\u129b \u130d\u121d\u1275 \u12e8\u1230\u1320\u12cd\u1275\u1295 \u12e8\u1265\u127b \u12a0\u12ed\u1218\u1235\u1208\u129d\u121d", "romanized": "baalafuwesete saamenetaate laasetonevilaa anasetanyaa gemete yasatawetene yabechaa ayemaselanyeme", "wer": 0.6}, {"sample": 248, "transcription": "\u12e8\u1272\u12e9\u1270\u122d \u1230\u121b\u12eb\u12ca \u132d\u1228\u1275 \u12e8\u130d\u1208\u1230\u1261\u1295 \u1275\u12ad\u12ad\u1208\u129b \u121b\u1295\u1290\u1275 \u12a8\u121b\u1228\u130b\u1308\u1325 \u1263\u1208\u1348 \u12a5\u1295\u12f0 \u12ad\u1265\u122d \u12a5\u1293 \u121e\u1308\u1235 \u1218\u1248\u1320\u122d \u1300\u121d\u122f\u120d", "romanized": "yatiyutare samaayaawi cherate yagelasabune tekekelanyaa maanenate kamaaragaagate baalafa eneda kebere enaa mogase maqwatare jamerwale", "wer": 0.3076923076923077}, {"sample": 249, "transcription": "\u1208\u121d\u1295\u12f5\u1295\u1290\u12cd \u12ed\u1205\u1295\u1295 \u12eb\u12f0\u1228\u1308\u12cd \u1260\u122d\u130d\u1325 \u12a0\u1275\u1243\u12cd\u1219 \u1265\u1209\u1295 \u1235\u1208\u1290\u1260\u1228 \u1218\u12ab\u12cd\u121d \u12a0\u1295\u127d\u120d\u121d", "romanized": "lamenedenenawe yehenene yaadaragawe baregete ateqaawemu belune selanabara makaaweme anecheleme", "wer": 0.4444444444444444}, {"sample": 250, "transcription": "\u12a0\u1226\u122b\u12cd\u12eb\u1295 \u12a5\u1295\u12f2\u1201\u1295 \u1260\u1263\u1262\u120e\u1293\u12cd\u12eb\u1295 \u12d8\u1218\u1295 \u1260\u1218\u1235\u1240\u120d \u120b\u12ed \u12e8\u121a\u1348\u1338\u121d \u12e8\u1218\u12cd\u1325 \u1245\u1323\u1275 \u12a5\u1295\u12f0\u1270\u1300\u1218\u1228 \u12f6\u1270\u122d \u123a\u120d\u12ee\u122d \u12eb\u121d\u1293\u1209", "romanized": "asoraaweyaane enedihune babaabilonaaweyaane zamane bamaseqale laaye yamifatsame yamawete qetaate enedatajamara dotare shileyore yaamenaalu", "wer": 0.38461538461538464}, {"sample": 251, "transcription": "\u1262\u12ee\u1295 \u1232 \u12a5\u1293 \u12a0\u1261\u1290 \u134d\u122b\u1295\u1232\u1235 \u12e8\u1275\u12ca\u1270\u122d \u1230\u121b\u12eb\u12ca \u121d\u120d\u12ad\u1275 \u12a0\u1321", "romanized": "biyone si enaa abuna feraanesise yatewitare samaayaawi melekete atu", "wer": 0.25}, {"sample": 252, "transcription": "\u1264\u1270 \u12ad\u122d\u1235\u1272\u12eb\u1297 \u127d\u130d\u1229\u1295 \u1260\u1203\u12ed\u121b\u1296\u1273\u12cd \u12ed\u1240\u1296\u1293 \u12a5\u1293 \u1225\u122d\u12d3\u1275\u1295 \u1260\u1320\u1260\u1240 \u1218\u120d\u12a9\u1295 \u12a5\u1295\u12f0\u1270\u1348\u1273\u121d \u121b\u1235\u1273\u12c8\u124b  \u12a0\u12ed\u1273\u12c8\u1233\u120d", "romanized": "beeta keresetiyaanwa chegerune bahaayemaanotaawe yeqanonaa enaa sereaatene batabaqa malekune enedatafataame maasetaawaqwaa  ayetaawasaale", "wer": 0.3333333333333333}, {"sample": 253, "transcription": "\u1260\u1218\u1235\u1240\u12f5 \u120b\u12ed \u12e8\u121a\u1348\u1338\u1218\u12cd \u1235\u1245\u120b\u1275 \u12e8\u1270\u12c8\u1308\u12d9 \u12e8\u1270\u1320\u1209 \u1230\u12ce\u127d \u1208\u121b\u130b\u1208\u1275 \u12a5\u1293 \u1208\u121b\u12cb\u1228\u12f5 \u12e8\u121a\u12f0\u1228\u130d\u1290\u12cd \u12ed\u120b\u1209 \u1355\u122e\u134c\u1230\u122d \u1354\u122c\u12dd", "romanized": "bamaseqade laaye yamifatsamawe seqelaate yatawagazu yatatalu sawoche lamaagaalate enaa lamaawaarade yamidaragenawe yelaalu perofeesare peereeze", "wer": 0.3333333333333333}, {"sample": 254, "transcription": "\u1273\u121b\u129d \u12e8\u121a\u1263\u1209\u1275 \u12cd\u123e\u127d \u12a5\u1295\u12b3\u1295 \u1230\u12cd \u1230\u12cd\u1295 \u1260\u12da\u12eb \u12a0\u1218\u120d\u12a9 \u1232\u1328\u132d\u1348\u12cd \u1200\u12ed\u1270\u12cd \u1328\u12a8\u1291", "romanized": "taamaanye yamibaalute weshoche enekwaane sawe sawene baziyaa amaleku sichachefawe hayetawe chakanu", "wer": 0.2727272727272727}, {"sample": 255, "transcription": "\u12e8\u1218\u1295\u12f0\u1229\u121d \u1230\u12ce\u127d \u121d\u1295 \u12a5\u1295\u12f0\u121a\u12eb\u12f0\u122d\u1309\u1275 \u130d\u122b \u1308\u1265\u1277\u1278\u12cd \u1290\u1260\u122d", "romanized": "yamanedarume sawoche mene enedamiyaadaregute geraa gabetwachawe nabare", "wer": 0.0}, {"sample": 256, "transcription": "\u12a0\u122d\u1265 \u121d\u123d\u1275 \u1218\u12f5\u1348\u129e\u1279 \u1260\u121c\u12f3\u1278\u12cd \u1233\u12cd \u12db\u1295\u1355\u1270\u1295\u1295 \u12eb\u1235\u1270\u1293\u130d\u12f3\u1209", "romanized": "arebe meshete madefanyochu bameedaachawe saawe zaanepetanene yaasetanaagedaalu", "wer": 0.6666666666666666}, {"sample": 257, "transcription": "\u12a8\u1270\u121b \u12e8\u121b\u12eb\u124b\u1229\u1325 \u12e8\u1348\u1295\u12f3\u1273 \u12f5\u121d\u1325 \u1260\u1265\u122d\u1203\u1295 \u1232\u121e\u120b\u1275\u121d \u12e8\u1205\u12ed\u12c8\u1275 \u1295\u1245\u1235\u12ab\u1234\u127d \u1240\u1325\u1208", "romanized": "katamaa yamaayaaqwaarute yafanedaataa demete baberehaane simolaateme yaheyewate neqesekaaseeche qatela", "wer": 0.7777777777777778}, {"sample": 258, "transcription": "\u1273\u134d\u1290\u12cd \u12a5\u12e8\u1273\u1230\u1229 \u12a5\u1293 \u1218\u12a5\u1308\u1293\u129b \u1265\u12d9\u1295 \u1270\u124b\u121b\u1275 \u12eb\u1208 \u134d\u122d\u12ad \u1264\u1275\u12db\u12dd\u1265 \u1265\u122d\u1260\u122b\u12ed \u12a5\u12e8\u1270\u12ab\u1204\u12f0\u1263\u1278\u12cd \u1290\u12cd \u12a0\u1208", "romanized": "taafenawe eyataasaru enaa maeganaanyaa bezune taqwaamaate yaala fereke beetezaazebe berebaraaye eyatakaaheedabaachawe nawe ala", "wer": 0.42857142857142855}, {"sample": 259, "transcription": "\u1260\u130b\u122b \u12a8\u1235\u121d\u121d\u1290\u1233\u12ed \u1208\u1218\u12f5\u1228\u1235 \u1208\u12a0\u1308\u122b\u1271 \u1228\u1230 \u1265 \u1214\u122b\u1295 \u1309\u12f3\u12e9\u1295 \u120a\u1240\u122d\u1261 \u12ed\u127d\u120b\u1209", "romanized": "bagaaraa kasememenasaaye lamaderase laagaraatu rasa be hheeraane gudaayune liqarebu yechelaalu", "wer": 0.6}, {"sample": 260, "transcription": "\u1260\u12da\u1205 \u130a\u12dc\u121d \u1230\u12cd \u12e8\u12cd\u1295 \u121d\u1295 \u12a5\u12eb\u12f0\u1228\u12ad\u1290\u12cd \u12a0\u1208\u12cd", "romanized": "bazihe gizeeme sawe yawene mene eyaadarakenawe alawe", "wer": 0.5714285714285714}, {"sample": 261, "transcription": "\u1260\u1231\u12f3\u1295 \u1218\u12f2\u1293 \u12ab\u122d\u1271\u121d \u12a5\u1295\u12f2\u1201\u1295 \u1260\u120c\u120e\u127d \u1260\u122d\u12ab\u1273 \u12e8\u12a0\u1308\u122a\u1271 \u12ad\u134d\u120e\u127d \u12e8\u121a\u1296\u1229 \u12e8\u121a\u120a\u12ee\u1296\u127d \u1215\u12ed\u12c8\u1275 \u12a0\u12f0\u130b \u120b\u12ed \u12c8\u12f5\u124b\u120d", "romanized": "basudaane madinaa kaaretume enedihune baleeloche barekaataa yaagaritu kefeloche yaminoru yamiliyonoche hheyewate adagaa laaye wadeqwaale", "wer": 0.14285714285714285}, {"sample": 262, "transcription": "\u1201\u1208\u1270\u129b\u12cd \u1230\u12cd \u12f0\u130d\u121e \u1260\u12a8\u134a\u120d \u12a5\u121d\u1290\u1275 \u12eb\u1208\u12cd \u1290\u12cd", "romanized": "hulatanyaawe sawe dagemo bakafile emenate yaalawe nawe", "wer": 0.0}, {"sample": 263, "transcription": "\u12e8\u12ad\u122b\u12f6\u12ad \u12a0\u122b\u1275 \u1264\u1270\u1230\u12ce\u127d \u12a83\u1233 8\u121d\u1295\u1275 \u12d3\u1218\u1273\u1275 \u1260\u128b\u120b \u1308\u12f3\u12ee\u1279\u1295 \u1208\u134d\u122d\u12f5 \u1208\u121b\u1245\u1228\u1265 \u12a5\u1293 \u134d\u1275\u1205\u1295 \u1208\u121b\u130d\u1298\u1275 \u12a5\u12e8\u1270\u1320\u1263\u1260\u1241 \u1290\u12cd", "romanized": "yakeraadoke araate beetasawoche ka3saa 8menete aamataate baxwaalaa gadaayochune laferede lamaaqerabe enaa fetehene lamaagenyate eyatatabaabaqu nawe", "wer": 0.26666666666666666}, {"sample": 264, "transcription": "\u12a0\u1201\u1295 \u12c8\u12f0\u1264\u1275 \u1263\u1275\u1218\u1208\u123a\u1205 \u1290\u12cd \u12e8\u121a\u123b\u12eb\u1208\u127d", "romanized": "ahune wadabeete baatemalashihe nawe yamishaayaalache", "wer": 0.4}, {"sample": 265, "transcription": "\u12c8\u12f0 \u134c\u12f4\u122b\u120d \u12a5\u1293 \u12ad\u120d\u120d \u12e8\u1338\u1325\u1273 \u1283\u12ed\u120d \u12cd\u1235\u1325 \u1260\u121b\u12ab\u1270\u1275 \u1218\u120d\u1236 \u1208\u1218\u12cb\u130b\u122d \u121d\u12ad\u1295\u12eb\u1275 \u1218\u1206\u1291\u1295 \u12e8\u1273\u121b\u12e6\u127d \u123d\u1219 \u1308\u1338\u12cb\u120d", "romanized": "wada feedeeraale enaa kelele yatsatetaa xaayele wesete bamaakaatate maleso lamawaagaare mekeneyaate mahonune yataamaazhoche shemu gatsawaale", "wer": 0.4}, {"sample": 266, "transcription": "\u1260\u1218\u12f0\u1260\u129b\u12cd \u1326\u122d \u12a5\u1293 \u1260\u1348\u133d\u122e \u12f0\u122b\u123d \u1283\u12ed\u120d \u1218\u12ab\u12a8\u120d \u12eb\u1208\u12cd \u12cd\u1325\u1228\u1275 \u12a5\u12e8\u1328\u1218\u1228 \u1218\u1323", "romanized": "bamadabanyaawe tore enaa bafatsero daraashe xaayele makaakale yaalawe weterate eyachamara mataa", "wer": 0.18181818181818182}, {"sample": 267, "transcription": "\u1260\u12a0\u1263\u12e8\u1270\u134b\u1230\u1231 \u12cd\u1235\u1325 \u12a00\u122d \u12a0\u1308\u122b\u1275 \u12a0\u1208\u121d\u1208", "romanized": "baabaayatafaasasu wesete a0re agaraate alamela", "wer": 0.6666666666666666}, {"sample": 268, "transcription": "\u12a8\u1200\u1308\u122d \u12ad\u1205\u12f0\u1275 \u12a8\u12c8\u1273\u12f0\u122b\u12ca \u12a0\u1218\u1345 \u12a8\u123d\u1265\u122d\u1270\u129d\u1290\u1275 \u12a5\u1293 \u12f0\u1218\u134b\u1230 \u1235\u1295 \u12a0\u1235\u12a8\u1270\u1208 \u12a0\u1295\u12f3\u1295\u12f5 \u12c8\u1295\u1300\u120e\u127d \u130b\u122d \u12e8\u1270\u12eb\u12d8 \u1290\u12cd", "romanized": "kahagare kehedate kawataadaraawi amatze kasheberetanyenate enaa damafaasa sene asekatala anedaanede wanejaloche gaare yatayaaza nawe", "wer": 0.42857142857142855}, {"sample": 269, "transcription": "\u12e8\u12e9\u12ad\u122b\u12ed\u121d \u121d\u122d\u121b\u122a\u12ce\u1279 \u12e8\u12a6\u122d\u1276\u12f6\u12ad\u1235 \u1264\u1270 \u12ad\u122d\u1235\u1272\u12eb\u1295 \u1218\u122a\u12cd \u12e8\u1229\u1232 \u12a0\u12f0\u130b\u134a \u1293\u1278\u12cd \u1260\u121b\u1208\u1275 \u12e8\u12ac\u126d \u1218\u1296\u122a\u12eb \u1264\u1273\u1278\u12cd\u1295 \u1260\u1228\u1260\u1229", "romanized": "yayukeraayeme meremaariwochu yaoretodokese beeta keresetiyaane mariwe yarusi adagaafi naachawe bamaalate yakeeve manoriyaa beetaachawene barabaru", "wer": 0.5384615384615384}, {"sample": 270, "transcription": "\u1260\u12d3\u1208\u121d \u120b\u12ed \u12c8\u12f0 \u1201\u1208\u1275 \u1262\u120a\u12e8\u1295 \u12e8\u121a\u1320\u1309 \u1219\u1235\u120a\u121e\u127d \u12d3\u1218\u1273\u12ca\u12cd\u1295 \u12e8\u1228\u1218\u12f3\u1295 \u133e\u121d \u12ed\u1300\u121d\u1228\u12cb\u120d", "romanized": "baaalame laaye wada hulate biliyane yamitagu muselimoche aamataawiwene yaramadaane tsome yejamerawaale", "wer": 0.2727272727272727}, {"sample": 271, "transcription": "\u12a8\u1218\u12f0\u1260\u129b \u1275\u121d\u1205\u122d\u1271 \u12cd\u132a \u12a0\u1208\u12c8\u1275 \u1295\u12ad\u1235\u1243\u1232\u12ce\u127d \u1260\u12e9\u1292\u1268\u122d\u1232\u1276\u127d \u12d8\u1295\u12f0\u122d\u1235\u12ce \u1235\u120b\u1208\u12c8\u1275 \u121b\u1295\u1290\u1275 \u1218\u1235\u12ab\u122a\u12ce\u127d \u1293\u1278\u12cd", "romanized": "kamadabanyaa temeheretu wechi alawate nekeseqaasiwoche bayunivaresitoche zanedaresewo selaalawate maanenate masekaariwoche naachawe", "wer": 0.6666666666666666}, {"sample": 272, "transcription": "o\u1296o\u121d \u12a0\u1235\u12a8ri\u1296o \u1235\u12a8\u1201n \u12a0\u120d\u1270\u1308\u1298\u121d", "romanized": "onoome asekarinoo sekahun aletaganyame", "wer": 0.75}, {"sample": 273, "transcription": "\u12f0\u1228\u1245 \u1246\u12f3 \u1260\u12a8\u1265\u1276\u127d \u12e8\u121a\u1240\u12ed\u122d \u12a0\u1295\u12f5\u1230\u12cb \u12a0\u1208", "romanized": "daraqe qodaa bakabetoche yamiqayere anedesawaa ala", "wer": 0.2857142857142857}, {"sample": 274, "transcription": "\u1260\u1218\u1308\u1228\u134d \u1265\u127b \u12e8\u121e\u1276 \u1230\u12ce\u127d\u1295 \u1260\u1273\u122a\u12ad \u12f5\u122d\u1233\u1293\u1275 \u12cd\u1235\u1325 \u12a0\u1209 \u1260\u121b\u12d5\u1325 \u1355\u122e\u134c\u1230\u1229 \u12eb\u12ad\u120b\u1209", "romanized": "bamagarafe bechaa yamoto sawochene bataarike deresaanaate wesete alu bamaaete perofeesaru yaakelaalu", "wer": 0.2727272727272727}, {"sample": 275, "transcription": "lwc \u130creloclcrtom liotono", "romanized": "lwc geereloclcrtom liotono", "wer": 1.0}, {"sample": 276, "transcription": "\u12e8\u1219\u12e8\u1270\u122b\u12d8\u1218 \u12cd\u130a\u12eb \u1260\u130d\u1265\u1345 \u120b\u12ed \u12e8\u121a\u12eb\u1233\u12f5\u1228\u12cd \u1270\u133d\u12d5\u1296 \u12a0\u12eb\u1323\u12eb\u12ed\u1245", "romanized": "yamuyataraazama wegiyaa bagebetze laaye yamiyaasaaderawe tatseeno ayaataayaayeqe", "wer": 0.42857142857142855}, {"sample": 277, "transcription": "\u1260\u1201\u1208\u1275\u123a\u1205 1\u1235\u122b 4\u122b\u1275 \u1218\u1295\u130d\u1235\u1273\u1278\u12cd \u1270\u1308\u1208\u1260\u1320", "romanized": "bahulateshihe 1seraa 4raate manegesetaachawe tagalabata", "wer": 0.8571428571428571}, {"sample": 278, "transcription": "\u12a5\u1290\u12da\u1205 \u1230\u12ce\u127d \u12a5\u12f5\u121c\u12eb\u1278\u12cd \u1262\u1308\u134b\u121d \u1260\u12a0\u1295\u1343\u122b\u12ca\u1290\u1275 \u1324\u1290\u129b \u1293\u1278\u12cd", "romanized": "enazihe sawoche edemeeyaachawe bigafaame baanetzaaraawinate teenanyaa naachawe", "wer": 0.2857142857142857}, {"sample": 279, "transcription": "\u1260\u121b\u130d\u1235\u1271\u121d \u12e8\u1290\u1263\u1293 \u12e8\u134d\u12e8\u1209 \u12a0\u130d\u120d\u130d\u120e\u127d \u1270\u1308\u1293\u1299", "romanized": "bamaagesetume yanabaanaa yafeyalu agelegeloche taganaanyu", "wer": 0.6}, {"sample": 280, "transcription": "\u12a5\u1295\u12f0 \u122e\u121b\u12ca \u12a5\u12cd\u1290\u1271 \u12a0\u1208\u1243 \u12a5\u12cd\u1290\u1275\u1295 \u1260\u12f0\u134d\u1228\u1275 \u12e8\u121a\u1218\u1230\u12ad\u1229 \u12dc\u130e\u127d \u1232\u1260\u12d9 \u1290\u12cd", "romanized": "eneda romaawi ewenatu alaqaa ewenatene badaferate yamimasakeru zeegoche sibazu nawe", "wer": 0.3}, {"sample": 281, "transcription": "\u130d\u122b\u12f3\u120c \u12a0\u12ab\u1263\u1262\u12cd \u127d\u130d\u122d \u1308\u1325\u121e \u12ed\u1218\u1246\u121d \u130d\u1275\u1206\u1296\u1264 \u1290\u1260\u122d", "romanized": "geraadaalee akaabaabiwe chegere gatemo yemaqome getehonobee nabare", "wer": 0.7777777777777778}, {"sample": 282, "transcription": "\u12a5\u1290\u12da\u1205 \u1230\u12ce\u127d \u1260\u12a5\u12f5\u121c \u12e8\u1308\u1349 \u1230\u12ce\u127d \u12a8\u121a\u12eb\u1233\u12e9\u1275 \u12e8\u1270\u1208\u12e9 \u1293\u1278\u12cd", "romanized": "enazihe sawoche baedemee yagafu sawoche kamiyaasaayute yatalayu naachawe", "wer": 0.125}, {"sample": 283, "transcription": "\u1260\u12da\u1205 \u126a\u12f2\u12ee \u120b\u12ed \u12a0\u1295\u12f0\u129b\u12cd \u130d\u1208\u1270\u1265 \u12e8\u12e9\u12ad\u122b\u12ed\u1295\u1295 \u1308\u12db\u1275 \u121d\u120d\u12ad\u1275 \u12eb\u1208\u1260\u1275 \u1263\u1305 \u12a0\u12f5\u122d\u130e\u121d \u12eb\u1233\u12eb\u120d", "romanized": "bazihe vidiyo laaye anedanyaawe gelatabe yayukeraayenene gazaate melekete yaalabate baaje aderegome yaasaayaale", "wer": 0.3333333333333333}, {"sample": 284, "transcription": "\u12a2\u1272\u12ee\u1335\u12eb \u12a0\u12ed\u12a4mf\u1295 \u1328\u121d\u122e \u12a8\u1270\u1208\u12eb\u12e9 \u12d3\u1208\u121d \u12a0\u1240\u134d \u12e8\u1308\u1295\u12d8\u1265 \u1270\u124b\u121b\u1275 \u130b\u122d \u12e8\u1290\u1260\u122b\u1275 \u1308\u129d\u1296\u1275 \u1270\u12a8\u12db\u1245\u12de \u1218\u1246\u12e8\u1271 \u12ed\u1273\u12c8\u1243\u120d", "romanized": "itiyopheyaa ayeeemfne chamero katalayaayu aalame aqafe yaganezabe taqwaamaate gaare yanabaraate ganyenote takazaaqezo maqoyatu yetaawaqaale", "wer": 0.2857142857142857}, {"sample": 285, "transcription": "\u1235\u1208\u12da\u1205 \u12c8\u12f0 \u1231\u12f3\u1295 \u12e8\u1218\u130d\u1263\u1275 \u12a5\u12f5\u120f \u1230\u134a \u120a\u12ee\u1295 \u12a5\u1295\u12f0\u121a\u127d\u120d\u121d \u12eb\u1290\u1233\u1209", "romanized": "selazihe wada sudaane yamagebaate edelwa safi liyone enedamicheleme yaanasaalu", "wer": 0.2222222222222222}, {"sample": 286, "transcription": "\u12a8\u1220\u122b\u1270\u129b \u130b\u122d \u12a5\u1295\u12f0 \u1233\u120e\u1295 \u12cd\u123b \u1236\u134b \u120b\u12ed \u1270\u130e\u120d\u1270\u12cd \u12e8\u121a\u1209 \u120d\u1306\u127d \u1273\u12f2\u12eb \u1260\u12da\u1205 \u1228\u1308\u12f5 \u1265\u12d9 \u12ed\u130e\u12f5 \u120d\u1263\u1278\u12cb\u120d", "romanized": "kasaraatanyaa gaare eneda saalone weshaa sofaa laaye tagoletawe yamilu lejoche taadiyaa bazihe ragade bezu yegode lebaachawaale", "wer": 0.2}, {"sample": 287, "transcription": "\u1218\u12f3\u1294\u1276\u127d \u12a8\u1218\u1348\u1320\u122b\u1278\u12cd \u12a5\u1295\u12f2\u1201\u1295 \u12a8\u1270\u123b\u120b \u12a0\u1218\u130b\u1308\u1265 \u12a5\u1293 \u1297\u1297\u12cb\u122d \u130b\u122d \u1260\u1275 \u12a5\u12eb\u12eb\u12d8 \u1230\u12ce\u127d \u1260\u1215\u12ed\u12c8\u1275 \u12e8\u121a\u1246\u12e9\u1260\u1275 \u12d8\u1218\u1295 \u12a5\u12e8\u1328\u1218\u1228 \u1218\u1245\u1277\u120d", "romanized": "madaaneetoche kamafataraachawe enedihune katashaalaa amagaagabe enaa nwanwawaare gaare bate eyaayaaza sawoche bahheyewate yamiqoyubate zamane eyachamara maqetwale", "wer": 0.4666666666666667}, {"sample": 288, "transcription": "js tm rno alu", "romanized": "js tm rno alu", "wer": 1.3333333333333333}, {"sample": 289, "transcription": "\u12e8\u121a\u120a\u12ee\u1296\u127d \u1215\u12ed\u12c8\u1275 \u1235\u130b\u1275 \u12cd\u1235\u1325 \u1308\u1265\u1277\u120d", "romanized": "yamiliyonoche hheyewate segaate wesete gabetwale", "wer": 0.2}, {"sample": 290, "transcription": "\u12f5\u122d\u123b\u1278\u12cd\u1295 \u1208\u1270\u12c8\u1321 \u1201\u1209 \u12e8\u1338\u1273 \u12a5\u1293 \u12f0\u1205\u1290\u1275 \u12e8\u130b\u122d \u130d\u1265\u122d \u1283\u12ed\u12f5 \u121d\u1235\u130b\u1293 \u12a0\u1245\u122d\u1267\u120d", "romanized": "dereshaachawene latawatu hulu yatsataa enaa dahenate yagaare gebere xaayede mesegaanaa aqerebwale", "wer": 0.6}, {"sample": 291, "transcription": "\u12e8\u1304\u1294\u122b\u120d \u1265\u122e\u1203\u1295 \u12d5\u1245\u12f5 \u12e8\u1240\u12f5\u1218\u12cd\u1295 \u12a6\u121b\u122d \u12a0\u120d\u1260\u123d\u122d \u12a0\u1308\u12db\u1275 \u1208\u1218\u1218\u1208\u1235 \u12a5\u12e8\u1230\u1229 \u1218\u1206\u1291\u1295 \u130d\u120d\u1345 \u12ed\u1206\u1295 \u1218\u1323", "romanized": "yajeeneeraale berohaane eqede yaqademawene omaare alebashere agazaate lamamalase eyasaru mahonune geletze yehone mataa", "wer": 0.7857142857142857}, {"sample": 292, "transcription": "\u1260\u1263\u1205\u1209 \u1218\u1220\u1228\u1275 \u1235\u130b \u12e8\u121a\u1260\u1208\u12cd \u1218\u1328\u1228\u123b \u120b\u12ed\u1290", "romanized": "babaahelu masarate segaa yamibalawe macharashaa laayena", "wer": 0.5714285714285714}, {"sample": 293, "transcription": "\u12a8\u12da\u12eb\u121d \u1260\u12c8\u1325\u1218\u12f1 \u12e8\u1270\u12eb\u12d8\u12cd \u1230\u12cd \u12ec \u12a5\u1294 \u12f0\u130d\u121e \u12cd \u1228\u129b\u12cd\u129c \u12a8\u1265\u1276\u127d\u1205\u1295 \u12a5\u1320\u1265\u1245\u120b\u1203\u1208\u1201", "romanized": "kaziyaame bawatemadu yatayaazawe sawe yee enee dagemo we ranyaawenyee kabetochehene etabeqelaahaalahu", "wer": 0.5}, {"sample": 294, "transcription": "\u120a\u1268\u122d\u1351\u120d \u1232\u1272\u1295 \u12a0\u134d\u1241\u1219 \u1208\u12a0\u122d\u1230\u1293\u120d \u1201\u1208\u1275 \u12e9\u12cd \u120d\u1206\u1295", "romanized": "livarepule sitine afequmu laaresanaale hulate yuwe lehone", "wer": 0.5714285714285714}, {"sample": 295, "transcription": "\u134d\u120b\u12f4\u1235 \u1260\u133b\u1348\u12cd \u12c8\u1270\u1308\u1263 \u1260\u1230\u121b\u12eb \u1235\u121d\u1295\u1275 \u12a0\u1218\u1270 \u12d3\u1208\u121d \u12a0\u12ab\u1263\u1262 \u12e8\u1305\u121d\u120b \u1235\u1245\u1208\u1276\u127d \u12ed\u1348\u1320\u1261 \u12a5\u1295\u12f0\u1290\u1260\u122d \u1270\u1245\u134b\u120d", "romanized": "felaadeese batsaafawe watagabaa basamaayaa semenete amata aalame akaabaabi yajemelaa seqelatoche yefatabu enedanabare taqefaale", "wer": 0.5}, {"sample": 296, "transcription": "\u12e8\u1265\u122d\u1203\u1295 \u121e\u1308\u12f5 \u12a8\u12a4\u120c\u12ad\u1275\u122a\u12ad\u1293 \u12a8\u1218\u130d\u1290\u1322\u1235 \u12e8\u1270\u1220\u122b \u1235\u1208\u1206\u1290 \u121e\u1308\u12f1 \u12e8\u12a4\u120c\u12ad\u1275\u122e \u1218\u130d\u1290\u1322\u1235 \u1328\u1228\u122b \u12ed\u1263\u120b\u120d", "romanized": "yaberehaane mogade kaeeleeketerikenaa kamagenatise yatasaraa selahona mogadu yaeeleeketero magenatise chararaa yebaalaale", "wer": 0.4166666666666667}, {"sample": 297, "transcription": "\u1208\u130d\u12f5\u12eb\u12cb \u130d\u1295 \u121b\u1295\u121d \u1218\u1205\u1228\u1275 \u12e8\u1320\u12e8\u1240 \u12e8\u1208\u121d", "romanized": "lagedeyaawaa gene maaneme maherate yatayaqa yalame", "wer": 0.16666666666666666}, {"sample": 298, "transcription": "j\u12adr l\u1218s\u12a9r \u1208 \u1270\u123b\u1309l \u1273", "romanized": "jker lmaskur la tashaagul taa", "wer": 1.0}, {"sample": 299, "transcription": "\u1215\u121b\u121b\u1275 \u12e8\u1260\u12db\u1260\u1275 \u1290\u1260\u122d", "romanized": "hhemaamaate yabazaabate nabare", "wer": 0.0}, {"sample": 300, "transcription": "\u12a8\u12da\u12eb\u121d \u121d\u1295\u1290\u12ab\u123d \u1265\u120e \u1320\u12e8\u1243\u1275", "romanized": "kaziyaame menenakaashe belo tayaqaate", "wer": 0.4}, {"sample": 301, "transcription": "\u12ed\u1205\u121d \u12c8\u1325\u1245\u1323\u1275 \u12e8\u1270\u1348\u1228\u12f0\u1260\u1275\u1295 \u1230\u12cd \u1218\u1233\u12d5\u1242 \u1218\u12d8\u1263\u1260\u127d \u121b\u12f5\u1228\u130d \u12a5\u1295\u12f2\u1201\u121d \u132d\u12ab\u1292 \u12e8\u12a0\u121b\u121b\u1276\u127d\u1295 \u121b\u1323\u1218\u12f5 \u12e8\u1270\u1208\u1218\u12f0 \u1290\u1260\u122d", "romanized": "yeheme wateqetaate yatafaradabatene sawe masaaeqi mazabaabache maaderage enedihume chekaani yaamaamaatochene maataamade yatalamada nabare", "wer": 0.5384615384615384}, {"sample": 302, "transcription": "\u1260\u1238\u1308\u122d \u12a8\u1270\u121b \u1264\u1276\u127d \u1260\u121b\u134d\u1228\u1235 \u1202\u12f0\u1275 \u12e8\u1338\u1325\u1273 \u1283\u12ed\u120e\u127d \u1270\u1218\u1323\u1323\u129d \u12eb\u120d\u1206\u1290 \u12e8\u1283\u12ed\u120d \u12a5\u122d\u1295\u1303 \u12c8\u1235\u12f0\u12cb\u120d \u1270\u1263\u1208", "romanized": "bashagare katamaa beetoche bamaaferase hidate yatsatetaa xaayeloche tamataataanye yaalehona yaxaayele erenejaa wasedawaale tabaala", "wer": 0.23076923076923078}, {"sample": 303, "transcription": "\u1260\u12da\u1205\u121d \u121d\u12ad\u1295\u12eb\u1275 \u1355\u122e\u134c\u1230\u122d \u1354\u122c\u12dd \u12a2\u12e8\u1231\u1235 \u1218\u1235\u1240\u1209 \u1260\u1323\u121d \u121d\u12ad\u1295\u12eb\u1273\u12ca \u12a5\u1295\u12f0\u1206\u1290 \u12ed\u1273\u1218\u1293\u1295 \u12ed\u120b\u1209", "romanized": "baziheme mekeneyaate perofeesare peereeze iyasuse maseqalu bataame mekeneyaataawi enedahona yetaamanaane yelaalu", "wer": 0.18181818181818182}, {"sample": 304, "transcription": "\u12ed\u1205\u121d \u1260\u12a0\u12a0\u12dd \u121b\u1235\u12f0\u1308\u134d \u1263\u12ed\u127b\u120d\u121d \u1260\u12f0\u121d\u1233\u1233\u12cd \u130d\u1295 \u121d\u122d\u1273\u121b\u1290\u1273\u1278\u12cd \u12a5\u1295\u12f0\u121a\u1240\u1295\u1235 \u1218\u1308\u1218\u1275 \u12ed\u127b\u120b\u120d", "romanized": "yeheme baaaze maasedagafe baayechaaleme badamesaasaawe gene meretaamaanataachawe enedamiqanese magamate yechaalaale", "wer": 0.3}, {"sample": 305, "transcription": "\u1260\u12a0\u1201\u1295 \u12c8\u122d\u1275 \u12a2\u12aa\u12ee\u1352\u12eb \u12a8\u1270\u124b\u1219 \u130b\u122d \u12e8\u121a\u1273\u12f0\u122d\u1308\u12cd \u1295 \u12e8\u12e8\u122d\u130d\u122d \u12a0\u1201\u1295\u121d \u12cb\u123dh\u1295\u130d\u1270\u1295 \u12cd\u1235\u1325 \u1260\u1218\u12ab\u1204\u122d \u120b\u12ed \u1290\u12cd", "romanized": "baahune warete ikiyopiyaa kataqwaamu gaare yamitaadaregawe ne yayaregere ahuneme waashehnegetane wesete bamakaaheere laaye nawe", "wer": 0.6153846153846154}, {"sample": 306, "transcription": "\u130d\u12f3\u121c \u12a5\u1293 \u12a5\u1201\u12f5 \u1208\u1230\u122b\u1270\u129e\u127d \u12ed\u1293\u1276\u127d \u1265\u122d\u1245 \u12e8\u121a\u1206\u1295\u1260\u1275 \u1208\u12da\u1201 \u1290\u12cd", "romanized": "gedaamee enaa ehude lasaraatanyoche yenaatoche bereqe yamihonebate lazihu nawe", "wer": 0.6666666666666666}, {"sample": 307, "transcription": "\u12a5\u1293\u1275\u12e8\u121d \u12ed\u1205\u1295\u1295 \u121b\u12f5\u1228\u130d \u12a5\u1295\u12f4\u1275 \u12ed\u1278\u122b\u120d \u1265\u120b \u1320\u12e8\u1240\u1278\u12cd", "romanized": "enaateyame yehenene maaderage enedeete yecharaale belaa tayaqachawe", "wer": 0.42857142857142855}, {"sample": 308, "transcription": "\u1260\u12da\u1205\u121d \u12e8\u12a0\u12f2\u1233 \u1260\u1263 \u1290\u12cb\u122a\u129d \u1328\u121d\u122e \u12e8\u1236\u120b\u1275 \u1235\u1290 \u1225\u122d\u12d3\u1271 \u1260\u121a\u12ab\u1204\u12f5\u1260\u1275 \u1235\u134d\u122b \u1260\u1218\u1308\u1298\u1275 \u1260\u12d3\u1209 \u1260\u1230\u120b\u121d \u12a5\u1295\u12f2\u1320\u1293\u1240\u1245 \u12a0\u12f5\u122d\u1308\u12cb\u120d", "romanized": "baziheme yaadisaa babaa nawaarinye chamero yasolaate sena sereaatu bamikaaheedebate seferaa bamaganyate baaalu basalaame eneditanaaqaqe aderegawaale", "wer": 0.26666666666666666}, {"sample": 309, "transcription": "\u1260\u1201\u1208\u1271 \u1300\u1293\u122e\u127d \u1218\u12ab\u12a8\u120d \u12e8\u1270\u1348\u1320\u1228\u12cd \u12e8\u1225\u120d\u1323\u1295 \u123d\u121a\u12eb \u12cd\u1325\u1228\u1275 \u1348\u1295\u12f5\u1276 \u1260\u1218\u12f2\u1293\u12cb \u12ab\u122d\u1271\u121d \u12a5\u1293 \u1260\u1265\u122d\u12ab\u1273 \u12a8\u1270\u121e\u127d \u130d\u1305\u1275 \u1240\u1235\u1245\u1237\u120d", "romanized": "bahulatu janaaroche makaakale yatafatarawe yaseletaane shemiyaa weterate fanedeto bamadinaawaa kaaretume enaa baberekaataa katamoche gejete qaseqeswale", "wer": 0.26666666666666666}, {"sample": 310, "transcription": "\u1260\u1275\u1265\u1265\u122d \u1348\u1295\u1273 \u1218\u1313\u1270\u1275\u1295 \u1260\u1218\u12f0\u130b\u1308\u1265 \u1348\u1295\u1273 \u1218\u1308\u1263\u1263\u1275\u1295 \u12a8\u1218\u1228\u1325\u1295 \u1309\u12de\u127d\u1295 \u12a0\u1295\u12f5 \u122d\u121d\u1303 \u12c8\u12f0\u134a\u1275 \u1218\u1276\u122d \u121d\u132b\u12cd \u12f0\u128b\u120d \u12ed\u1206\u1290\u12cd", "romanized": "batebebere fanetaa magwaatatene bamadagaagabe fanetaa magabaabaatene kamaratene guzochene anede remejaa wadafite matore mechaawe daxwaale yehonawe", "wer": 0.6}, {"sample": 311, "transcription": "\u12a0\u1265\u12db\u129b\u12cd\u121d \u130a\u12dc \u1270\u121b\u122a\u12ce\u1279 \u12a8\u12e9\u1292\u1268\u122d\u1232\u1276\u127d \u121d\u1295 \u12a0\u12ed\u1290\u1275 \u12a5\u122d\u12f3\u1273\u120a\u12eb\u1308\u1299 \u12a5\u1295\u12f0\u129d\u127d\u1209 \u1206\u1290 \u1235\u120b\u1209 \u1290\u1308\u122e\u127d \u1208\u1218\u1320\u12ed\u1245 \u12ed\u1348\u122b\u1209", "romanized": "abezaanyaaweme gizee tamaariwochu kayunivaresitoche mene ayenate eredaataaliyaaganyu enedanyechelu hona selaalu nagaroche lamatayeqe yefaraalu", "wer": 0.5}, {"sample": 312, "transcription": "\u12a8\u1218\u121e\u1271\u1295 \u1260\u134a\u1275 \u12a5\u1295\u12f3\u1295\u1323\u120b\u1243\u120b \u12a0\u1235\u1308\u1265\u1276\u12ce\u1295 \u1235\u1208 \u1290\u1260\u122d \u12a0\u120d\u1270\u1323\u120b\u1295\u121d", "romanized": "kamamotune bafite enedaanetaalaaqaalaa asegabetowone sela nabare aletataalaaneme", "wer": 0.7142857142857143}, {"sample": 313, "transcription": "\u121a\u1235\u1271\u121d \u12a5\u122d\u1349 \u1260\u121a\u1348\u1208\u130d \u130a\u12dc \u121d\u130d\u1265 \u12a5\u1293 \u1218\u1320 \u12a0\u1275\u1230\u1320\u12cd\u121d \u1260\u1230\u120b\u121d \u12a5\u1295\u12f2\u1270\u129b \u121b\u1270\u12f0\u122d\u1308\u12cd", "romanized": "misetume erefu bamifalage gizee megebe enaa mata atesataweme basalaame eneditanyaa maatadaregawe", "wer": 0.7}, {"sample": 314, "transcription": "\u12a5\u12cd\u1290\u1275\u121d \u120d\u1305 \u121e\u1275\u1295 \u1218\u1238\u12c8\u1303 \u1265\u1278\u129b\u12cd \u1218\u1295\u1308\u12f5 \u1293\u12cd \u12eb\u1235\u1265\u120b\u120d", "romanized": "ewenateme leje motene mashawajaa bechanyaawe manegade naawe yaasebelaale", "wer": 0.125}, {"sample": 315, "transcription": "\u1290\u1308\u122d \u130d\u1295 \u1208\u1264\u1270\u1230\u1261 \u12a0\u1320\u1243\u120b\u12ed \u1215\u1218\u121d \u12e8\u1206\u1290\u1263\u1278\u12cd \u121d\u122d\u1218\u122b\u12cd\u12a5\u1293 \u12e8\u134d\u122d\u12f5\u1202\u12f0\u1271 \u12e8\u1348\u1300\u12cd \u130a\u12dc \u1290\u12cd", "romanized": "nagare gene labeetasabu ataqaalaaye hhemame yahonabaachawe meremaraaweenaa yaferedehidatu yafajawe gizee nawe", "wer": 0.38461538461538464}, {"sample": 316, "transcription": "\u130d\u1265 \u1231\u12f3\u1295\u1295 \u12a5\u1295\u12f0\u12a0\u1308\u122d \u12a8\u121d\u1273\u12e8\u1263\u1278\u12cd \u121d\u12ad\u1295\u12eb\u1276\u127d \u12a0\u1295\u12f1 \u12a8\u12a2\u1275\u12ee\u1335\u12eb \u130b\u122d \u12e8\u121a\u1275\u12c8\u12db\u130d\u1265\u1260\u1275 \u12e8\u12a2\u1275\u12ee\u1335\u12eb \u12f3\u1234\u130d\u130d\u1265 \u1309\u12f3\u12ed \u12ed\u1320\u1240\u1230", "romanized": "gebe sudaanene enedaagare kametaayabaachawe mekeneyaatoche anedu kaiteyopheyaa gaare yamitewazaagebebate yaiteyopheyaa daaseegegebe gudaaye yetaqasa", "wer": 0.5333333333333333}, {"sample": 317, "transcription": "\u12ed\u1205 \u1325\u12eb\u1244 \u12a8\u1270\u1218\u1208\u1230 \u1228\u12e5\u121d \u12d5\u12f5\u121c\u1295 \u1324\u1290\u129b \u1206\u1290 \u1295\u1295\u1308\u134b\u1208\u1295 \u12ed\u120b\u1209 \u1270\u1218\u122b \u121b\u122a\u12cd", "romanized": "yehe teyaaqee katamalasa razheme edemeene teenanyaa hona nenegafaalane yelaalu tamaraa maariwe", "wer": 0.4}, {"sample": 318, "transcription": "\u1265\u120f\u1275 \u12e8\u1294 \u126a\u1324\u12cb \u1234\u1275 \u12e8\u1200\u1265\u1273\u121d \u1230\u12cd \u1264\u1270 \u1230\u1265 \u1206\u1290\u127d", "romanized": "belwate yanee viteewaa seete yahabetaame sawe beeta sabe honache", "wer": 0.625}, {"sample": 319, "transcription": "\u12a0\u122d\u1348\u1205 \u1309\u12de\u1205\u1295 \u1240\u1320\u120d \u12a0\u1208\u12cd", "romanized": "arefahe guzohene qatale alawe", "wer": 0.25}, {"sample": 320, "transcription": "\u1260\u130d\u1265\u1345 \u1260\u12a9\u120d \u1355\u122c\u12dd\u12f3\u1295\u1275 \u12a0\u1265\u12f1\u120d \u1348\u1273\u120d \u1232\u1232 \u1295\u12f2\u12e9\u121d \u12e8\u1240\u12f5\u121e \u12e8\u1235\u12f3\u1295 \u1355\u122c\u12dd\u12f3\u1295\u1275 \u12a6\u121b\u122b\u12a0\u120d \u1260\u123d\u122d \u1290\u1260\u1229", "romanized": "bagebetze bakule pereezedaanete abedule fataale sisi nediyume yaqademo yasedaane pereezedaanete omaaraaale bashere nabaru", "wer": 0.75}]
+[
+  {
+    "sample": 0,
+    "transcription": "የካይሮን ፍላጎት የሚፃራር ኃይል ወደሥልጣን እንዳይወጣት ሰጋለች",
+    "romanized": "yakaayerone felaagote yamitzaaraare xaayele wadaseletaane enedaayewataate sagaalache",
+    "wer": 0.625
+  },
+  {
+    "sample": 1,
+    "transcription": "ከዚያም ልጁ እባክ ህድ መቷን እኔሉ ሰዳት ብሎ ወደ ቤቱ ይዟት ሄደ",
+    "romanized": "kaziyaame leju ebaake hede matwane eneelu sadaate belo wada beetu yezwate heeda",
+    "wer": 0.7
+  },
+  {
+    "sample": 2,
+    "transcription": "ከባህር ውሥር አባቱን ሊያገኙት እየሄዱ ልጁን አባቴ እንደምነ ሲልህ እግዚአብሔር የመስገደናለኝ አልትበል",
+    "romanized": "kabaahere wesere abaatune liyaaganyute eyaheedu lejune abaatee enedamena silehe egeziabehheere yamasegadanaalanye aletebale",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 3,
+    "transcription": "ቋሚውን ካላመጡ የሚከተላቸው ስቅላት ነውና ሩቅ እና ሰፊ ግዛትን ያካለለ ፍለጋ አደረጉ",
+    "romanized": "qwaamiwene kaalaamatu yamikatalaachawe seqelaate nawenaa ruqe enaa safi gezaatene yaakaalala felagaa adaragu",
+    "wer": 0.18181818181818182
+  },
+  {
+    "sample": 4,
+    "transcription": "ቡ ከፍተኛ የአየር ድብደባ ውስጥ የትራንስፖርት እንግስቃሴ ይቀጥሏል",
+    "romanized": "bu kafetanyaa yaayare debedabaa wesete yateraaneseporete enegeseqaasee yeqatelwale",
+    "wer": 0.7142857142857143
+  },
+  {
+    "sample": 5,
+    "transcription": "በሩሲያ በስልላ ክሴት አሰረው አሜሪካዊ ጋዜጠኛ ፍርድ ቤት ቀረበ",
+    "romanized": "barusiyaa baselelaa keseete asarawe ameerikaawi gaazeetanyaa ferede beete qaraba",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 6,
+    "transcription": "ከወራት በፊት የተደረሰውን ግጭትን በዘላቂነት የማቆም ስምምነት ተከትለውን በተወሰነ መልኩ ኢንተርኔት ተመልሷል ብሏል",
+    "romanized": "kawaraate bafite yatadarasawene gechetene bazalaaqinate yamaaqome sememenate takatelawene batawasana maleku inetareneete tamaleswale belwale",
+    "wer": 0.07692307692307693
+  },
+  {
+    "sample": 7,
+    "transcription": "ልጆቻቸው ሳይጠግቧቸው እነርሱም እንደባቡ በቀኑ ክፍለ ጊዜ ዳግም ላይ የተያዩት እለያያሉ",
+    "romanized": "lejochaachawe saayetagebwachawe enaresume enedabaabu baqanu kefela gizee daageme laaye yatayaayute elayaayaalu",
+    "wer": 0.3
+  },
+  {
+    "sample": 8,
+    "transcription": "በጉድኙቱ የክልሉ ርእስ አንምስትራቶች መንጥሽ አዲሳ ታሐኝተዋል",
+    "romanized": "bagudenyutu yakelelu reese anemeseteraatoche maneteshe adisaa taahhanyetawaale",
+    "wer": 0.8571428571428571
+  },
+  {
+    "sample": 9,
+    "transcription": "በካይሮ መደብሮች በምግድ ቤቶች በሰዎች ቤት ውስጥም ሱዳናዊያን ሰራተኞችን ማይት የተለመደ ነው",
+    "romanized": "bakaayero madaberoche bamegede beetoche basawoche beete weseteme sudaanaawiyaane saraatanyochene maayete yatalamada nawe",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 10,
+    "transcription": "ይህንንም ምልክት በጦርነቱ በሁለቱን በኩል ባሉ ተዋየዎችም ሲለበስም ታአይቷል",
+    "romanized": "yeheneneme melekete batorenatu bahulatune bakule baalu tawaayawocheme silabaseme taaayetwale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 11,
+    "transcription": "የሕብረቱን ቁልፍ መርህ ገቢራዊ በማድረግ ትልቅ ማሳያኖ ሲሉም ተናግረዋል",
+    "romanized": "yahheberatune qulefe marehe gabiraawi bamaaderage teleqe maasaayaano silume tanaagerawaale",
+    "wer": 0.3
+  },
+  {
+    "sample": 12,
+    "transcription": "ብዙ ዓመት መኖር እንዴት እንችላለን",
+    "romanized": "bezu aamate manore enedeete enechelaalane",
+    "wer": 0.0
+  },
+  {
+    "sample": 13,
+    "transcription": "የጄኔራል ሰዓረ መኰነን ቤተሰቦች እንዲሁም ጄኔራል መኮንኖች እና የጄኔራል ሰዕራ የቀድመው ባልደርጎች በተገኙበት ነው",
+    "romanized": "yajeeneeraale saaara makwanane beetasaboche enedihume jeeneeraale makonenoche enaa yajeeneeraale saeraa yaqademawe baaledaregoche bataganyubate nawe",
+    "wer": 0.5
+  },
+  {
+    "sample": 14,
+    "transcription": "ቤተ ሰብ ዘመድ አዝማድ እና ወዳጆቿ ሀገር ቤት ናቸው",
+    "romanized": "beeta sabe zamade azemaade enaa wadaajocwa hagare beete naachawe",
+    "wer": 1.1666666666666667
+  },
+  {
+    "sample": 15,
+    "transcription": "ስለዚህ ነው አባትህ አፈር መሬት የሰጠ",
+    "romanized": "selazihe nawe abaatehe afare mareete yasata",
+    "wer": 0.16666666666666666
+  },
+  {
+    "sample": 16,
+    "transcription": "የእንስሳውጤን እነት የተመረመረ እና የሥጋው ምንጭ በደንቤትወቀ መሆን እንደሚገባው ይመክራሉ",
+    "romanized": "yaenesesaaweteene enate yatamaramara enaa yasegaawe meneche badanebeetewaqa mahone enedamigabaawe yemakeraalu",
+    "wer": 0.36363636363636365
+  },
+  {
+    "sample": 17,
+    "transcription": "በእድሜ ትልቁ ወንድ ደግሞ የመቶ አስራ ሶስት ዓመቱ ቬንዙዌላዊ ሆዋን ቪንሴንቴሞራ ናቸው",
+    "romanized": "baedemee telequ wanede dagemo yamato aseraa sosete aamatu veenezuweelaawi howaane vineseeneteemoraa naachawe",
+    "wer": 0.5
+  },
+  {
+    "sample": 18,
+    "transcription": "በዓሉን ከተቸግሮ ወገኖች ጋር አብሮ ማሳለፍ እንደሚገባም አሳስበዋል",
+    "romanized": "baaalune katachagero waganoche gaare abero maasaalafe enedamigabaame asaasebawaale",
+    "wer": 0.125
+  },
+  {
+    "sample": 19,
+    "transcription": "ከፈንጂ መጸዳት ያለበት መሬት መጠነሰፊ በመሆኑ ሥራው ማቆመ የለውም",
+    "romanized": "kafaneji matsadaate yaalabate mareete matanasafi bamahonu seraawe maaqoma yalaweme",
+    "wer": 0.4
+  },
+  {
+    "sample": 20,
+    "transcription": "ለግዚሔር ምስጋና ይገባዋል",
+    "romanized": "lagezihheere mesegaanaa yegabaawaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 21,
+    "transcription": "ከአፍሪካ ህብረት ከፍተኛ ተወካዮች መካከል አንዱ በመሆን ሁለቱ ተዋጊ ኃይሎች ያደራደሬ ነበሩት የኬናው ፕሬዝዳንት ነበሩ",
+    "romanized": "kaaferikaa heberate kafetanyaa tawakaayoche makaakale anedu bamahone hulatu tawaagi xaayeloche yaadaraadaree nabarute yakeenaawe pereezedaanete nabaru",
+    "wer": 0.4
+  },
+  {
+    "sample": 22,
+    "transcription": "ፈንጂዎቹ አደጋን ከማስከተል ባለፈ በተቀሩቧቸው አካባቢዎች ግብርና እና ግባታውን ጨምሮ መሰለታ እንቅስቃሴዎችን ይገድባሉ",
+    "romanized": "fanejiwochu adagaane kamaasekatale baalafa bataqarubwachawe akaabaabiwoche geberenaa enaa gebaataawene chamero masalataa eneqeseqaaseewochene yegadebaalu",
+    "wer": 0.23076923076923078
+  },
+  {
+    "sample": 23,
+    "transcription": "ታማኝ የሚባልቱ ውሾች በሰው ሥጋ ቁንጣን ተወጥረው እንቅልፍ ተጭኖቸው አለከለኩ",
+    "romanized": "taamaanye yamibaaletu weshoche basawe segaa qunetaane tawaterawe eneqelefe tachenochawe alakalaku",
+    "wer": 0.2
+  },
+  {
+    "sample": 24,
+    "transcription": "ላብናቱን ፋሽ ይጠይቀን",
+    "romanized": "laabenaatune faashe yetayeqane",
+    "wer": 1.0
+  },
+  {
+    "sample": 25,
+    "transcription": "የሚደንቀው ይህን የአንድ ዓመት ፍርድም አልፈጸሙት ንም",
+    "romanized": "yamidaneqawe yehene yaanede aamate feredeme alefatsamute neme",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 26,
+    "transcription": "የገጠማትን የውጭ ምንዛሪ ጥረት በመሸፈን አስፈላጊ ለሆኑ ይገቢ ምህርቶች ክፍያ ለመፈጸም ድጋት ያስፈልጋታል",
+    "romanized": "yagatamaatene yaweche menezaari terate bamashafane asefalaagi lahonu yegabi meheretoche kefeyaa lamafatsame degaate yaasefalegaataale",
+    "wer": 0.3076923076923077
+  },
+  {
+    "sample": 27,
+    "transcription": "እንስሳቱ እንዴት እናየት ነው ያደጉት የሚለውን ነው ይላሉ የስለምግባለሙያ",
+    "romanized": "enesesaatu enedeete enaayate nawe yaadagute yamilawene nawe yelaalu yaselamegebaalamuyaa",
+    "wer": 0.4166666666666667
+  },
+  {
+    "sample": 28,
+    "transcription": "ከሌጉላ ለመውረድ ከሚደረጉት ንቅንቆች መካከል አንዱ ይህጨዋታ ነው",
+    "romanized": "kaleegulaa lamawerade kamidaragute neqeneqoche makaakale anedu yehechawaataa nawe",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 29,
+    "transcription": "በዚህም ተስማምተ እድኩላውም ነብሩን ሳይፈራ ኖሮ መወፈርእና ነብሩን ማጓጓት ጀመረ",
+    "romanized": "baziheme tasemaameta edekulaaweme naberune saayefaraa noro mawafareenaa naberune maagwaagwaate jamara",
+    "wer": 0.3
+  },
+  {
+    "sample": 30,
+    "transcription": "በትውልድ ቦታቸው አስመራ በሐዝዝ መካነመቃብር ለማድረግ ፈቃድ ማግኘት እንዳልቻሉ ፓስተር ሚካል አስረድተዋል",
+    "romanized": "batewelede botaachawe asemaraa bahhazeze makaanamaqaabere lamaaderage faqaade maagenyate enedaalechaalu paasetare mikaale aseradetawaale",
+    "wer": 0.46153846153846156
+  },
+  {
+    "sample": 31,
+    "transcription": "እንደዚህ እንደዚህ ከተባለ ቦታነ የወደቀውአለው",
+    "romanized": "enedazihe enedazihe katabaala botaana yawadaqawealawe",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 32,
+    "transcription": "ሄምቲ በየመን ውስጥ ሳውዳ ረብ ያለምትመራው ጥምር ጦር የሚዋጉ ወጥታደሮችን በገፍ በማቅረብ ይታወቃሉ",
+    "romanized": "heemeti bayamane wesete saawedaa rabe yaalametemaraawe temere tore yamiwaagu watetaadarochene bagafe bamaaqerabe yetaawaqaalu",
+    "wer": 0.3076923076923077
+  },
+  {
+    "sample": 33,
+    "transcription": "የትኛውም አገር የአባይወን ዚን ሲጠቀም በሌሎች የተፋሰሱ ሀገራት ላይ ከፍተኛ ጉዳታ ለማስከትሉን ማረተገጣለበር",
+    "romanized": "yatenyaaweme agare yaabaayewane zine sitaqame baleeloche yatafaasasu hagaraate laaye kafetanyaa gudaataa lamaasekatelune maaratagataalabare",
+    "wer": 0.5
+  },
+  {
+    "sample": 34,
+    "transcription": "ከአንድ የሕንፃ ተቋራች ገንዝር ተቀብለው ያልተብለው ነው ሉላ ለእዝር የተዳረጉት",
+    "romanized": "kaanede yahhenetzaa taqwaaraache ganezere taqabelawe yaaletabelawe nawe lulaa laezere yatadaaragute",
+    "wer": 0.6
+  },
+  {
+    "sample": 35,
+    "transcription": "ግድቡን በውሃ የመሙላት ሂደት በምንያል ጊዜ የከናውን የሚለው ቁልፋ ጉዳይ ተመክሯል",
+    "romanized": "gedebune bawehaa yamamulaate hidate bameneyaale gizee yakanaawene yamilawe qulefaa gudaaye tamakerwale",
+    "wer": 0.38461538461538464
+  },
+  {
+    "sample": 36,
+    "transcription": "ማገልገል ዋጋ ዓለም እስጠት እና ማሳነስድ",
+    "romanized": "maagalegale waagaa aalame esetate enaa maasaanasede",
+    "wer": 1.25
+  },
+  {
+    "sample": 37,
+    "transcription": "የአዲሳባት አወላጆች በከተማ አዕካቢኔ ውስጥ ተሳትፏቸው እንዲጨምር ተጠየቀ",
+    "romanized": "yaadisaabaate awalaajoche bakatamaa aekaabinee wesete tasaatefwachawe enedichamere tatayaqa",
+    "wer": 0.5555555555555556
+  },
+  {
+    "sample": 38,
+    "transcription": "እኔ ወረራ ንቃወማሉ",
+    "romanized": "enee wararaa neqaawamaalu",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 39,
+    "transcription": "ሶፋ ላይ ወይመኝታቤት አስቀምጣዋቸው ሥራቸው መጨረስ ላይ ነው ትኩረታቸው",
+    "romanized": "sofaa laaye wayemanyetaabeete aseqametaawaachawe seraachawe macharase laaye nawe tekurataachawe",
+    "wer": 0.45454545454545453
+  },
+  {
+    "sample": 40,
+    "transcription": "ጥሬሲካ የሚመገቡ ሰዎች መህበራ የተስስራቸው ነግረ መንገድ ያተናክራሉ",
+    "romanized": "tereesikaa yamimagabu sawoche mahebaraa yataseseraachawe nagera manegade yaatanaakeraalu",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 41,
+    "transcription": "የስቅላት ጭካኔ አንዱ ማሳያ ነፍስ ከስጋ ስክትል ላይ ድረስ የሚፈጆ ጊዜ ረጅም መሆኑ ነው",
+    "romanized": "yaseqelaate chekaanee anedu maasaayaa nafese kasegaa seketele laaye derase yamifajo gizee rajeme mahonu nawe",
+    "wer": 0.3076923076923077
+  },
+  {
+    "sample": 42,
+    "transcription": "እያፍደዱኝ ነበር",
+    "romanized": "eyaafedadunye nabare",
+    "wer": 0.5
+  },
+  {
+    "sample": 43,
+    "transcription": "ነጥረው የወጡ የመሰሉኝን አንድ ሁለት ቁም ነገሮችን ላንሳ ና እንድታነቡት ልቆስቁስ",
+    "romanized": "naterawe yawatu yamasalunyene anede hulate qume nagarochene laanesaa naa enedetaanabute leqosequse",
+    "wer": 0.5555555555555556
+  },
+  {
+    "sample": 44,
+    "transcription": "ከአመታት በላይ ተለያተው የነበሩ ቤተ ሰዎች ለመጀመሪያ ጊዜ መሊሰው ለማገናኘት እና ለመነጋገር ችለዋል",
+    "romanized": "kaamataate balaaye talayaatawe yanabaru beeta sawoche lamajamariyaa gizee malisawe lamaaganaanyate enaa lamanagaagare chelawaale",
+    "wer": 0.5
+  },
+  {
+    "sample": 45,
+    "transcription": "ldldyldldldyljrylrlrlybylylylybylyrylylrylyldyry",
+    "romanized": "ldldyldldldyljrylrlrlybylylylybylyrylylrylyldyry",
+    "wer": 1
+  },
+  {
+    "sample": 46,
+    "transcription": "ሰቦቹም ሰማቸውን እንዳይ ጠፋ በመፍራት ሶስት ስልቻ ጠፍ ሰርተው ጤይፉን ይዘ ወደ መንደሩ ተመለሰ",
+    "romanized": "sabochume samaachawene enedaaye tafaa bamaferaate sosete selechaa tafe saretawe teeyefune yeza wada manedaru tamalasa",
+    "wer": 0.6153846153846154
+  },
+  {
+    "sample": 47,
+    "transcription": "ከሂሳማወራረዳ ባዚል ንውጣ",
+    "romanized": "kahisaamaawaraaradaa baazile newetaa",
+    "wer": 1.0
+  },
+  {
+    "sample": 48,
+    "transcription": "አሁን ዝምብላች ወደ መንደራችው ተመለሱ እና በኋላ የገባችዋል ሲላቸው ተነሥተው ሄዱ",
+    "romanized": "ahune zemebelaache wada manedaraachewe tamalasu enaa baxwaalaa yagabaachewaale silaachawe tanasetawe heedu",
+    "wer": 0.6363636363636364
+  },
+  {
+    "sample": 49,
+    "transcription": "ማሰብ ና መወሰን አለብን",
+    "romanized": "maasabe naa mawasane alabene",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 50,
+    "transcription": "ክልከላውን ያደረጉት ይልትረ ባለሥልጣናት መሆናቸውን ለቤተሰቡ ቅርብ የሆኑም እንጩት ለቢቢሲ ይትግረኛ ገልጸዋል",
+    "romanized": "kelekalaawene yaadaragute yeletera baalaseletaanaate mahonaachawene labeetasabu qerebe yahonume enechute labibisi yetegeranyaa galetsawaale",
+    "wer": 0.4166666666666667
+  },
+  {
+    "sample": 51,
+    "transcription": "አንድ ነገር ለማድረግ ሁል ጊዜ ትግል ነውም",
+    "romanized": "anede nagare lamaaderage hule gizee tegele naweme",
+    "wer": 0.5
+  },
+  {
+    "sample": 52,
+    "transcription": "የዞህን ጭራ ብላ መለተች",
+    "romanized": "yazohene cheraa belaa malatache",
+    "wer": 0.5
+  },
+  {
+    "sample": 53,
+    "transcription": "መረገጋት የየሚለው አገላለፅ ግብፅን ጨምሮ በብዙ አንባግንን መንግስታት ተቃዋሚ የዎችን ለማፈን ይውላል",
+    "romanized": "maragagaate yayamilawe agalaalatze gebetzene chamero babezu anebaagenene manegesetaate taqaawaami yawochene lamaafane yewelaale",
+    "wer": 0.7272727272727273
+  },
+  {
+    "sample": 54,
+    "transcription": "ይህ ሜን ማለት ነው ብለቡ መንገዳቸውን ቀጠሉ",
+    "romanized": "yehe meene maalate nawe belabu manegadaachawene qatalu",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 55,
+    "transcription": "ማማይ እንዳተኝሺ እየመጣሁ ነው የሚሉ ድምፆች ታክሲ ሰልፍ ላይ ሳይቀር ይሰማሉ",
+    "romanized": "maamaaye enedaatanyeshi eyamataahu nawe yamilu demetzoche taakesi salefe laaye saayeqare yesamaalu",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 56,
+    "transcription": "ስለዚህም ከዛሬ ጀምሮ የክልልልዩ ኃይል የሚባላ ደረጃጀት እና መዋቅር የለም",
+    "romanized": "selaziheme kazaaree jamero yakeleleleyu xaayele yamibaalaa darajaajate enaa mawaaqere yalame",
+    "wer": 0.36363636363636365
+  },
+  {
+    "sample": 57,
+    "transcription": "ይህ ማሽን በተጠቃሚዎች ከእንብርት በታች ወይም በታችኛው ጀርባ ላይ የሚለጥፉት ነው",
+    "romanized": "yehe maashene batataqaamiwoche kaeneberete bataache wayeme bataachenyaawe jarebaa laaye yamilatefute nawe",
+    "wer": 0.09090909090909091
+  },
+  {
+    "sample": 58,
+    "transcription": "የዩክሬይን ወታዶች ሩሲያ ቀስበቀስ እያሸነፈች ነው አሉ",
+    "romanized": "yayukereeyene wataadoche rusiyaa qasebaqase eyaashanafache nawe alu",
+    "wer": 0.5
+  },
+  {
+    "sample": 59,
+    "transcription": "ከ2 ዓም በፊት የወራበባ ህመምንድ ለመቀነስ የሚረዳ ቴክኖሎዥን በተመለከተ በማበራ ሜድያ ላይ አየች",
+    "romanized": "ka2 aame bafite yawaraababaa hemamenede lamaqanase yamiradaa teekenolozhene batamalakata bamaabaraa meedeyaa laaye ayache",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 60,
+    "transcription": "ከጋሃጡ ከብቶች በመቀጠልም ከደለቡ ከብቶች የሚግኝ ሥጋ በቅደም ተከትን እንደሚቀመጥ መሑሩ ያስረዳሉ",
+    "romanized": "kagaahaatu kabetoche bamaqataleme kadalabu kabetoche yamigenye segaa baqedame takatene enedamiqamate mahhuru yaaseradaalu",
+    "wer": 0.4166666666666667
+  },
+  {
+    "sample": 61,
+    "transcription": "ይህ ደግሞ አካላይ እድገት ብቻ የሚመለከት ነው",
+    "romanized": "yehe dagemo akaalaaye edegate bechaa yamimalakate nawe",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 62,
+    "transcription": "ጠቅላይ ሚኒስትር አብያህምር ለትንሳይ በዓል የእንኳና ደረሳቸው መልክት አስተላልፏል",
+    "romanized": "taqelaaye minisetere abeyaahemere latenesaaye baaale yaenekwaanaa darasaachawe malekete asetalaalefwale",
+    "wer": 0.7
+  },
+  {
+    "sample": 63,
+    "transcription": "ጦርነቱ ከሶስት አስርት ዓመታት በኋላ በአውፓ የኑ ሁለት0ህ ሁለት ነበር የጥጓቸው",
+    "romanized": "torenatu kasosete aserete aamataate baxwaalaa baawepaa yanu hulate0he hulate nabare yategwaachawe",
+    "wer": 0.45454545454545453
+  },
+  {
+    "sample": 64,
+    "transcription": "ለዚህ ኦፕሬሽነት ሳካት ጂቡቲ ኢትዮጵያ እና ሳውድ አረቢያንም አመስግነዋል",
+    "romanized": "lazihe opereeshenate saakaate jibuti iteyopheyaa enaa saawede arabiyaaneme amasegenawaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 65,
+    "transcription": "ለዲላ ዩኒቨርሲቲው መምሔር ዶክተር ይሆኔ በሶስቱ ምንስሳት ሥጋ ውስጥ የሚገኙት ንጥረ ምግቦች ተመሳሳይ ናቸው",
+    "romanized": "ladilaa yunivaresitiwe mamehheere doketare yehonee basosetu menesesaate segaa wesete yamiganyute netera megeboche tamasaasaaye naachawe",
+    "wer": 0.35714285714285715
+  },
+  {
+    "sample": 66,
+    "transcription": "ትኩረትን መስተት መንፈሳ ዊነት ማጎርበት በጥሞና ዘለግ ላለ ሰዓት መቆዕየት እና ራስ ማሸሻል ናው የላሉ በመጻፋቸው",
+    "romanized": "tekuratene masetate manefasaa winate maagorebate batemonaa zalage laala saaate maqoeyate enaa raase maashashaale naawe yalaalu bamatsaafaachawe",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 67,
+    "transcription": "አንድ ሳንቡሳ በአማከኝ 2ለ00 ሃምሳ ካሮሊን አለው",
+    "romanized": "anede saanebusaa baamaakanye 2la00 haamesaa kaaroline alawe",
+    "wer": 0.75
+  },
+  {
+    "sample": 68,
+    "transcription": "አራት ዓምጥ ከትምህርት ቤት ዕርቀው የቆይ ወደ ትምህርት ቤት መመለስ ይፈልጋሉ",
+    "romanized": "araate aamete katemeherete beete ereqawe yaqoye wada temeherete beete mamalase yefalegaalu",
+    "wer": 0.45454545454545453
+  },
+  {
+    "sample": 69,
+    "transcription": "በቢሾፍቱ አዲስ የኢንዱስትሪ ፓርክ ለመገንባት የሚያስችረውን ስምምነት ከኢትዮጵያ ኢንቨስትመንት ኮሚሽን ጋር ተፈራርሟል",
+    "romanized": "babishofetu adise yaineduseteri paareke lamaganebaate yamiyaasecherawene sememenate kaiteyopheyaa inevasetemanete komishene gaare tafaraaremwale",
+    "wer": 0.08333333333333333
+  },
+  {
+    "sample": 70,
+    "transcription": "የኢትዮጵያችን ትንሳኤ እንደሚሳካ ምንም ጥርጥር የለው",
+    "romanized": "yaiteyopheyaachene tenesaaee enedamisaakaa meneme teretere yalawe",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 71,
+    "transcription": "ከአሁን በኋላ ከቤተ መንግሥት የርቃችሁ ሀትሞሩም",
+    "romanized": "kaahune baxwaalaa kabeeta manegesete yareqaachehu hatemorume",
+    "wer": 0.5
+  },
+  {
+    "sample": 72,
+    "transcription": "ይህ ነው ከሚባል ስምምነት ላይ ያልደረሱም",
+    "romanized": "yehe nawe kamibaale sememenate laaye yaaledarasume",
+    "wer": 0.16666666666666666
+  },
+  {
+    "sample": 73,
+    "transcription": "በመጽሐፍ ቅዱስ መሠረት የሮማ ወታደሮች ከኢየሱስ ጋር አብረው የተሰቀሩት ሁለት ወንጀሎችን እግር ሰብረዋል",
+    "romanized": "bamatsehhafe qeduse masarate yaromaa wataadaroche kaiyasuse gaare aberawe yatasaqarute hulate wanejalochene egere saberawaale",
+    "wer": 0.07692307692307693
+  },
+  {
+    "sample": 74,
+    "transcription": "ውቅእና ከተሰጣቸው የዓይማኖት መሪዎች ውጪ ያሉ እምነቶች የምራባውያና ጅንዳመስፈጽሚያናቸው ይላሉ",
+    "romanized": "weqeenaa katasataachawe yaaayemaanote mariwoche wechi yaalu emenatoche yameraabaaweyaanaa jenedaamasefatsemiyaanaachawe yelaalu",
+    "wer": 0.6363636363636364
+  },
+  {
+    "sample": 75,
+    "transcription": "አስክሬናቸው በሆስፒታል እንደሚገኝ ለደህንነታቸው ሲባል ስማቸውን ይምን ጠቅሳቸው ምንጮች ተናግረዋል",
+    "romanized": "asekereenaachawe bahosepitaale enedamiganye ladahenenataachawe sibaale semaachawene yemene taqesaachawe menechoche tanaagerawaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 76,
+    "transcription": "ለትውልድ አራያ የሚሆን ቤተ ክነት እንዲኖወር ለማድረግ አሠራሯን በጥናት ተሻሽሎ ቤተ ክርስቲያናዋ ለትውልድ ማሻገር",
+    "romanized": "latewelede araayaa yamihone beeta kenate enedinoware lamaaderage asaraarwane batenaate tashaashelo beeta keresetiyaanaawaa latewelede maashaagare",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 77,
+    "transcription": "የእርሻውን በሬ ሥራውኑን በሰላን ከመስራት ይልቅ በቀንዱ ይወጋቸው",
+    "romanized": "yaereshaawene baree seraawenune basalaane kamaseraate yeleqe baqanedu yewagaachawe",
+    "wer": 0.5
+  },
+  {
+    "sample": 78,
+    "transcription": "በጀርመናዊው ጸሐፊ ኢዩብሉዶልፍ እና ኢትዮጵያዊ አባጎርጎሪውስትብብር የተደረሰ ያማረኛ መዝገበቅ አላት ነው",
+    "romanized": "bajaremanaawiwe tsahhafi iyubeludolefe enaa iteyopheyaawi abaagoregoriwesetebebere yatadarasa yaamaaranyaa mazegabaqe alaate nawe",
+    "wer": 0.6428571428571429
+  },
+  {
+    "sample": 79,
+    "transcription": "እርሱም ወላጆችሽ እነማናቸው ብሎ ሲጠይቀት እርሷም እኔ የማውቃት እናቴኝ ብቻ ነው",
+    "romanized": "eresume walaajocheshe enamaanaachawe belo sitayeqate ereswame enee yamaaweqaate enaateenye bechaa nawe",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 80,
+    "transcription": "ከዚያም ወደ ቤቶ አወስዳው ከተራራ ላይ የሚዘራው ንዘር ሰጠችው",
+    "romanized": "kaziyaame wada beeto awasedaawe kataraaraa laaye yamizaraawe nezare satachewe",
+    "wer": 0.4444444444444444
+  },
+  {
+    "sample": 81,
+    "transcription": "በ6ል0ዎቹ ውድሜ የ ውስጥ የሚገኙኑት ፓስተር ተስፋኤ ባለተዳርና ያንድልጃሀባት ነበሩ",
+    "romanized": "ba6le0wochu wedemee ya wesete yamiganyunute paasetare tasefaaee baalatadaarenaa yaanedelejaahabaate nabaru",
+    "wer": 0.75
+  },
+  {
+    "sample": 82,
+    "transcription": "ተፈረደባቸው እና ዝብጥ ያወረዱ",
+    "romanized": "tafaradabaachawe enaa zebete yaawaradu",
+    "wer": 1.3333333333333333
+  },
+  {
+    "sample": 83,
+    "transcription": "ቤተዘምሮቹ አና ወዳጆቹ አሲገደሉ ግን ማሽወቷ አብረው መወተ ባለሆነት ወረሳት",
+    "romanized": "beetazamerochu anaa wadaajochu asigadalu gene maashewatwa aberawe mawata baalahonate warasaate",
+    "wer": 1.0
+  },
+  {
+    "sample": 84,
+    "transcription": "አሜሪካ በስተትነ የስት የፈረንጆች ሲሆን ከእስር ለማስፈታትን በርቀታጥረተት እየተደረጉ ነው",
+    "romanized": "ameerikaa basetatena yasete yafaranejoche sihone kaesere lamaasefataatene bareqataateratate eyatadaragu nawe",
+    "wer": 0.6153846153846154
+  },
+  {
+    "sample": 85,
+    "transcription": "ስፔን ስድስት አውሮፕላኖች ወደ ጅቡት የመላኳን አስታውቃለች",
+    "romanized": "sepeene sedesete aweropelaanoche wada jebute yamalaakwaane asetaaweqaalache",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 86,
+    "transcription": "ትዊተር ከትላንት ጀምሮ በሺዎች የሚቆጠሪ ተዋጅ ስዎችን ሰማይ የማረጋ ገጫ ሚልክት ማንሳት ጀምረል",
+    "romanized": "tewitare katelaanete jamero bashiwoche yamiqotari tawaaje sewochene samaaye yamaaragaa gachaa milekete maanesaate jamerale",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 87,
+    "transcription": "አሜሪካዊው ጋዜጠኛ ኢቫን ጌርሾኮቪች የእስሩን ሁኔታ ይግባኝ ለማለት ሞስኩ በሚገኙ ፍርድ ቤት ቀረበ",
+    "romanized": "ameerikaawiwe gaazeetanyaa ivaane geereshokoviche yaeserune huneetaa yegebaanye lamaalate moseku bamiganyu ferede beete qaraba",
+    "wer": 0.23076923076923078
+  },
+  {
+    "sample": 88,
+    "transcription": "በኬንያ ራሳቸውን አስርበው ሲጸሉ የሞቱናቸው የተባሉ የያንድ ሰዎች አስክሬትን ተገኘ",
+    "romanized": "bakeeneyaa raasaachawene aserebawe sitsalu yamotunaachawe yatabaalu yayaanede sawoche asekereetene taganya",
+    "wer": 0.5833333333333334
+  },
+  {
+    "sample": 89,
+    "transcription": "የባለፉ ዓመት የለንድን መራትሆን ውድድር አሸናፊዋ ያዓለም ዘርፍ የኋላው ክብሯን ለማስጠበቅ ትሮጣለች",
+    "romanized": "yabaalafu aamate yalanedene maraatehone wededere ashanaafiwaa yaaaalame zarefe yaxwaalaawe keberwane lamaasetabaqe terotaalache",
+    "wer": 0.36363636363636365
+  },
+  {
+    "sample": 90,
+    "transcription": "ጸብ በሰው ልጆች ስተት ምክንያት የመጣ ነው",
+    "romanized": "tsabe basawe lejoche setate mekeneyaate yamataa nawe",
+    "wer": 0.14285714285714285
+  },
+  {
+    "sample": 91,
+    "transcription": "ናሙና ተወስዶ ምርመራ እንደሚደረግ ዘስታንዳርዱ የተባለው የኬንያ ጋዜጣ ዘግቧል",
+    "romanized": "naamunaa tawasedo meremaraa enedamidarage zasetaanedaaredu yatabaalawe yakeeneyaa gaazeetaa zagebwale",
+    "wer": 0.1111111111111111
+  },
+  {
+    "sample": 92,
+    "transcription": "የመጀመሪያው ምክር በእጅህ ያለውን ነገር አትልቀቅ",
+    "romanized": "yamajamariyaawe mekere baejehe yaalawene nagare ateleqaqe",
+    "wer": 0.0
+  },
+  {
+    "sample": 93,
+    "transcription": "ጄኔራል ቡረሃን የረጅም ዘመን ወታደር ናቸው",
+    "romanized": "jeeneeraale burahaane yarajeme zamane wataadare naachawe",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 94,
+    "transcription": "በዚህም ግብፅ 66 በመቶ የውሃ ድርሻ ሲኖራት 202 በመ0 ደግሞ የሱዳን ነው",
+    "romanized": "baziheme gebetze 66 bamato yawehaa dereshaa sinoraate 202 bama0 dagemo yasudaane nawe",
+    "wer": 0.35714285714285715
+  },
+  {
+    "sample": 95,
+    "transcription": "በአሁኑ ወቅት የሁለተኛ ደረጃ ትምህርት ቤት እያለች በአቋቋመቹ ፕሮዳክሽን ኩባንያየሰራች ነው",
+    "romanized": "baahunu waqete yahulatanyaa darajaa temeherete beete eyaalache baaqwaaqwaamachu perodaakeshene kubaaneyaayasaraache nawe",
+    "wer": 0.25
+  },
+  {
+    "sample": 96,
+    "transcription": "እንደማትቀበል በተረጋጋ ሚስትገልዝ ቆይታለች",
+    "romanized": "enedamaateqabale bataragaagaa misetegaleze qoyetaalache",
+    "wer": 0.5
+  },
+  {
+    "sample": 97,
+    "transcription": "እናቶ አፈንጃምካኝ ወይም በሀገሬው ቋንቋ እንድትሆን ያደረጋትን ምክንያት ወደፊት እንደምትረዳ ሄለና ሙሉምነት አላት",
+    "romanized": "enaato afanejaamekaanye wayeme bahagareewe qwaaneqwaa enedetehone yaadaragaatene mekeneyaate wadafite enedameteradaa heelanaa mulumenate alaate",
+    "wer": 0.4
+  },
+  {
+    "sample": 98,
+    "transcription": "ይህ ብቻ በቂት ላልሆነ ለምን አንድ ቀን አብረን አናድርም",
+    "romanized": "yehe bechaa baqite laalehona lamene anede qane aberane anaadereme",
+    "wer": 0.2222222222222222
+  },
+  {
+    "sample": 99,
+    "transcription": "በተለይ በተለይ እንደይሁዳ ሀገርን በሽሩሾራፊ ሳንቲክ ለመሸጤ የማያመነቱ ሰዎችን ይዘን ግዟችን ቀለል አይሆንም",
+    "romanized": "batalaye batalaye enedayehudaa hagarene basherushoraafi saanetike lamashatee yamaayaamanatu sawochene yezane gezwachene qalale ayehoneme",
+    "wer": 0.5
+  },
+  {
+    "sample": 100,
+    "transcription": "ልብ ልቱል የሚገበው የሚቀርቡ ምግቦችን በሙሉ መብላት እንደሌለባቹ ነው ይላሉ ባለሙያዎቹ",
+    "romanized": "lebe letule yamigabawe yamiqarebu megebochene bamulu mabelaate enedaleelabaachu nawe yelaalu baalamuyaawochu",
+    "wer": 0.2727272727272727
+  },
+  {
+    "sample": 101,
+    "transcription": "በድረጋገሚ ይጣሰነው ካለ በኋላ ከሕግ ሕግባብ ውጪ የታስሩ ወጤኖች እንዲፈቱ በመግለጫው ጠይቋል",
+    "romanized": "baderagaagami yetaasanawe kaala baxwaalaa kahhege hhegebaabe wechi yataaseru wateenoche enedifatu bamagelachaawe tayeqwaale",
+    "wer": 0.46153846153846156
+  },
+  {
+    "sample": 102,
+    "transcription": "ዝርዝር መረጃዎችን መሙላት የሚጠበቅባቸው ሲሆን ከዚያም የሴቶች ጤና ዶክተር ተስማሚ ተሰትፊዎችን መረጡ",
+    "romanized": "zerezere marajaawochene mamulaate yamitabaqebaachawe sihone kaziyaame yaseetoche teenaa doketare tasemaami tasatefiwochene maratu",
+    "wer": 0.08333333333333333
+  },
+  {
+    "sample": 103,
+    "transcription": "እያለ ፊለመን በለእሊቱጣት ላይ የወርቁን ቀለበታየው",
+    "romanized": "eyaala filamane balaelitutaate laaye yawarequne qalabataayawe",
+    "wer": 0.625
+  },
+  {
+    "sample": 104,
+    "transcription": "ባልንጀራቸው ቾይ ይባላሉ",
+    "romanized": "baalenejaraachawe choye yebaalaalu",
+    "wer": 0.0
+  },
+  {
+    "sample": 105,
+    "transcription": "በአዲስ ሰበባ በሽብር እና ሕገ መንግስታዊ ሥርዓቱን በኃይል ለመናድን አሲረዋል በሚል በሽብር ወንጀልክስ ቀርቦባቸዋል",
+    "romanized": "baadise sababaa bashebere enaa hhega manegesetaawi sereaatune baxaayele lamanaadene asirawaale bamile bashebere wanejalekese qarebobaachawaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 106,
+    "transcription": "አክለውን በፌዴራል መንግስቱእና በህዋት መካከል የተደረሰው ስምምነት ያላንዳሽ ማመንታት መተክበር ይኖውበት አልብለዋል",
+    "romanized": "akelawene bafeedeeraale manegesetuenaa bahewaate makaakale yatadarasawe sememenate yaalaanedaashe maamanetaate matakebare yenowebate alebelawaale",
+    "wer": 0.7142857142857143
+  },
+  {
+    "sample": 107,
+    "transcription": "ይመn አቡ ጋርጋ በተባለች ዜጊያ እስከፉ ሁለ ልጆቻ ቢመዘግቡም እስከሁምን ምላሽ እንዳተሰተ ተናግራለች",
+    "romanized": "yeman abu gaaregaa batabaalache zeegiyaa esekafu hula lejochaa bimazagebume esekahumene melaashe enedaatasata tanaageraalache",
+    "wer": 0.7142857142857143
+  },
+  {
+    "sample": 108,
+    "transcription": "ክፉ ለራሱም አንድ አይነህን አውጣና ምግብ ሰጥሃለው አለው",
+    "romanized": "kefu laraasume anede ayenahene awetaanaa megebe satehaalawe alawe",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 109,
+    "transcription": "የግድቡን ግንባታ ከሚያከናውኑ ሥራ ተኳራጮች መካከል የጣሊያኑ ሳሌኒ ይጠቀሳል",
+    "romanized": "yagedebune genebaataa kamiyaakanaawenu seraa takwaaraachoche makaakale yataaliyaanu saaleeni yetaqasaale",
+    "wer": 0.2222222222222222
+  },
+  {
+    "sample": 110,
+    "transcription": "ዲ አጎቴ የተባለዊ የጀርመን መጽሄት የፊርግጽላሽ የሃንሳ አራት አመንቱን ስፖተኛ ኮጡ አትሟል",
+    "romanized": "di agotee yatabaalawi yajaremane matseheete yafiregetselaashe yahaanesaa araate amanetune sepotanyaa kotu atemwale",
+    "wer": 0.7857142857142857
+  },
+  {
+    "sample": 111,
+    "transcription": "በተከታታ44 ጥጫዋታዎች የተሸነፈ ቡድን እንዴት ሆኖ ከሜዳ ውጭ የበርተን ናሸነፍች አለ",
+    "romanized": "batakataataa44 techaawaataawoche yatashanafa budene enedeete hono kameedaa weche yabaretane naashanafeche ala",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 112,
+    "transcription": "በመዲነዋ ከፍሰየ የተኩሰ ናይፍዳካድምስ ዜየተሰማ ነው",
+    "romanized": "bamadinawaa kafesaya yatakusa naayefedaakaademese zeeyatasamaa nawe",
+    "wer": 0.875
+  },
+  {
+    "sample": 113,
+    "transcription": "እንዲሁም ኬናዊቱ አትሌት ፓይሬት ጄፕጅይትር ሦስተኛ ደረጃ ወታለች",
+    "romanized": "enedihume keenaawitu ateleete paayereete jeepejeyetere sosetanyaa darajaa wataalache",
+    "wer": 0.5
+  },
+  {
+    "sample": 114,
+    "transcription": "ሽማግሌዎቹም ሰላም ለማውረርተዋያዩ",
+    "romanized": "shemaageleewochume salaame lamaaweraretawaayaayu",
+    "wer": 0.75
+  },
+  {
+    "sample": 115,
+    "transcription": "ሆኖም ሲትያ በሴት የተመሰለች የሰይጣ ልጅ ነበረች",
+    "romanized": "honome siteyaa baseete yatamasalache yasayetaa leje nabarache",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 116,
+    "transcription": "በመጨረሻ ምናህ ሀፊስ ይህን ይላሉ",
+    "romanized": "bamacharashaa menaahe hafise yehene yelaalu",
+    "wer": 0.6
+  },
+  {
+    "sample": 117,
+    "transcription": "በጡንቺ ሀፍታች ውጤቶች ምክንያት እንደሆነ ገምታለው ትላለች",
+    "romanized": "batunechi hafetaache weteetoche mekeneyaate enedahona gametaalawe telaalache",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 118,
+    "transcription": "ባለፉ ስድስት ወራስ ብቻ ሁለት ቢሊዮን ዶላር የውጭ ይቀጥተ ኢንቨስትመንት መሳብ መቻሉንም ተመልክቷች",
+    "romanized": "baalafu sedesete waraase bechaa hulate biliyone dolaare yaweche yeqateta inevasetemanete masaabe machaaluneme tamaleketwache",
+    "wer": 0.46153846153846156
+  },
+  {
+    "sample": 119,
+    "transcription": "የህዳሴው ግድብ ግን ባታ ምንም አይነት የደንነት ሥጋት በሱዳንና በግብፅ ላይ እንደማያስገትል ለምክር ቤቱ አስርድታለች",
+    "romanized": "yahedaaseewe gedebe gene baataa meneme ayenate yadanenate segaate basudaanenaa bagebetze laaye enedamaayaasegatele lamekere beetu aseredetaalache",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 120,
+    "transcription": "በጋር መመግብ በስነልብና ደረጃ መልካም ስሜት አለው",
+    "romanized": "bagaare mamagebe basenalebenaa darajaa malekaame semeete alawe",
+    "wer": 0.5
+  },
+  {
+    "sample": 121,
+    "transcription": "በተደረገው ውይት ጥያቄዎቹ ሙሉ በሙሉ ሙላሽ እንደሚያገኝ እና ሰልፉን መራዘሙን ገልፃ ነበር",
+    "romanized": "batadaragawe weyete teyaaqeewochu mulu bamulu mulaashe enedamiyaaganye enaa salefune maraazamune galetzaa nabare",
+    "wer": 0.5
+  },
+  {
+    "sample": 122,
+    "transcription": "የዓለም መፀ ሀፍት ቀን እናስመልክቶ የቀረበ",
+    "romanized": "yaaalame matza hafete qane enaasemaleketo yaqaraba",
+    "wer": 0.8
+  },
+  {
+    "sample": 123,
+    "transcription": "የስሜን ኢትዮኪየን የእርስበርስጦርነት የክፋጨፈት የመንገደ አፍሪካ የራሷ ችግር በራሷ መሰት እንደምት ስማሳየ ለው",
+    "romanized": "yasemeene iteyokiyane yaeresebaresetorenate yakefaachafate yamanegada aferikaa yaraaswa chegere baraaswa masate enedamete semaasaaya lawe",
+    "wer": 0.8
+  },
+  {
+    "sample": 124,
+    "transcription": "ይበልጥ የሚያቆራኙ ብለውም ከሌላው እንዲለዩ ከሚያረጓቸው እውነታዎች ሆነው እናገኛቸዋለነውያሉት",
+    "romanized": "yebalete yamiyaaqoraanyu belaweme kaleelaawe enedilayu kamiyaaragwaachawe ewenataawoche honawe enaaganyaachawaalanaweyaalute",
+    "wer": 0.36363636363636365
+  },
+  {
+    "sample": 125,
+    "transcription": "በደረሰቢ ነገር ሁላ አዝነዋል የሚላው ከቃለ ምንልሱ አንዱ መስመር ነው",
+    "romanized": "badarasabi nagare hulaa azenawaale yamilaawe kaqaala menelesu anedu masemare nawe",
+    "wer": 0.3
+  },
+  {
+    "sample": 126,
+    "transcription": "እርሱም ጉዞውን ቀጥሎ አንድ ህል የሚያጭድ ሰው ዘንድ ደረሰ",
+    "romanized": "eresume guzowene qatelo anede hele yamiyaachede sawe zanede darasa",
+    "wer": 0.1111111111111111
+  },
+  {
+    "sample": 127,
+    "transcription": "የሩዋንዳ ልቂት ተጠናቀውም ሙዜይም ተሰርቶ ወለታል",
+    "romanized": "yaruwaanedaa leqite tatanaaqaweme muzeeyeme tasareto walataale",
+    "wer": 1.0
+  },
+  {
+    "sample": 128,
+    "transcription": "አባ ጎርጎሪዎስ ስለ ቅዱስት ማሪያም የደረሱትን ምስጋና ግጥሞች እና የለተለትነገግሮች መዝግብ ይገኛል",
+    "romanized": "abaa goregoriwose sela qedusete maariyaame yadarasutene mesegaanaa getemoche enaa yalatalatenagageroche mazegebe yeganyaale",
+    "wer": 0.5833333333333334
+  },
+  {
+    "sample": 129,
+    "transcription": "ምንም አስራጅ ይላቸውም",
+    "romanized": "meneme aseraaje yelaachaweme",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 130,
+    "transcription": "ሼቪልድ ወደ ፕሪሚየር ሊጉ ለመመለዝ ከጫፍ ደርሷል",
+    "romanized": "sheevilede wada perimiyare ligu lamamalaze kachaafe dareswale",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 131,
+    "transcription": "በዘጋቢነት ሲሠራ የነበረው ኢቫን የካትሪንበርግ በተባለሽ ከተማ በቁጥጥር ሥር ከዋለ በኋላ በስለላ ወንጀል ተከፏል",
+    "romanized": "bazagaabinate sisaraa yanabarawe ivaane yakaaterinebarege batabaalashe katamaa baqutetere sere kawaala baxwaalaa baselalaa wanejale takafwale",
+    "wer": 0.35714285714285715
+  },
+  {
+    "sample": 132,
+    "transcription": "slቤተlያይምግባቀረብለት",
+    "romanized": "slbeetalyaayemegebaaqarabelate",
+    "wer": 1.0
+  },
+  {
+    "sample": 133,
+    "transcription": "ግድቡት ሲጠናቀቅ እስከ 6ሺ 40050 ሜጋዋት ማመንጨት ይችላል ተብሏል",
+    "romanized": "gedebute sitanaaqaqe eseka 6shi 40050 meegaawaate maamanechate yechelaale tabelwale",
+    "wer": 0.5833333333333334
+  },
+  {
+    "sample": 134,
+    "transcription": "ካሕክም እና መሣራይ የልቅ አዲስ ፋሽን ትሸርትም እንዲመስል እንዳአቀዱ ታትረዳለች",
+    "romanized": "kaahhekeme enaa masaaraaye yaleqe adise faashene teshareteme enedimasele enedaaaqadu taateradaalache",
+    "wer": 0.7777777777777778
+  },
+  {
+    "sample": 135,
+    "transcription": "ቴምዲዙ ይታቸውን ለተጠነኛ ዓመታቸው በእስጦታ የገዛችላቸው ነጭ ፓላዞ የተተኘው ሱሪ በአሁን ወቅት አለመሩ ይጠጥታቸዋል",
+    "romanized": "teemedizu yetaachawene latatananyaa aamataachawe baesetotaa yagazaachelaachawe nache paalaazo yatatanyawe suri baahune waqete alamaru yetatetaachawaale",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 136,
+    "transcription": "የእንዲህ ዓይነቱ ጦርነት ጉዳያት የግብፅቁስነው ተሎ አይሽርም",
+    "romanized": "yaenedihe aayenatu torenate gudaayaate yagebetzequsenawe talo ayeshereme",
+    "wer": 0.5555555555555556
+  },
+  {
+    "sample": 137,
+    "transcription": "ዩናይትድ በኤፍኤ ዋንጫ ከብራይተን ይጫውታል",
+    "romanized": "yunaayetede baeefeee waanechaa kaberaayetane yechaawetaale",
+    "wer": 0.2
+  },
+  {
+    "sample": 138,
+    "transcription": "ጓደኛዬሄድኩላ ሆይ እኔን ለምንትሸሸኛለህ",
+    "romanized": "gwaadanyaayeeheedekulaa hoye eneene lameneteshashanyaalahe",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 139,
+    "transcription": "አብዛኛዎቹን ወደ አዋሽ ሰባት የጦር ካምፕ መወሰዳቸውን የቤተ ክርስቲያኗ የሕግ ባለሚያዎች ለቢቢሲ ገልፀዋል",
+    "romanized": "abezaanyaawochune wada awaashe sabaate yatore kaamepe mawasadaachawene yabeeta keresetiyaanwa yahhege baalamiyaawoche labibisi galetzawaale",
+    "wer": 0.23076923076923078
+  },
+  {
+    "sample": 140,
+    "transcription": "እስከ አሁን ግልፅ አቋም የያዘች አይመስለም",
+    "romanized": "eseka ahune geletze aqwaame yayaazache ayemaselame",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 141,
+    "transcription": "ሴናቶር እንዲወጡ ከተደረጉ በኋላ ለጋዜጠኞች ምልክታቸውን አስተላልፈዋል",
+    "romanized": "seenaatore enediwatu katadaragu baxwaalaa lagaazeetanyoche meleketaachawene asetalaalefawaale",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 142,
+    "transcription": "ከካርቱን በተጨማሪም ፍጥኖ ደረሻ ይሉ የወጣባት የደርፉ ምራባ የክልልም በጦርነቱ ከፍተኛ ተገድጧል",
+    "romanized": "kakaaretune batachamaarime feteno darashaa yelu yawataabaate yadarefu meraabaa yakeleleme batorenatu kafetanyaa tagadethwale",
+    "wer": 0.75
+  },
+  {
+    "sample": 143,
+    "transcription": "ወደ ቤት ወስዶ ተካፍሎ መብላት ማህበረሰባዊ እና ቤተሰባዊ ሁኔታ ላይ አዎንታዊ የሚናንዳለው ይጠቅሳሉ",
+    "romanized": "wada beete wasedo takaafelo mabelaate maahebarasabaawi enaa beetasabaawi huneetaa laaye awonetaawi yaminaanedaalawe yetaqesaalu",
+    "wer": 0.21428571428571427
+  },
+  {
+    "sample": 144,
+    "transcription": "በሶማሊ የክልንሲቲዞን የሰጥታ ስጋት በመኖሩ ክሬዶዋ ወደ ዥቡት የሚወስሩ አስፋልት መንገድ ተዘጋ",
+    "romanized": "basomaali yakelenesitizone yasatetaa segaate bamanoru kereedowaa wada zhebute yamiwaseru asefaalete manegade tazagaa",
+    "wer": 0.6428571428571429
+  },
+  {
+    "sample": 145,
+    "transcription": "በዚህ ጊዜ ውሸታሙ ሰውሃውስጥ ወርውሮኝ እና ልሙት አላቸው",
+    "romanized": "bazihe gizee weshataamu sawehaawesete wareweronye enaa lemute alaachawe",
+    "wer": 0.4444444444444444
+  },
+  {
+    "sample": 146,
+    "transcription": "ቅድመ ንገዝ ፀሕይ ከመውጠቷ በፊት ጾ መያዛች ሰዓት ደግሞ ሱሑር ይበላል",
+    "romanized": "qedema negaze tzahheye kamawetatwa bafite tso mayaazaache saaate dagemo suhhure yebalaale",
+    "wer": 0.6363636363636364
+  },
+  {
+    "sample": 147,
+    "transcription": "የመለእክቱን ሙኖቃል እንደሚከተለው ቀርቧል",
+    "romanized": "yamalaeketune munoqaale enedamikatalawe qarebwale",
+    "wer": 0.6
+  },
+  {
+    "sample": 148,
+    "transcription": "እረኛውም ያዳመጠ ነበር",
+    "romanized": "eranyaaweme yaadaamata nabare",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 149,
+    "transcription": "በዚህ ዓይነት ሦስቱም የሚፈልጉትን አግኝተው በሰላም መኖር ጨመሩ",
+    "romanized": "bazihe aayenate sosetume yamifalegutene agenyetawe basalaame manore chamaru",
+    "wer": 0.25
+  },
+  {
+    "sample": 150,
+    "transcription": "ለመሆኑ ይህ ሰውን በመስቀል ላይ በመስቀል የሚፈጸመው የሞትቅጣት መጀና ተጀመረ",
+    "romanized": "lamahonu yehe sawene bamaseqale laaye bamaseqale yamifatsamawe yamoteqetaate majanaa tajamara",
+    "wer": 0.38461538461538464
+  },
+  {
+    "sample": 151,
+    "transcription": "በቅዳኞቹ ዘመናት አባታችን አዳም አትብ ላይ የተባለውን እጸ በለስ በልቶ የፈጣሬ እንትዛዝ ተላለፈ",
+    "romanized": "baqedaanyochu zamanaate abaataachene adaame atebe laaye yatabaalawene etsa balase baleto yafataaree enetezaaze talaalafa",
+    "wer": 0.5
+  },
+  {
+    "sample": 152,
+    "transcription": "ይህ አሳዘንግጭት ሊቆ ሚይገባል ብለዋል ፕሬዝዳንቱ",
+    "romanized": "yehe asaazanegechete liqo miyegabaale belawaale pereezedaanetu",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 153,
+    "transcription": "ለዚህ ስኬት የተቻለንን ለማድረግ ዝግጁ መሆናችንን አረጋግጣለ ብለዋል",
+    "romanized": "lazihe sekeete yatachaalanene lamaaderage zegeju mahonaachenene aragaagetaala belawaale",
+    "wer": 0.2222222222222222
+  },
+  {
+    "sample": 154,
+    "transcription": "ሥራሁን የሚሰራው ሁል ጊዜ እየተነገረው ነው",
+    "romanized": "seraahune yamisaraawe hule gizee eyatanagarawe nawe",
+    "wer": 0.8
+  },
+  {
+    "sample": 155,
+    "transcription": "ቀነኒሳ አርባ ሁለት ኪ.ሜ ርቀትን በምሮጥ ምርጡን የግልሳት አስመዝግቧል",
+    "romanized": "qananisaa arebaa hulate ki.mee reqatene bamerote meretune yagelesaate asemazegebwale",
+    "wer": 0.5454545454545454
+  },
+  {
+    "sample": 156,
+    "transcription": "ወቅቱ በአውሮፓውያኑ የክረምት ወቅት አጥምት የሚሰብር ቅጽቃዜ የነበረበት እናቱ በሐዘን የተሰበሩበት ያዕለት",
+    "romanized": "waqetu baaweropaaweyaanu yakeramete waqete atemete yamisabere qetseqaazee yanabarabate enaatu bahhazane yatasabarubate yaaelate",
+    "wer": 0.3076923076923077
+  },
+  {
+    "sample": 157,
+    "transcription": "ፎቶን እያነሱ ለነበሩት የጋዜጠኞች ቡድንም ምንም አልተነገረም",
+    "romanized": "fotone eyaanasu lanabarute yagaazeetanyoche budeneme meneme aletanagarame",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 158,
+    "transcription": "የትግራይ ሕዝብ ሰላም እንዲሰፍን እና ወደ ቅድሞ ሕይወቱ ለመመለስ እንጂ የጥይህ ድምፃ የመስማት ፈቃር ይነት እንደሌለው ተናግረዋል",
+    "romanized": "yategeraaye hhezebe salaame enedisafene enaa wada qedemo hheyewatu lamamalase eneji yateyehe demetzaa yamasemaate faqaare yenate enedaleelawe tanaagerawaale",
+    "wer": 0.4666666666666667
+  },
+  {
+    "sample": 159,
+    "transcription": "አንተም እንደ በፊቱ በየሳመንቱ ገበያው ቦታ ታገኘኛለ",
+    "romanized": "anetame eneda bafitu bayasaamanetu gabayaawe botaa taaganyanyaala",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 160,
+    "transcription": "አሜሪካ እንግሊዝና ጃፓንን ጨምሮ በርካታየዎች አገራት ኤንባሲዎች ዜጎቻቸውን ከካርቱ ማዕላስ ወጡም",
+    "romanized": "ameerikaa enegelizenaa jaapaanene chamero barekaataayawoche agaraate eenebaasiwoche zeegochaachawene kakaaretu maaelaase watume",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 161,
+    "transcription": "የኢዳል ፈጥር በዓል በእስልም እና ምነት ተከታዮች ዘንድ በድምቀት ተከበረ",
+    "romanized": "yaidaale fatere baaale baeseleme enaa menate takataayoche zanede bademeqate takabara",
+    "wer": 0.5555555555555556
+  },
+  {
+    "sample": 162,
+    "transcription": "በዚህ አይነት ሰውየውን በነጉሡ ጅሎት ከሰሱት",
+    "romanized": "bazihe ayenate saweyawene banagusu jelote kasasute",
+    "wer": 0.5
+  },
+  {
+    "sample": 163,
+    "transcription": "ሰሐይ ስትተልቅ ጾም ያበቃል",
+    "romanized": "sahhaye setetaleqe tsome yaabaqaale",
+    "wer": 0.5
+  },
+  {
+    "sample": 164,
+    "transcription": "ከኢኒቨርሲ አማካሪዎች እንዲሁን የሙያ አስልታኞች ጋር ተነጋገሩ",
+    "romanized": "kainivaresi amaakaariwoche enedihune yamuyaa aseletaanyoche gaare tanagaagaru",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 165,
+    "transcription": "ኢንተርኔት እንደሚዘጋ የተለያዩ ድርጅቶች ሪፖርት ማድረጋቸውን የዛሬው አምነስቲ መግለጅ አስታውሷል",
+    "romanized": "inetareneete enedamizagaa yatalayaayu derejetoche riporete maaderagaachawene yazaareewe amenaseti magelaje asetaaweswale",
+    "wer": 0.2
+  },
+  {
+    "sample": 166,
+    "transcription": "በኢትዮጵያ ውስሮስ ቤተ ክርስቲያን የተከሰተውን ችግር ለመፍታት የተላለፉ ውሳኔዎች ምንድም ናቸው",
+    "romanized": "baiteyopheyaa weserose beeta keresetiyaane yatakasatawene chegere lamafetaate yatalaalafu wesaaneewoche menedeme naachawe",
+    "wer": 0.18181818181818182
+  },
+  {
+    "sample": 167,
+    "transcription": "ለመሆሩ ከሚደልቡ ከብቶች ይልቅ ግጦሽ ላይ ተሰማብቶ ያደጉእንስሰዓትን በሥጋችው ይዘት ይመርጧቸዋል",
+    "romanized": "lamahoru kamidalebu kabetoche yeleqe getoshe laaye tasamaabeto yaadaguenesesaaatene basegaachewe yezate yemarethwachawaale",
+    "wer": 0.6363636363636364
+  },
+  {
+    "sample": 168,
+    "transcription": "የዩኬ ዜጎች በአውሮፕላን ዜጎችን ለምን ማውጣት አልተቻለም ሲሉ ቅሬታ አሰምተዋል",
+    "romanized": "yayukee zeegoche baaweropelaane zeegochene lamene maawetaate aletachaalame silu qereetaa asametawaale",
+    "wer": 0.0
+  },
+  {
+    "sample": 169,
+    "transcription": "ልጆች ከበሉ ከወፈሩ ድንቡሽቡሽ ካሉ እርገታቸው የተሟላ የመስለናል ነገር ግን ተሳስተናል ይላሉ",
+    "romanized": "lejoche kabalu kawafaru denebushebushe kaalu eregataachawe yatamwalaa yamaselanaale nagare gene tasaasetanaale yelaalu",
+    "wer": 0.16666666666666666
+  },
+  {
+    "sample": 170,
+    "transcription": "ያለንን ጽኖ እምነት ለመግለጽ እኖዳለን ሲሉ መአጽኖዖት ሰተዋል",
+    "romanized": "yaalanene tseno emenate lamagelatse enodaalane silu maatsenoote satawaale",
+    "wer": 0.75
+  },
+  {
+    "sample": 171,
+    "transcription": "ግብፅ ከሱዳን ጦር ጋር ዕቅርበት እንዳላት ይታወቃል",
+    "romanized": "gebetze kasudaane tore gaare eqerebate enedaalaate yetaawaqaale",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 172,
+    "transcription": "ሚሱ ውሽማ ነበራት እና ውሽማ ወደቤቷ እንዲመጣ ስለፈለገች አንድ ዘዴ ቀየሰች",
+    "romanized": "misu weshemaa nabaraate enaa weshemaa wadabeetwa enedimataa selafalagache anede zadee qayasache",
+    "wer": 0.4
+  },
+  {
+    "sample": 173,
+    "transcription": "ከለታት አንድ ቀን ደግሞ አንዲት ቆንድ ወሴት ስታለቅስ ያገኛታል",
+    "romanized": "kalataate anede qane dagemo anedite qonede waseete setaalaqese yaaganyaataale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 174,
+    "transcription": "የመሕብረሰብ አንቄዎችን ኢላማ ያደረገ እስር እና ወከባ በጅጓ አሳ አስቦኛል ብሎ ነበር",
+    "romanized": "yamahheberasabe aneqeewochene ilaamaa yaadaraga esere enaa wakabaa bajegwaa asaa asebonyaale belo nabare",
+    "wer": 0.5454545454545454
+  },
+  {
+    "sample": 175,
+    "transcription": "ብዙዎች በነገሩ ሲሳለጉ አንዳንዱች በወሳኔው ሲያዝኑም ነበር",
+    "romanized": "bezuwoche banagaru sisaalagu anedaaneduche bawasaaneewe siyaazenume nabare",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 176,
+    "transcription": "ለዚህ ኖከብቶች እንዲትገዛ ገንዘብ የተወለ በቪር የተጨማሪ ሁላቹን ገንዘብ እንደምታገኙ አመላክቹ ሃል አላቹ",
+    "romanized": "lazihe nokabetoche eneditegazaa ganezabe yatawala bavire yatachamaari hulaachune ganezabe enedametaaganyu amalaakechu haale alaachu",
+    "wer": 0.7692307692307693
+  },
+  {
+    "sample": 177,
+    "transcription": "የቢቢሲ የሩሲያ አዘጋጅ ስቲቭ ሮዝንበርግ ኢቫን ጎበትጋቤጠኛ እና በመርህ የሚመራ ሲሉ ገልጸውታል",
+    "romanized": "yabibisi yarusiyaa azagaaje setive rozenebarege ivaane gobategaabeetanyaa enaa bamarehe yamimaraa silu galetsawetaale",
+    "wer": 0.15384615384615385
+  },
+  {
+    "sample": 178,
+    "transcription": "ለገሰ ኩሳት አዋቂ የኢትዮጵያ የግርኳስ ጥጫዋች ነው",
+    "romanized": "lagasa kusaate awaaqi yaiteyopheyaa yagerekwaase techaawaache nawe",
+    "wer": 0.625
+  },
+  {
+    "sample": 179,
+    "transcription": "የዘገባው ይህ ሰባኪ በአካባቢው ሶስት መንደሮችን ናዝሬት በተለይም እና ጁዲያ ብሎ ሰይሟል",
+    "romanized": "yazagabaawe yehe sabaaki baakaabaabiwe sosete manedarochene naazereete batalayeme enaa judiyaa belo sayemwale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 180,
+    "transcription": "የቴሌቪዥኑን ነገር እና ቆየው እና ልጆች በሠራተኛ ማደጋቸው ምንድ ነው ችግሉ",
+    "romanized": "yateeleevizhenune nagare enaa qoyawe enaa lejoche basaraatanyaa maadagaachawe menede nawe chegelu",
+    "wer": 0.75
+  },
+  {
+    "sample": 181,
+    "transcription": "ልጁም ይህን ማድረግ ይችላለሁ ብሎ ቃልገባ",
+    "romanized": "lejume yehene maaderage yechelaalahu belo qaalegabaa",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 182,
+    "transcription": "የሱዳን መንግሥት በአብዛኛው አረብ ያልሆኑትን የዳርፎር አማፀይብዶችንም ለመደምሰስ ጀን ዳዊድ ዋነኛ መሪ ነበር",
+    "romanized": "yasudaane manegesete baabezaanyaawe arabe yaalehonutene yadaarefore amaatzayebedocheneme lamadamesase jane daawide waananyaa mari nabare",
+    "wer": 0.46153846153846156
+  },
+  {
+    "sample": 183,
+    "transcription": "በሱዳን ጉዳይ ቀተኛ ፍላጎት ያላቸው ጎረቤት ሀገራት በርካቶች ናቸው",
+    "romanized": "basudaane gudaaye qatanyaa felaagote yaalaachawe gorabeete hagaraate barekaatoche naachawe",
+    "wer": 0.2222222222222222
+  },
+  {
+    "sample": 184,
+    "transcription": "ይህን ድየህንና አድርግ ካልተባለ ምንም አይሰራም",
+    "romanized": "yehene deyahenenaa aderege kaaletabaala meneme ayesaraame",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 185,
+    "transcription": "ካሰብንበት ግብ በፍጥነት እንደርሳለ ማለት ዘበት ነው",
+    "romanized": "kaasabenebate gebe bafetenate enedaresaala maalate zabate nawe",
+    "wer": 0.14285714285714285
+  },
+  {
+    "sample": 186,
+    "transcription": "የሱዳን የበስተሰሜን ጎረቤት ሀገር ግብፅ በካርቱም ያለውሞታድ ግጭት እና በአንክሮ የተከታተለች ነው",
+    "romanized": "yasudaane yabasetasameene gorabeete hagare gebetze bakaaretume yaalawemotaade gechete enaa baanekero yatakataatalache nawe",
+    "wer": 0.5
+  },
+  {
+    "sample": 187,
+    "transcription": "ነገር ግን ምርት ካለችው ዩኒቨርሲቲ ተቀብለ ንሻሊ የሚልድብዳቤ ሲደርሳት ሌሎቹን ውድቅ ማድረግ ነበረባት",
+    "romanized": "nagare gene merete kaalachewe yunivaresiti taqabela neshaali yamiledebedaabee sidaresaate leelochune wedeqe maaderage nabarabaate",
+    "wer": 0.38461538461538464
+  },
+  {
+    "sample": 188,
+    "transcription": "ሁለተኛው ሰው ደግሞ ሙት ነው",
+    "romanized": "hulatanyaawe sawe dagemo mute nawe",
+    "wer": 0.2
+  },
+  {
+    "sample": 189,
+    "transcription": "ናጅቭ እኔ አማካሪ አሳስቶይ ነው እንጂ ንጹነኝ ይላሉ",
+    "romanized": "naajeve enee amaakaari asaasetoye nawe eneji netsunanye yelaalu",
+    "wer": 0.5555555555555556
+  },
+  {
+    "sample": 190,
+    "transcription": "በዚያው ዓመት ሰኔወር ላይ ኢትዮጵያ ሁለተኛውን የውሃ ሙሌት አካሂዳለች",
+    "romanized": "baziyaawe aamate saneeware laaye iteyopheyaa hulatanyaawene yawehaa muleete akaahidaalache",
+    "wer": 0.2
+  },
+  {
+    "sample": 191,
+    "transcription": "ከጉባ እስከጸጥቷው ምክር ቤት የደረሰው ታላቁ የሂዳሴ ግድብ",
+    "romanized": "kagubaa esekatsatetwawe mekere beete yadarasawe taalaaqu yahidaasee gedebe",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 192,
+    "transcription": "ቢቢሲ ግን ይህን በገልተኛው ግን አላጣራም",
+    "romanized": "bibisi gene yehene bagaletanyaawe gene alaataaraame",
+    "wer": 0.5
+  },
+  {
+    "sample": 193,
+    "transcription": "ምንም እንኳን ከግብፅ እና ከሱዳን ተደጋጋሚ ተቃዋመው ቢነሳባትም",
+    "romanized": "meneme enekwaane kagebetze enaa kasudaane tadagaagaami taqaawaamawe binasaabaateme",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 194,
+    "transcription": "ሄንቲ በዋንይነት የሚይሻማይ ነበሩ",
+    "romanized": "heeneti bawaaneyenate yamiyeshaamaaye nabaru",
+    "wer": 0.8
+  },
+  {
+    "sample": 195,
+    "transcription": "የእርሻ በሬው ሥራውን መስራት አይፈልግም",
+    "romanized": "yaereshaa bareewe seraawene maseraate ayefalegeme",
+    "wer": 0.2
+  },
+  {
+    "sample": 196,
+    "transcription": "ወደ ሌሎች ድሃይ የጎረቤት ሀገረት የሄደውን በአይነኩራኛ የተተባበከ ነው",
+    "romanized": "wada leeloche dehaaye yagorabeete hagarate yaheedawene baayenakuraanyaa yatatabaabaka nawe",
+    "wer": 0.8888888888888888
+  },
+  {
+    "sample": 197,
+    "transcription": "ያላቸው ውሃ የተመናመነ በስራባልደረቧቸ ና የጎረቦቶቻ ሞታ ዘል ልቧ በተሰብረበት ሁኔታምነ ያለቸው",
+    "romanized": "yaalaachawe wehaa yatamanaamana baseraabaaledarabwacha naa yagorabotochaa motaa zale lebwa batasaberabate huneetaamena yaalachawe",
+    "wer": 0.7857142857142857
+  },
+  {
+    "sample": 198,
+    "transcription": "ከሰየመ በኋላ ተክታዮች በውሃ ማቆሪያ ቦታዎች ከጠመቀ በኋላ እንዲጾሙ ነግሯቸዋል",
+    "romanized": "kasayama baxwaalaa taketaayoche bawehaa maaqoriyaa botaawoche katamaqa baxwaalaa eneditsomu nagerwachawaale",
+    "wer": 0.1
+  },
+  {
+    "sample": 199,
+    "transcription": "በሁለት ግብልይነት እየመራ ሁለቱንም ጫዋታ አቻ መለየቱ በተጫዋቾቹ እና በአሰልጣኙ ላይ ጫና የሚያበረታ ነው",
+    "romanized": "bahulate gebeleyenate eyamaraa hulatuneme chaawaataa achaa malayatu batachaawaachochu enaa baasaletaanyu laaye chaanaa yamiyaabarataa nawe",
+    "wer": 0.26666666666666666
+  },
+  {
+    "sample": 200,
+    "transcription": "ብያኔ ናፍርጃ ማግለልን ወለደ",
+    "romanized": "beyaanee naaferejaa maagelalene walada",
+    "wer": 0.5
+  },
+  {
+    "sample": 201,
+    "transcription": "በጉ ፈቃደኛ አውጣቶችም ከዚህ ቀደም ሲያደርጉት እንደነበረው የማስተባበሩድሚና በመወጣት ከፍተኛ አስተዋጽብ ማበረከታቸውን የተገለጸው",
+    "romanized": "bagu faqaadanyaa awetaatocheme kazihe qadame siyaadaregute enedanabarawe yamaasetabaabarudeminaa bamawataate kafetanyaa asetawaatsebe maabarakataachawene yatagalatsawe",
+    "wer": 0.5333333333333333
+  },
+  {
+    "sample": 202,
+    "transcription": "ደስ የሚል ጊዜ ከእሷ ጋር አሳለፍኩ",
+    "romanized": "dase yamile gizee kaeswa gaare asaalafeku",
+    "wer": 0.0
+  },
+  {
+    "sample": 203,
+    "transcription": "ኢትዮጵያ ህዳሴ ግድብን በተመለከተ የጸጥታው ምክር ቤት መወያቱን እንደማትቀበለው አስታውቃለች",
+    "romanized": "iteyopheyaa hedaasee gedebene batamalakata yatsatetaawe mekere beete mawayaatune enedamaateqabalawe asetaaweqaalache",
+    "wer": 0.3
+  },
+  {
+    "sample": 204,
+    "transcription": "መስቀል ለዘመናት የከጠለ ጭካኔን የሚያስታውስ ቢሆንም ለክርስቲያኖች ግን ኢየሱስ ለፍቅር ሲል መሥዋትነትን መጥፈሉን የሚያመለክት ነው",
+    "romanized": "maseqale lazamanaate yakatala chekaaneene yamiyaasetaawese bihoneme lakeresetiyaanoche gene iyasuse lafeqere sile masewaatenatene matefalune yamiyaamalakete nawe",
+    "wer": 0.2
+  },
+  {
+    "sample": 205,
+    "transcription": "በቅኝ ግዛት ወቅት በእንግሊዝ አደራዳሪነት በተደረገ ስምምነት ወንዙን ለመከፋ ፈልከ ስምምነት ላይ ተደርሰዋል",
+    "romanized": "baqenye gezaate waqete baenegelize adaraadaarinate batadaraga sememenate wanezune lamakafaa faleka sememenate laaye tadaresawaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 206,
+    "transcription": "በተጨማሪም የሚኒስትሯት ከጠቅላይ የሚስትር ሀቪ የአዓመድ እና ከሶማሊያ ፕሬዝዳንት ሐሰንሼክ መህሙድ ጋር የሦስት ይሹ ውይት አደርገዋል",
+    "romanized": "batachamaarime yaminiseterwate kataqelaaye yamisetere havi yaaaamade enaa kasomaaliyaa pereezedaanete hhasanesheeke mahemude gaare yasosete yeshu weyete adaregawaale",
+    "wer": 0.8666666666666667
+  },
+  {
+    "sample": 207,
+    "transcription": "በቢሸፍቱ ከተማ የ ኢንዱስትሪ መንደር ሊገነባእንደሆነ ተገለጸ",
+    "romanized": "babishafetu katamaa ya ineduseteri manedare liganabaaenedahona tagalatsa",
+    "wer": 0.7142857142857143
+  },
+  {
+    "sample": 208,
+    "transcription": "ጃንጃዊድ በዘር ማጭዳት ጅምላ መድፈርን እንደ ጦር መሳላይ በመጠቀም ክስ ይቀርብበታል",
+    "romanized": "jaanejaawide bazare maachedaate jemelaa madefarene eneda tore masaalaaye bamataqame kese yeqarebebataale",
+    "wer": 0.18181818181818182
+  },
+  {
+    "sample": 209,
+    "transcription": "የፈርትኖች በሜዳቸው ፍልሃምን ዓለም አስቆማቸው ትልቅ የማስጠቂቅ ያደዋል ነው",
+    "romanized": "yafaretenoche bameedaachawe felehaamene aalame aseqomaachawe teleqe yamaasetaqiqe yaadawaale nawe",
+    "wer": 0.75
+  },
+  {
+    "sample": 210,
+    "transcription": "እኔ ደግሞ ከፍተኝ አደጋ ባጋጠመ ጊዜ አድነያአለም",
+    "romanized": "enee dagemo kafetanye adagaa baagaatama gizee adenayaaalame",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 211,
+    "transcription": "አባቷም ልጅቷ በጣም ሀብታሙ ንሹን እንደታገባው እና ከበዚህም መስማማቱንነገረት",
+    "romanized": "abaatwame lejetwa bataame habetaamu neshune enedataagabaawe enaa kabaziheme masemaamaatunenagarate",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 212,
+    "transcription": "ዋና ውቁም ነገር የተፈጠረው ጸብ እስኪወዲያኛው አራርቆ አለመቆይቱ በርቅ እና በይቅር ተመቋጭቱ ላይ ነው",
+    "romanized": "waanaa wequme nagare yatafatarawe tsabe esekiwadiyaanyaawe araareqo alamaqoyetu bareqe enaa bayeqere tamaqwaachetu laaye nawe",
+    "wer": 0.6153846153846154
+  },
+  {
+    "sample": 213,
+    "transcription": "እርሱም መንገዱን ቀጥሎ ለሦስተኛ ጊዜ አገኘው ሰው ትልቅ አለት እየገፋ ነበር",
+    "romanized": "eresume manegadune qatelo lasosetanyaa gizee aganyawe sawe teleqe alate eyagafaa nabare",
+    "wer": 0.18181818181818182
+  },
+  {
+    "sample": 214,
+    "transcription": "ሲፈናሰን በመጀመሪያ የማራቱን ተሳትፏ የሌንደን ማራቱንን ማሽንፍች አለች",
+    "romanized": "sifanaasane bamajamariyaa yamaaraatune tasaatefwa yaleenedane maaraatunene maashenefeche alache",
+    "wer": 0.8888888888888888
+  },
+  {
+    "sample": 215,
+    "transcription": "እፃናት በቤት ስረተኞች ማደጋቸው ችግሩ ምንድነው",
+    "romanized": "etzaanaate babeete seratanyoche maadagaachawe chegeru menedenawe",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 216,
+    "transcription": "በተለይ ጾም የሚገደፈው ቤተሰብ እና አውዳጅ በተሰበሰበበት ስለሆነ ምግብ በርከትትደርቆ ይዘጋጀል",
+    "romanized": "batalaye tsome yamigadafawe beetasabe enaa awedaaje batasabasababate selahona megebe barekatetedareqo yezagaajale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 217,
+    "transcription": "ከዛ ውጭ በሆነ በማንኛውም ድብቅ አጀንዳ የተነሳሳ የጠልቃ ገብነት እንቅስቃሴ በታሪክ ሸንጎ ላይ ተጠያቂ ያደርገን",
+    "romanized": "kazaa weche bahona bamaanenyaaweme debeqe ajanedaa yatanasaasaa yataleqaa gabenate eneqeseqaasee bataarike shanego laaye tatayaaqi yaadaregane",
+    "wer": 0.13333333333333333
+  },
+  {
+    "sample": 218,
+    "transcription": "እናቶች በተለይ የመጀመሪያ ለጃቸውን ከወለዱ በኋላ በአጭር ወርት ውስጥ ወደ ሥራ እንዲመለሱ ይገደዳሉ",
+    "romanized": "enaatoche batalaye yamajamariyaa lajaachawene kawaladu baxwaalaa baachere warete wesete wada seraa enedimalasu yegadadaalu",
+    "wer": 0.15384615384615385
+  },
+  {
+    "sample": 219,
+    "transcription": "ይህንንም ካለች በኋላ ተጋብተው በሰላም ብረው መኖር ጀመሩ",
+    "romanized": "yeheneneme kaalache baxwaalaa tagaabetawe basalaame berawe manore jamaru",
+    "wer": 0.125
+  },
+  {
+    "sample": 220,
+    "transcription": "ከይሩምን አይነት እርምጃ እንደምት ውስት እናያለ",
+    "romanized": "kayerumene ayenate eremejaa enedamete wesete enaayaala",
+    "wer": 1.0
+  },
+  {
+    "sample": 221,
+    "transcription": "የሌላ የእምነት ተከተይጅ በእምነታቸው ምክንያት ለእስር ለስደት ና እንደሚደረሩ ይነገረ",
+    "romanized": "yaleelaa yaemenate takatayeje baemenataachawe mekeneyaate laesere lasedate naa enedamidararu yenagara",
+    "wer": 0.5555555555555556
+  },
+  {
+    "sample": 222,
+    "transcription": "ሁለቱ ሀገራት ጉዳዩን ወደ ተባበሩት መንግሥታት የጸጠታው ምክር ቤት ወስደውትም ነበር",
+    "romanized": "hulatu hagaraate gudaayune wada tabaabarute manegesetaate yatsatataawe mekere beete wasedaweteme nabare",
+    "wer": 0.2727272727272727
+  },
+  {
+    "sample": 223,
+    "transcription": "ሰውየውም አንበሳውን ከወጥመዱ አወጣው",
+    "romanized": "saweyaweme anebasaawene kawatemadu awataawe",
+    "wer": 0.0
+  },
+  {
+    "sample": 224,
+    "transcription": "lsኪeቱ snጦeታጋl mnstr ሆbዬhml lslm lmsltn crrmjwሳይnbr",
+    "romanized": "lskietu sntoetaagaal mnstr hobyeehml lslm lmsltn crrmjwsaayenbr",
+    "wer": 1.0
+  },
+  {
+    "sample": 225,
+    "transcription": "እንዲህ እያለም ይፈትነው ጀመር",
+    "romanized": "enedihe eyaalame yefatenawe jamare",
+    "wer": 0.0
+  },
+  {
+    "sample": 226,
+    "transcription": "ለዚህምነ አንዳንድ መስሪያ ቤቶች እና ትምህርት ቤቶች ለሴቶች የውራበባረፍት መስጠት ይጀመሩት",
+    "romanized": "lazihemena anedaanede maseriyaa beetoche enaa temeherete beetoche laseetoche yaweraababaarafete masetate yejamarute",
+    "wer": 0.5
+  },
+  {
+    "sample": 227,
+    "transcription": "በሕይወቴ የትርጉም ያለው ሥራም ለመሥራት እፈልግ ነበር",
+    "romanized": "bahheyewatee yateregume yaalawe seraame lamaseraate efalege nabare",
+    "wer": 0.14285714285714285
+  },
+  {
+    "sample": 228,
+    "transcription": "የኢትዮፒያ ግርኮስ ፌዴሬatoን አppልe ሲሆን መቀመጫ ወንጅ ስታዴም ነው",
+    "romanized": "yaiteyopiyaa gerekose feedeereeatone applee sihone maqamachaa waneje setaadeeme nawe",
+    "wer": 0.8
+  },
+  {
+    "sample": 229,
+    "transcription": "ሆኖም ጄኔራል ቡራሃን አክራሪ ሙስሊሞችን እና የቀድሞ አገዛዛመራሮችን ወደ ቀደመ ቦታቸው መመለስ ጀመሩ ሲሉም ተናግረዋል",
+    "romanized": "honome jeeneeraale buraahaane akeraari muselimochene enaa yaqademo agazaazaamaraarochene wada qadama botaachawe mamalase jamaru silume tanaagerawaale",
+    "wer": 0.4
+  },
+  {
+    "sample": 230,
+    "transcription": "በዚህ ግጭት ማሃል ሁለት ጀኔራሎች በባላንጣነት በጽንፍ ስብራ ተቀምተዋል",
+    "romanized": "bazihe gechete maahaale hulate janeeraaloche babaalaanetaanate batsenefe seberaa taqametawaale",
+    "wer": 0.4444444444444444
+  },
+  {
+    "sample": 231,
+    "transcription": "ሰዎች እስከ መ020 5ምስት እና መ0 ሰላዓሳም ሊኖሩ ይችላሉ",
+    "romanized": "sawoche eseka ma020 5mesete enaa ma0 salaaaasaame linoru yechelaalu",
+    "wer": 0.5
+  },
+  {
+    "sample": 232,
+    "transcription": "ኬልቪስ ኪፕተም ሁለት ሰዓት ከንድ ደቂጋ ከ5ሰከንድ በመግባት የዓለም ሁለተኛ ፈጣን ሰዓት አስመዝግቧል",
+    "romanized": "keelevise kipetame hulate saaate kanede daqigaa ka5sakanede bamagebaate yaaalame hulatanyaa fataane saaate asemazegebwale",
+    "wer": 0.4
+  },
+  {
+    "sample": 233,
+    "transcription": "አባይ ከዓለማችን ረዣዥ ሞንዞች በቀዳሚነት ይቀመጣል",
+    "romanized": "abaaye kaaalamaachene razhaazhe monezoche baqadaaminate yeqamataale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 234,
+    "transcription": "በአንድ ሙrቺ ኔተ ባለ ሰሁነግጓር",
+    "romanized": "baanede murchi neeta baala sahunagegwaare",
+    "wer": 0.8571428571428571
+  },
+  {
+    "sample": 235,
+    "transcription": "ባልየው ፍቅረኛውን ሊዘር ሲሞክር ፍቅረኛው ደግሞ ለማምለጥ ሲሞክር ትግልግማ ተጀመሩ",
+    "romanized": "baaleyawe feqeranyaawene lizare simokere feqeranyaawe dagemo lamaamelate simokere tegelegemaa tajamaru",
+    "wer": 0.4
+  },
+  {
+    "sample": 236,
+    "transcription": "በርካታ ፍንደታዎች የሚወነ ጭኩ ርኬቶች እንዲሁን ፈርዕት መንገስ የሱዳን የዕለት ተዕለት መድራ ሁኔታ ከሆነ ቀናትን አስቆጠረ",
+    "romanized": "barekaataa fenedataawoche yamiwana cheku rekeetoche enedihune fareete manegase yasudaane yaelate taelate maderaa huneetaa kahona qanaatene aseqotara",
+    "wer": 0.4666666666666667
+  },
+  {
+    "sample": 237,
+    "transcription": "ሱዳን ውስጥ የሚህኖውን ነገር በአሎታዊም ሆነ በአወንታዊ ተጽኖን ሊያሳድርባቸው ይችላል",
+    "romanized": "sudaane wesete yamihenowene nagare baalotaawime hona baawanetaawi tatsenone liyaasaaderebaachawe yechelaale",
+    "wer": 0.4
+  },
+  {
+    "sample": 238,
+    "transcription": "ከዚያ ደግሞ የተቀናቃኛቸውን ስልክ አስጠልፈው ምስጢሩ በጋዜጣል አድባዊ እንዲጋለጥ አድርገዋል በሚል አንድዓመት ተፈርዶባቸዋል",
+    "romanized": "kaziyaa dagemo yataqanaaqaanyaachawene seleke asetalefawe mesetiru bagaazeetaale adebaawi enedigaalate aderegawaale bamile anedeaamate tafaredobaachawaale",
+    "wer": 0.35714285714285715
+  },
+  {
+    "sample": 239,
+    "transcription": "ዕርቅ አውራጁም እሱ ይቅርባዩም እሱ ነው",
+    "romanized": "ereqe aweraajume esu yeqerebaayume esu nawe",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 240,
+    "transcription": "በሦስተኛው ሳጥን ውስጥ ደግሞ ወርቅ አስቀምጠው አሸገው",
+    "romanized": "basosetanyaawe saatene wesete dagemo wareqe aseqametawe ashagawe",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 241,
+    "transcription": "የግድቡ ቁመት ከባር ጠለልበላይ 50065 ሜትር ላይ ደርሰዋል",
+    "romanized": "yagedebu qumate kabaare talalebalaaye 50065 meetere laaye daresawaale",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 242,
+    "transcription": "ስቅላትን እና ሞትን ለማምለጥ ስል ከማኖዎቹ ዘንድ አደከለ",
+    "romanized": "seqelaatene enaa motene lamaamelate sele kamaanowochu zanede adakala",
+    "wer": 0.5
+  },
+  {
+    "sample": 243,
+    "transcription": "እርምጃው ያልተገባ የፖለቲካ ተጽዕኖን ለመከላከል ከቅርባ አመታት ወድ የተጀመረው ጥረታካል ነው",
+    "romanized": "eremejaawe yaaletagabaa yapolatikaa tatseenone lamakalaakale kaqerebaa amataate wade yatajamarawe terataakaale nawe",
+    "wer": 0.5
+  },
+  {
+    "sample": 244,
+    "transcription": "እኅቷን በመግደድ ከተከሰሱት አራት የቀድሞው የደህነት ፖሊስ አባላት መካከል ሁለቱ ሕይወታችው አልፏል",
+    "romanized": "exetwane bamagedade katakasasute araate yaqademowe yadahenate polise abaalaate makaakale hulatu hheyewataachewe alefwale",
+    "wer": 0.4166666666666667
+  },
+  {
+    "sample": 245,
+    "transcription": "ከኢኮኖሚ እና ማሕበራ የሁኔታን ማንፃር ጥሬይስጋ መመገብ የራሱ ተጽኖ እንዳለ ዶክተር ካሊቢ አስረዳሉ",
+    "romanized": "kaikonomi enaa maahhebaraa yahuneetaane maanetzaare tereeyesegaa mamagabe yaraasu tatseno enedaala doketare kaalibi aseradaalu",
+    "wer": 0.6428571428571429
+  },
+  {
+    "sample": 246,
+    "transcription": "ባራተኛውን ቀን ይህንኑ አደረገ",
+    "romanized": "baaraatanyaawene qane yehenenu adaraga",
+    "wer": 0.25
+  },
+  {
+    "sample": 247,
+    "transcription": "ባለፉውስጥ ሳምንታት ለአስቶንቪላ አነስተኛ ግምት የሰጠውትን የብቻ አይመስለኝም",
+    "romanized": "baalafuwesete saamenetaate laasetonevilaa anasetanyaa gemete yasatawetene yabechaa ayemaselanyeme",
+    "wer": 0.6
+  },
+  {
+    "sample": 248,
+    "transcription": "የቲዩተር ሰማያዊ ጭረት የግለሰቡን ትክክለኛ ማንነት ከማረጋገጥ ባለፈ እንደ ክብር እና ሞገስ መቈጠር ጀምሯል",
+    "romanized": "yatiyutare samaayaawi cherate yagelasabune tekekelanyaa maanenate kamaaragaagate baalafa eneda kebere enaa mogase maqwatare jamerwale",
+    "wer": 0.3076923076923077
+  },
+  {
+    "sample": 249,
+    "transcription": "ለምንድንነው ይህንን ያደረገው በርግጥ አትቃውሙ ብሉን ስለነበረ መካውም አንችልም",
+    "romanized": "lamenedenenawe yehenene yaadaragawe baregete ateqaawemu belune selanabara makaaweme anecheleme",
+    "wer": 0.4444444444444444
+  },
+  {
+    "sample": 250,
+    "transcription": "አሦራውያን እንዲሁን በባቢሎናውያን ዘመን በመስቀል ላይ የሚፈጸም የመውጥ ቅጣት እንደተጀመረ ዶተር ሺልዮር ያምናሉ",
+    "romanized": "asoraaweyaane enedihune babaabilonaaweyaane zamane bamaseqale laaye yamifatsame yamawete qetaate enedatajamara dotare shileyore yaamenaalu",
+    "wer": 0.38461538461538464
+  },
+  {
+    "sample": 251,
+    "transcription": "ቢዮን ሲ እና አቡነ ፍራንሲስ የትዊተር ሰማያዊ ምልክት አጡ",
+    "romanized": "biyone si enaa abuna feraanesise yatewitare samaayaawi melekete atu",
+    "wer": 0.25
+  },
+  {
+    "sample": 252,
+    "transcription": "ቤተ ክርስቲያኗ ችግሩን በሃይማኖታው ይቀኖና እና ሥርዓትን በጠበቀ መልኩን እንደተፈታም ማስታወቋ  አይታወሳል",
+    "romanized": "beeta keresetiyaanwa chegerune bahaayemaanotaawe yeqanonaa enaa sereaatene batabaqa malekune enedatafataame maasetaawaqwaa  ayetaawasaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 253,
+    "transcription": "በመስቀድ ላይ የሚፈጸመው ስቅላት የተወገዙ የተጠሉ ሰዎች ለማጋለት እና ለማዋረድ የሚደረግነው ይላሉ ፕሮፌሰር ፔሬዝ",
+    "romanized": "bamaseqade laaye yamifatsamawe seqelaate yatawagazu yatatalu sawoche lamaagaalate enaa lamaawaarade yamidaragenawe yelaalu perofeesare peereeze",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 254,
+    "transcription": "ታማኝ የሚባሉት ውሾች እንኳን ሰው ሰውን በዚያ አመልኩ ሲጨጭፈው ሀይተው ጨከኑ",
+    "romanized": "taamaanye yamibaalute weshoche enekwaane sawe sawene baziyaa amaleku sichachefawe hayetawe chakanu",
+    "wer": 0.2727272727272727
+  },
+  {
+    "sample": 255,
+    "transcription": "የመንደሩም ሰዎች ምን እንደሚያደርጉት ግራ ገብቷቸው ነበር",
+    "romanized": "yamanedarume sawoche mene enedamiyaadaregute geraa gabetwachawe nabare",
+    "wer": 0.0
+  },
+  {
+    "sample": 256,
+    "transcription": "አርብ ምሽት መድፈኞቹ በሜዳቸው ሳው ዛንፕተንን ያስተናግዳሉ",
+    "romanized": "arebe meshete madefanyochu bameedaachawe saawe zaanepetanene yaasetanaagedaalu",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 257,
+    "transcription": "ከተማ የማያቋሩጥ የፈንዳታ ድምጥ በብርሃን ሲሞላትም የህይወት ንቅስካሴች ቀጥለ",
+    "romanized": "katamaa yamaayaaqwaarute yafanedaataa demete baberehaane simolaateme yaheyewate neqesekaaseeche qatela",
+    "wer": 0.7777777777777778
+  },
+  {
+    "sample": 258,
+    "transcription": "ታፍነው እየታሰሩ እና መእገናኛ ብዙን ተቋማት ያለ ፍርክ ቤትዛዝብ ብርበራይ እየተካሄደባቸው ነው አለ",
+    "romanized": "taafenawe eyataasaru enaa maeganaanyaa bezune taqwaamaate yaala fereke beetezaazebe berebaraaye eyatakaaheedabaachawe nawe ala",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 259,
+    "transcription": "በጋራ ከስምምነሳይ ለመድረስ ለአገራቱ ረሰ ብ ሔራን ጉዳዩን ሊቀርቡ ይችላሉ",
+    "romanized": "bagaaraa kasememenasaaye lamaderase laagaraatu rasa be hheeraane gudaayune liqarebu yechelaalu",
+    "wer": 0.6
+  },
+  {
+    "sample": 260,
+    "transcription": "በዚህ ጊዜም ሰው የውን ምን እያደረክነው አለው",
+    "romanized": "bazihe gizeeme sawe yawene mene eyaadarakenawe alawe",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 261,
+    "transcription": "በሱዳን መዲና ካርቱም እንዲሁን በሌሎች በርካታ የአገሪቱ ክፍሎች የሚኖሩ የሚሊዮኖች ሕይወት አደጋ ላይ ወድቋል",
+    "romanized": "basudaane madinaa kaaretume enedihune baleeloche barekaataa yaagaritu kefeloche yaminoru yamiliyonoche hheyewate adagaa laaye wadeqwaale",
+    "wer": 0.14285714285714285
+  },
+  {
+    "sample": 262,
+    "transcription": "ሁለተኛው ሰው ደግሞ በከፊል እምነት ያለው ነው",
+    "romanized": "hulatanyaawe sawe dagemo bakafile emenate yaalawe nawe",
+    "wer": 0.0
+  },
+  {
+    "sample": 263,
+    "transcription": "የክራዶክ አራት ቤተሰዎች ከ3ሳ 8ምንት ዓመታት በኋላ ገዳዮቹን ለፍርድ ለማቅረብ እና ፍትህን ለማግኘት እየተጠባበቁ ነው",
+    "romanized": "yakeraadoke araate beetasawoche ka3saa 8menete aamataate baxwaalaa gadaayochune laferede lamaaqerabe enaa fetehene lamaagenyate eyatatabaabaqu nawe",
+    "wer": 0.26666666666666666
+  },
+  {
+    "sample": 264,
+    "transcription": "አሁን ወደቤት ባትመለሺህ ነው የሚሻያለች",
+    "romanized": "ahune wadabeete baatemalashihe nawe yamishaayaalache",
+    "wer": 0.4
+  },
+  {
+    "sample": 265,
+    "transcription": "ወደ ፌዴራል እና ክልል የጸጥታ ኃይል ውስጥ በማካተት መልሶ ለመዋጋር ምክንያት መሆኑን የታማዦች ሽሙ ገጸዋል",
+    "romanized": "wada feedeeraale enaa kelele yatsatetaa xaayele wesete bamaakaatate maleso lamawaagaare mekeneyaate mahonune yataamaazhoche shemu gatsawaale",
+    "wer": 0.4
+  },
+  {
+    "sample": 266,
+    "transcription": "በመደበኛው ጦር እና በፈጽሮ ደራሽ ኃይል መካከል ያለው ውጥረት እየጨመረ መጣ",
+    "romanized": "bamadabanyaawe tore enaa bafatsero daraashe xaayele makaakale yaalawe weterate eyachamara mataa",
+    "wer": 0.18181818181818182
+  },
+  {
+    "sample": 267,
+    "transcription": "በአባየተፋሰሱ ውስጥ አ0ር አገራት አለምለ",
+    "romanized": "baabaayatafaasasu wesete a0re agaraate alamela",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 268,
+    "transcription": "ከሀገር ክህደት ከወታደራዊ አመፅ ከሽብርተኝነት እና ደመፋሰ ስን አስከተለ አንዳንድ ወንጀሎች ጋር የተያዘ ነው",
+    "romanized": "kahagare kehedate kawataadaraawi amatze kasheberetanyenate enaa damafaasa sene asekatala anedaanede wanejaloche gaare yatayaaza nawe",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 269,
+    "transcription": "የዩክራይም ምርማሪዎቹ የኦርቶዶክስ ቤተ ክርስቲያን መሪው የሩሲ አደጋፊ ናቸው በማለት የኬቭ መኖሪያ ቤታቸውን በረበሩ",
+    "romanized": "yayukeraayeme meremaariwochu yaoretodokese beeta keresetiyaane mariwe yarusi adagaafi naachawe bamaalate yakeeve manoriyaa beetaachawene barabaru",
+    "wer": 0.5384615384615384
+  },
+  {
+    "sample": 270,
+    "transcription": "በዓለም ላይ ወደ ሁለት ቢሊየን የሚጠጉ ሙስሊሞች ዓመታዊውን የረመዳን ጾም ይጀምረዋል",
+    "romanized": "baaalame laaye wada hulate biliyane yamitagu muselimoche aamataawiwene yaramadaane tsome yejamerawaale",
+    "wer": 0.2727272727272727
+  },
+  {
+    "sample": 271,
+    "transcription": "ከመደበኛ ትምህርቱ ውጪ አለወት ንክስቃሲዎች በዩኒቨርሲቶች ዘንደርስዎ ስላለወት ማንነት መስካሪዎች ናቸው",
+    "romanized": "kamadabanyaa temeheretu wechi alawate nekeseqaasiwoche bayunivaresitoche zanedaresewo selaalawate maanenate masekaariwoche naachawe",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 272,
+    "transcription": "oኖoም አስከriኖo ስከሁn አልተገኘም",
+    "romanized": "onoome asekarinoo sekahun aletaganyame",
+    "wer": 0.75
+  },
+  {
+    "sample": 273,
+    "transcription": "ደረቅ ቆዳ በከብቶች የሚቀይር አንድሰዋ አለ",
+    "romanized": "daraqe qodaa bakabetoche yamiqayere anedesawaa ala",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 274,
+    "transcription": "በመገረፍ ብቻ የሞቶ ሰዎችን በታሪክ ድርሳናት ውስጥ አሉ በማዕጥ ፕሮፌሰሩ ያክላሉ",
+    "romanized": "bamagarafe bechaa yamoto sawochene bataarike deresaanaate wesete alu bamaaete perofeesaru yaakelaalu",
+    "wer": 0.2727272727272727
+  },
+  {
+    "sample": 275,
+    "transcription": "lwc ጌreloclcrtom liotono",
+    "romanized": "lwc geereloclcrtom liotono",
+    "wer": 1.0
+  },
+  {
+    "sample": 276,
+    "transcription": "የሙየተራዘመ ውጊያ በግብፅ ላይ የሚያሳድረው ተጽዕኖ አያጣያይቅ",
+    "romanized": "yamuyataraazama wegiyaa bagebetze laaye yamiyaasaaderawe tatseeno ayaataayaayeqe",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 277,
+    "transcription": "በሁለትሺህ 1ስራ 4ራት መንግስታቸው ተገለበጠ",
+    "romanized": "bahulateshihe 1seraa 4raate manegesetaachawe tagalabata",
+    "wer": 0.8571428571428571
+  },
+  {
+    "sample": 278,
+    "transcription": "እነዚህ ሰዎች እድሜያቸው ቢገፋም በአንፃራዊነት ጤነኛ ናቸው",
+    "romanized": "enazihe sawoche edemeeyaachawe bigafaame baanetzaaraawinate teenanyaa naachawe",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 279,
+    "transcription": "በማግስቱም የነባና የፍየሉ አግልግሎች ተገናኙ",
+    "romanized": "bamaagesetume yanabaanaa yafeyalu agelegeloche taganaanyu",
+    "wer": 0.6
+  },
+  {
+    "sample": 280,
+    "transcription": "እንደ ሮማዊ እውነቱ አለቃ እውነትን በደፍረት የሚመሰክሩ ዜጎች ሲበዙ ነው",
+    "romanized": "eneda romaawi ewenatu alaqaa ewenatene badaferate yamimasakeru zeegoche sibazu nawe",
+    "wer": 0.3
+  },
+  {
+    "sample": 281,
+    "transcription": "ግራዳሌ አካባቢው ችግር ገጥሞ ይመቆም ግትሆኖቤ ነበር",
+    "romanized": "geraadaalee akaabaabiwe chegere gatemo yemaqome getehonobee nabare",
+    "wer": 0.7777777777777778
+  },
+  {
+    "sample": 282,
+    "transcription": "እነዚህ ሰዎች በእድሜ የገፉ ሰዎች ከሚያሳዩት የተለዩ ናቸው",
+    "romanized": "enazihe sawoche baedemee yagafu sawoche kamiyaasaayute yatalayu naachawe",
+    "wer": 0.125
+  },
+  {
+    "sample": 283,
+    "transcription": "በዚህ ቪዲዮ ላይ አንደኛው ግለተብ የዩክራይንን ገዛት ምልክት ያለበት ባጅ አድርጎም ያሳያል",
+    "romanized": "bazihe vidiyo laaye anedanyaawe gelatabe yayukeraayenene gazaate melekete yaalabate baaje aderegome yaasaayaale",
+    "wer": 0.3333333333333333
+  },
+  {
+    "sample": 284,
+    "transcription": "ኢቲዮጵያ አይኤmfን ጨምሮ ከተለያዩ ዓለም አቀፍ የገንዘብ ተቋማት ጋር የነበራት ገኝኖት ተከዛቅዞ መቆየቱ ይታወቃል",
+    "romanized": "itiyopheyaa ayeeemfne chamero katalayaayu aalame aqafe yaganezabe taqwaamaate gaare yanabaraate ganyenote takazaaqezo maqoyatu yetaawaqaale",
+    "wer": 0.2857142857142857
+  },
+  {
+    "sample": 285,
+    "transcription": "ስለዚህ ወደ ሱዳን የመግባት እድሏ ሰፊ ሊዮን እንደሚችልም ያነሳሉ",
+    "romanized": "selazihe wada sudaane yamagebaate edelwa safi liyone enedamicheleme yaanasaalu",
+    "wer": 0.2222222222222222
+  },
+  {
+    "sample": 286,
+    "transcription": "ከሠራተኛ ጋር እንደ ሳሎን ውሻ ሶፋ ላይ ተጎልተው የሚሉ ልጆች ታዲያ በዚህ ረገድ ብዙ ይጎድ ልባቸዋል",
+    "romanized": "kasaraatanyaa gaare eneda saalone weshaa sofaa laaye tagoletawe yamilu lejoche taadiyaa bazihe ragade bezu yegode lebaachawaale",
+    "wer": 0.2
+  },
+  {
+    "sample": 287,
+    "transcription": "መዳኔቶች ከመፈጠራቸው እንዲሁን ከተሻላ አመጋገብ እና ኗኗዋር ጋር በት እያያዘ ሰዎች በሕይወት የሚቆዩበት ዘመን እየጨመረ መቅቷል",
+    "romanized": "madaaneetoche kamafataraachawe enedihune katashaalaa amagaagabe enaa nwanwawaare gaare bate eyaayaaza sawoche bahheyewate yamiqoyubate zamane eyachamara maqetwale",
+    "wer": 0.4666666666666667
+  },
+  {
+    "sample": 288,
+    "transcription": "js tm rno alu",
+    "romanized": "js tm rno alu",
+    "wer": 1.3333333333333333
+  },
+  {
+    "sample": 289,
+    "transcription": "የሚሊዮኖች ሕይወት ስጋት ውስጥ ገብቷል",
+    "romanized": "yamiliyonoche hheyewate segaate wesete gabetwale",
+    "wer": 0.2
+  },
+  {
+    "sample": 290,
+    "transcription": "ድርሻቸውን ለተወጡ ሁሉ የጸታ እና ደህነት የጋር ግብር ኃይድ ምስጋና አቅርቧል",
+    "romanized": "dereshaachawene latawatu hulu yatsataa enaa dahenate yagaare gebere xaayede mesegaanaa aqerebwale",
+    "wer": 0.6
+  },
+  {
+    "sample": 291,
+    "transcription": "የጄኔራል ብሮሃን ዕቅድ የቀድመውን ኦማር አልበሽር አገዛት ለመመለስ እየሰሩ መሆኑን ግልፅ ይሆን መጣ",
+    "romanized": "yajeeneeraale berohaane eqede yaqademawene omaare alebashere agazaate lamamalase eyasaru mahonune geletze yehone mataa",
+    "wer": 0.7857142857142857
+  },
+  {
+    "sample": 292,
+    "transcription": "በባህሉ መሠረት ስጋ የሚበለው መጨረሻ ላይነ",
+    "romanized": "babaahelu masarate segaa yamibalawe macharashaa laayena",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 293,
+    "transcription": "ከዚያም በወጥመዱ የተያዘው ሰው ዬ እኔ ደግሞ ው ረኛውኜ ከብቶችህን እጠብቅላሃለሁ",
+    "romanized": "kaziyaame bawatemadu yatayaazawe sawe yee enee dagemo we ranyaawenyee kabetochehene etabeqelaahaalahu",
+    "wer": 0.5
+  },
+  {
+    "sample": 294,
+    "transcription": "ሊቨርፑል ሲቲን አፍቁሙ ለአርሰናል ሁለት ዩው ልሆን",
+    "romanized": "livarepule sitine afequmu laaresanaale hulate yuwe lehone",
+    "wer": 0.5714285714285714
+  },
+  {
+    "sample": 295,
+    "transcription": "ፍላዴስ በጻፈው ወተገባ በሰማያ ስምንት አመተ ዓለም አካባቢ የጅምላ ስቅለቶች ይፈጠቡ እንደነበር ተቅፋል",
+    "romanized": "felaadeese batsaafawe watagabaa basamaayaa semenete amata aalame akaabaabi yajemelaa seqelatoche yefatabu enedanabare taqefaale",
+    "wer": 0.5
+  },
+  {
+    "sample": 296,
+    "transcription": "የብርሃን ሞገድ ከኤሌክትሪክና ከመግነጢስ የተሠራ ስለሆነ ሞገዱ የኤሌክትሮ መግነጢስ ጨረራ ይባላል",
+    "romanized": "yaberehaane mogade kaeeleeketerikenaa kamagenatise yatasaraa selahona mogadu yaeeleeketero magenatise chararaa yebaalaale",
+    "wer": 0.4166666666666667
+  },
+  {
+    "sample": 297,
+    "transcription": "ለግድያዋ ግን ማንም መህረት የጠየቀ የለም",
+    "romanized": "lagedeyaawaa gene maaneme maherate yatayaqa yalame",
+    "wer": 0.16666666666666666
+  },
+  {
+    "sample": 298,
+    "transcription": "jክr lመsኩr ለ ተሻጉl ታ",
+    "romanized": "jker lmaskur la tashaagul taa",
+    "wer": 1.0
+  },
+  {
+    "sample": 299,
+    "transcription": "ሕማማት የበዛበት ነበር",
+    "romanized": "hhemaamaate yabazaabate nabare",
+    "wer": 0.0
+  },
+  {
+    "sample": 300,
+    "transcription": "ከዚያም ምንነካሽ ብሎ ጠየቃት",
+    "romanized": "kaziyaame menenakaashe belo tayaqaate",
+    "wer": 0.4
+  },
+  {
+    "sample": 301,
+    "transcription": "ይህም ወጥቅጣት የተፈረደበትን ሰው መሳዕቂ መዘባበች ማድረግ እንዲሁም ጭካኒ የአማማቶችን ማጣመድ የተለመደ ነበር",
+    "romanized": "yeheme wateqetaate yatafaradabatene sawe masaaeqi mazabaabache maaderage enedihume chekaani yaamaamaatochene maataamade yatalamada nabare",
+    "wer": 0.5384615384615384
+  },
+  {
+    "sample": 302,
+    "transcription": "በሸገር ከተማ ቤቶች በማፍረስ ሂደት የጸጥታ ኃይሎች ተመጣጣኝ ያልሆነ የኃይል እርንጃ ወስደዋል ተባለ",
+    "romanized": "bashagare katamaa beetoche bamaaferase hidate yatsatetaa xaayeloche tamataataanye yaalehona yaxaayele erenejaa wasedawaale tabaala",
+    "wer": 0.23076923076923078
+  },
+  {
+    "sample": 303,
+    "transcription": "በዚህም ምክንያት ፕሮፌሰር ፔሬዝ ኢየሱስ መስቀሉ በጣም ምክንያታዊ እንደሆነ ይታመናን ይላሉ",
+    "romanized": "baziheme mekeneyaate perofeesare peereeze iyasuse maseqalu bataame mekeneyaataawi enedahona yetaamanaane yelaalu",
+    "wer": 0.18181818181818182
+  },
+  {
+    "sample": 304,
+    "transcription": "ይህም በአአዝ ማስደገፍ ባይቻልም በደምሳሳው ግን ምርታማነታቸው እንደሚቀንስ መገመት ይቻላል",
+    "romanized": "yeheme baaaze maasedagafe baayechaaleme badamesaasaawe gene meretaamaanataachawe enedamiqanese magamate yechaalaale",
+    "wer": 0.3
+  },
+  {
+    "sample": 305,
+    "transcription": "በአሁን ወርት ኢኪዮፒያ ከተቋሙ ጋር የሚታደርገው ን የየርግር አሁንም ዋሽhንግተን ውስጥ በመካሄር ላይ ነው",
+    "romanized": "baahune warete ikiyopiyaa kataqwaamu gaare yamitaadaregawe ne yayaregere ahuneme waashehnegetane wesete bamakaaheere laaye nawe",
+    "wer": 0.6153846153846154
+  },
+  {
+    "sample": 306,
+    "transcription": "ግዳሜ እና እሁድ ለሰራተኞች ይናቶች ብርቅ የሚሆንበት ለዚሁ ነው",
+    "romanized": "gedaamee enaa ehude lasaraatanyoche yenaatoche bereqe yamihonebate lazihu nawe",
+    "wer": 0.6666666666666666
+  },
+  {
+    "sample": 307,
+    "transcription": "እናትየም ይህንን ማድረግ እንዴት ይቸራል ብላ ጠየቀቸው",
+    "romanized": "enaateyame yehenene maaderage enedeete yecharaale belaa tayaqachawe",
+    "wer": 0.42857142857142855
+  },
+  {
+    "sample": 308,
+    "transcription": "በዚህም የአዲሳ በባ ነዋሪኝ ጨምሮ የሶላት ስነ ሥርዓቱ በሚካሄድበት ስፍራ በመገኘት በዓሉ በሰላም እንዲጠናቀቅ አድርገዋል",
+    "romanized": "baziheme yaadisaa babaa nawaarinye chamero yasolaate sena sereaatu bamikaaheedebate seferaa bamaganyate baaalu basalaame eneditanaaqaqe aderegawaale",
+    "wer": 0.26666666666666666
+  },
+  {
+    "sample": 309,
+    "transcription": "በሁለቱ ጀናሮች መካከል የተፈጠረው የሥልጣን ሽሚያ ውጥረት ፈንድቶ በመዲናዋ ካርቱም እና በብርካታ ከተሞች ግጅት ቀስቅሷል",
+    "romanized": "bahulatu janaaroche makaakale yatafatarawe yaseletaane shemiyaa weterate fanedeto bamadinaawaa kaaretume enaa baberekaataa katamoche gejete qaseqeswale",
+    "wer": 0.26666666666666666
+  },
+  {
+    "sample": 310,
+    "transcription": "በትብብር ፈንታ መጓተትን በመደጋገብ ፈንታ መገባባትን ከመረጥን ጉዞችን አንድ ርምጃ ወደፊት መቶር ምጫው ደኋል ይሆነው",
+    "romanized": "batebebere fanetaa magwaatatene bamadagaagabe fanetaa magabaabaatene kamaratene guzochene anede remejaa wadafite matore mechaawe daxwaale yehonawe",
+    "wer": 0.6
+  },
+  {
+    "sample": 311,
+    "transcription": "አብዛኛውም ጊዜ ተማሪዎቹ ከዩኒቨርሲቶች ምን አይነት እርዳታሊያገኙ እንደኝችሉ ሆነ ስላሉ ነገሮች ለመጠይቅ ይፈራሉ",
+    "romanized": "abezaanyaaweme gizee tamaariwochu kayunivaresitoche mene ayenate eredaataaliyaaganyu enedanyechelu hona selaalu nagaroche lamatayeqe yefaraalu",
+    "wer": 0.5
+  },
+  {
+    "sample": 312,
+    "transcription": "ከመሞቱን በፊት እንዳንጣላቃላ አስገብቶዎን ስለ ነበር አልተጣላንም",
+    "romanized": "kamamotune bafite enedaanetaalaaqaalaa asegabetowone sela nabare aletataalaaneme",
+    "wer": 0.7142857142857143
+  },
+  {
+    "sample": 313,
+    "transcription": "ሚስቱም እርፉ በሚፈለግ ጊዜ ምግብ እና መጠ አትሰጠውም በሰላም እንዲተኛ ማተደርገው",
+    "romanized": "misetume erefu bamifalage gizee megebe enaa mata atesataweme basalaame eneditanyaa maatadaregawe",
+    "wer": 0.7
+  },
+  {
+    "sample": 314,
+    "transcription": "እውነትም ልጅ ሞትን መሸወጃ ብቸኛው መንገድ ናው ያስብላል",
+    "romanized": "ewenateme leje motene mashawajaa bechanyaawe manegade naawe yaasebelaale",
+    "wer": 0.125
+  },
+  {
+    "sample": 315,
+    "transcription": "ነገር ግን ለቤተሰቡ አጠቃላይ ሕመም የሆነባቸው ምርመራውእና የፍርድሂደቱ የፈጀው ጊዜ ነው",
+    "romanized": "nagare gene labeetasabu ataqaalaaye hhemame yahonabaachawe meremaraaweenaa yaferedehidatu yafajawe gizee nawe",
+    "wer": 0.38461538461538464
+  },
+  {
+    "sample": 316,
+    "transcription": "ግብ ሱዳንን እንደአገር ከምታየባቸው ምክንያቶች አንዱ ከኢትዮጵያ ጋር የሚትወዛግብበት የኢትዮጵያ ዳሴግግብ ጉዳይ ይጠቀሰ",
+    "romanized": "gebe sudaanene enedaagare kametaayabaachawe mekeneyaatoche anedu kaiteyopheyaa gaare yamitewazaagebebate yaiteyopheyaa daaseegegebe gudaaye yetaqasa",
+    "wer": 0.5333333333333333
+  },
+  {
+    "sample": 317,
+    "transcription": "ይህ ጥያቄ ከተመለሰ ረዥም ዕድሜን ጤነኛ ሆነ ንንገፋለን ይላሉ ተመራ ማሪው",
+    "romanized": "yehe teyaaqee katamalasa razheme edemeene teenanyaa hona nenegafaalane yelaalu tamaraa maariwe",
+    "wer": 0.4
+  },
+  {
+    "sample": 318,
+    "transcription": "ብሏት የኔ ቪጤዋ ሴት የሀብታም ሰው ቤተ ሰብ ሆነች",
+    "romanized": "belwate yanee viteewaa seete yahabetaame sawe beeta sabe honache",
+    "wer": 0.625
+  },
+  {
+    "sample": 319,
+    "transcription": "አርፈህ ጉዞህን ቀጠል አለው",
+    "romanized": "arefahe guzohene qatale alawe",
+    "wer": 0.25
+  },
+  {
+    "sample": 320,
+    "transcription": "በግብፅ በኩል ፕሬዝዳንት አብዱል ፈታል ሲሲ ንዲዩም የቀድሞ የስዳን ፕሬዝዳንት ኦማራአል በሽር ነበሩ",
+    "romanized": "bagebetze bakule pereezedaanete abedule fataale sisi nediyume yaqademo yasedaane pereezedaanete omaaraaale bashere nabaru",
+    "wer": 0.75
+  }
+]

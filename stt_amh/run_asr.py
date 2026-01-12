@@ -106,7 +106,7 @@ def main(custom_adapter: Annotated[bool, typer.Option(help="Use our own custom a
 	report = REPORTS_DIR / f"stt-test-{custom_adapter and 'custom' or 'stock'}.json"
 	logger.info(f"Saving results to <magenta>{report}</magenta>")
 	with report.open("w") as f:
-		json.dump(results, f)
+		json.dump(results, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
