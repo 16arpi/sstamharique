@@ -1,5 +1,6 @@
 # Data
 /data/
+/models/amh-*/
 
 # Mac OS-specific storage files
 .DS_Store
