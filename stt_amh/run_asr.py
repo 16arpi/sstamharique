@@ -4,7 +4,7 @@ import json
 import re
 
 from datasets import load_from_disk
-from evaluate import load
+from jiwer import wer
 from loguru import logger
 import torch
 from torchcodec.decoders import AudioDecoder
@@ -28,7 +28,6 @@ class InferenceContext:
 		self.target_lang = "amh"
 		self.model_id = "facebook/mms-1b-all"
 		self.uroman = ur.Uroman()
-		self.wer = load("wer")
 
 	def load_dataset(self) -> None:
 		logger.info("Loading the dataset")
@@ -53,7 +52,7 @@ class InferenceContext:
 			logger.info(f"Using upstream <blue>{self.target_lang}</blue> adapter layers")
 			self.model.load_adapter(self.target_lang)
 
-	def run_asr(self, sample: AudioDecoder, reference: str) -> tuple[str, str]:
+	def run_asr(self, sample: AudioDecoder, reference: str) -> tuple[str, str, float]:
 		inputs = self.processor(sample, sampling_rate=16_000, return_tensors="pt").to(self.model.device)
 
 		with torch.no_grad():
@@ -64,16 +63,16 @@ class InferenceContext:
 		romanized = self.uroman.romanize_string(transcription, lcode=self.target_lang)
 
 		# Compute the WER
-		wer = self.wer.compute(predictions=[transcription], references=[reference])
+		jiwer_wer = wer(reference, transcription)
 
 		# Strip tags for loguru's sake...
 		safe_tr = re.sub(r"<[^<]+?>", "", transcription)
 		safe_ro = re.sub(r"<[^<]+?>", "", romanized)
 		logger.info(f"Transcription: <blue>{safe_tr}</blue>")
 		logger.info(f"Romanized: <green>{safe_ro}</green>")
-		logger.info(f"WER: <yellow>{wer:.4f}</yellow>")
+		logger.info(f"WER: <yellow>{jiwer_wer:.4f}</yellow>")
 
-		return transcription, romanized
+		return transcription, romanized, jiwer_wer
 
 
 @app.command()
@@ -87,17 +86,19 @@ def main(custom_adapter: Annotated[bool, typer.Option(help="Use our own custom a
 	for i, data_point in enumerate(tqdm(ctx.dataset["test"], desc="Inferencing...")):
 		sample = data_point["audio"]["array"]
 		ref = data_point["sentence"]
-		transcription, romanized = ctx.run_asr(sample, ref)
+		transcription, romanized, wer_score = ctx.run_asr(sample, ref)
 		results.append(
 			{
 				"sample": i,
 				"transcription": transcription,
 				"romanized": romanized,
+				"wer": wer_score,
 			}
 		)
 
 	# Dump the results to disk
 	report = REPORTS_DIR / f"stt-test-{custom_adapter and 'custom' or 'stock'}.json"
+	logger.info(f"Saving results to <magenta>{report}</magenta>")
 	with report.open("w") as f:
 		json.dump(results, f)
 
