@@ -43,7 +43,6 @@ An STT school project for Amharic
     │
     └─── modeling                
         ├── __init__.py 
-        ├── predict.py          <- Code to run model inference with trained models          
         └── train.py            <- Code to train models
 ```
 

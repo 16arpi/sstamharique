@@ -32,6 +32,7 @@ CV_DATASET_DESC = CV_DATASET_DIR / "dataset.csv"
 CV_DATASET = CV_DATASET_DIR / "cv_amh_data"
 
 MODELS_DIR = PROJ_ROOT / "models"
+PRETRAINED_AMH = MODELS_DIR / "pretrained"
 
 REPORTS_DIR = PROJ_ROOT / "reports"
 FIGURES_DIR = REPORTS_DIR / "figures"
