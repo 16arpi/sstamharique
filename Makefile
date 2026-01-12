@@ -79,7 +79,7 @@ sync_data_up:
 
 ## Download experiment data w/o S3
 $(EXTERNAL_DATASETS):
-	mkdir -p data/{external,raw,interim,processed}
+	mkdir -p data/external data/raw data/interim data/processed
 	wget "https://tal-m2-amh.s3.gra.io.cloud.ovh.net/$@" -O "$@"
 
 $(PROCESSED_DATASETS):
