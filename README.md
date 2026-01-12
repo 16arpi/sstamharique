@@ -65,6 +65,7 @@ make requirements
 Pull the ready-to-go dataset and our pretrained adapter:
 ```bash
 make download_data
+python stt_amh/dataset.py
 ```
 
 ----
