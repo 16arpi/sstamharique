@@ -20,7 +20,7 @@ An STT school project for Amharic
 │
 ├── models             <- Trained and serialized models, model predictions, or model summaries
 │
-├── notebooks          <- Jupyter notebooks.
+├── notebooks          <- Exploratory marimo notebooks.
 │
 ├── pyproject.toml     <- Project configuration file with package metadata for 
 │                         stt_amh and configuration for tools like black
@@ -41,13 +41,38 @@ An STT school project for Amharic
     │
     ├── dataset.py              <- Scripts to download or generate data
     │
-    ├── modeling                
-    │   ├── __init__.py 
-    │   ├── predict.py          <- Code to run model inference with trained models          
-    │   └── train.py            <- Code to train models
-    │
-    └── plots.py                <- Code to create visualizations
+    └─── modeling                
+        ├── __init__.py 
+        ├── predict.py          <- Code to run model inference with trained models          
+        └── train.py            <- Code to train models
 ```
 
 --------
 
+## Installation
+
+Tested with Python 3.13
+
+## Environment setup
+
+Install the required dependencies (using [uv](https://docs.astral.sh/uv/getting-started/installation/)):
+
+```bash
+make create_environment
+source .venv/bin/activate
+make requirements
+```
+
+Pull the ready-to-go dataset:
+```bash
+make download_data
+```
+
+----
+
+## Command-Line Usage
+
+Training an adapter:
+```bash
+python stt_amh/modeling/train.py
+```

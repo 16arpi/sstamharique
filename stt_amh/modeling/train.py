@@ -314,7 +314,7 @@ def main():
 
 	ctx.load_pipeline()
 
-	logger.info("Sanity-checking a few audio sampes:")
+	logger.info("Sanity-checking a few audio samples:")
 	print(ctx.dataset["train"][0]["audio"])
 	rand_int = random.randint(0, len(ctx.dataset["train"]) - 1)
 
