@@ -72,7 +72,7 @@ make download_data
 
 ## Command-Line Usage
 
-Training an adapter:
+Training an adapter (likely requires > 16GB of VRAM; but less than 24GB; lower the batch size if need be):
 ```bash
 python stt_amh/modeling/train.py
 ```
