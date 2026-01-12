@@ -35,7 +35,7 @@ app = typer.Typer()
 def load_dataset() -> DatasetDict:
 	logger.info("Loading the dataset")
 
-	return load_from_disk(CV_DATASET.as_posix())
+	return load_from_disk(CV_DATASET)
 
 
 def show_random_elements(dataset: list[str], num_examples=10):
@@ -170,7 +170,7 @@ class TrainContext:
 
 	def load_pipeline(self) -> None:
 		self.tokenizer = Wav2Vec2CTCTokenizer.from_pretrained(
-			self.run_dir.as_posix(),
+			self.run_dir,
 			unk_token="[UNK]",
 			pad_token="[PAD]",
 			word_delimiter_token="|",
@@ -263,7 +263,7 @@ class TrainContext:
 
 		self.trainer_output_dir = self.run_dir / "wav2vec2-large-mms-1b-amharic-cv"
 		training_args = TrainingArguments(
-			output_dir=self.trainer_output_dir.as_posix(),
+			output_dir=self.trainer_output_dir,
 			group_by_length=True,
 			per_device_train_batch_size=24,  # Lowered from 32 to lower memory pressure
 			gradient_accumulation_steps=1,  # NOTE: This could be used as another lever to reduce memory pressure some more
@@ -298,13 +298,13 @@ class TrainContext:
 	def save_adapter(self) -> None:
 		logger.info("Saving trained adapter to disk...")
 		adapter_file = WAV2VEC2_ADAPTER_SAFE_FILE.format(self.target_lang)
-		adapter_file = Path(self.trainer_output_dir / adapter_file).as_posix()
+		adapter_file = self.trainer_output_dir / adapter_file
 
 		safe_save_file(self.model._get_adapters(), adapter_file, metadata={"format": "pt"})
 
 
 @app.command()
-def main():
+def main() -> None:
 	ctx = TrainContext()
 	# Load the data & build the vocab for the tokenizer
 	ctx.setup()
