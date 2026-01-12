@@ -7,6 +7,14 @@ PYTHON_VERSION = 3
 PYTHON_INTERPRETER = python$(PYTHON_VERSION)
 PROJECT_DIR := $(dir $(realpath $(lastword $(MAKEFILE_LIST))))
 
+EXTERNAL_DATASET_FILES := mms.zip
+EXTERNAL_DATASETS := $(patsubst %,data/external/%,$(EXTERNAL_DATASET_FILES))
+
+PROCESSED_DATASET_FILES := mms/dataset.csv
+PROCESSED_DATASETS := $(patsubst %,data/processed/%,$(PROCESSED_DATASET_FILES))
+
+DATASETS := $(EXTERNAL_DATASETS) $(PROCESSED_DATASETS)
+
 #################################################################################
 # COMMANDS                                                                      #
 #################################################################################
@@ -57,9 +65,23 @@ sync_data_up:
 		s3://tal-m2-amh/data/
 	aws s3 sync models/ \
 		s3://tal-m2-amh/models/
+	for dataset in $(EXTERNAL_DATASETS) ; do \
+		aws s3api put-object-acl --bucket tal-m2-amh --acl public-read --key $${dataset} ; \
+	done
 
 
+## Download experiment data w/o S3
+$(EXTERNAL_DATASETS):
+	mkdir -p data/{external,raw,interim,processed}
+	wget "https://tal-m2-amh.s3.gra.io.cloud.ovh.net/$@" -O "$@"
 
+$(PROCESSED_DATASETS):
+	for dataset in $(EXTERNAL_DATASETS) ; do \
+		[[ "$${dataset}" == *.zip ]] && unzip "$${dataset}" -d data/processed/ ; \
+	done
+
+.PHONY: download_data
+download_data: $(DATASETS)
 
 ## Set up Python interpreter environment
 .PHONY: create_environment

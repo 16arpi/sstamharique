@@ -1,5 +1,6 @@
 from functools import partial
 from pathlib import Path
+import warnings
 
 from dotenv import load_dotenv
 from loguru import logger
@@ -25,6 +26,11 @@ INTERIM_DATA_DIR = DATA_DIR / "interim"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 EXTERNAL_DATA_DIR = DATA_DIR / "external"
 
+CV_DATASET_ZIP = EXTERNAL_DATA_DIR / "mms.zip"
+CV_DATASET_DIR = PROCESSED_DATA_DIR / "mms"
+CV_DATASET_DESC = CV_DATASET_DIR / "dataset.csv"
+CV_DATASET = CV_DATASET_DIR / "cv_amh_data"
+
 MODELS_DIR = PROJ_ROOT / "models"
 
 REPORTS_DIR = PROJ_ROOT / "reports"
@@ -33,9 +39,9 @@ FIGURES_DIR = REPORTS_DIR / "figures"
 # If tqdm is installed, configure loguru with tqdm.write
 # https://github.com/Delgan/loguru/issues/135
 try:
-    from tqdm.rich import tqdm
+	from tqdm.rich import tqdm
 
-    logger.remove(0)
-    logger.add(lambda msg: tqdm.write(msg, end=""), colorize=True)
+	logger.remove(0)
+	logger.add(lambda msg: tqdm.write(msg, end=""), colorize=True)
 except ModuleNotFoundError:
-    pass
+	pass
