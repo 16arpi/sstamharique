@@ -2,6 +2,9 @@
 /data/
 /models/amh-*/
 
+# Creds
+credentials.json
+
 # Mac OS-specific storage files
 .DS_Store
 
