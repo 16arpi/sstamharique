@@ -20,6 +20,8 @@ logger.opt = partial(logger.opt, colors=True)
 
 
 def import_dataset() -> DatasetDict:
+	logger.info("Importing the raw dataset into a HF Dataset...")
+
 	# There aren't any actual splits yet, so everything's in the default train
 	dataset_full = load_dataset("csv", data_files=CV_DATASET_DESC.as_posix(), split="train")
 
@@ -49,6 +51,8 @@ def import_dataset() -> DatasetDict:
 
 
 def preprocess_dataset(dataset: DatasetDict) -> DatasetDict:
+	logger.info("Cleaning up the dataset...")
+
 	PUNCT = re.compile(r"[!-:?፡።፣፤፥፦፧፨፠‘’“”‹›]")
 
 	def remove_punctuation(example: dict[str, Any]) -> dict[str, Any]:
@@ -69,6 +73,8 @@ def main():
 	ds = preprocess_dataset(ds)
 
 	pprint(ds)
+
+	logger.info("Saving the final dataset to disk")
 	# The paths in the CSV are relative...
 	with contextlib.chdir(CV_DATASET_DIR):
 		ds.save_to_disk(CV_DATASET.as_posix())
