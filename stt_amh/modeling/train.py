@@ -286,7 +286,7 @@ class TrainContext:
 			args=training_args,
 			compute_metrics=compute_metrics,
 			train_dataset=self.dataset["train"],
-			eval_dataset=self.dataset["test"],
+			eval_dataset=self.dataset["validation"],
 			processing_class=self.processor.feature_extractor,
 		)
 
