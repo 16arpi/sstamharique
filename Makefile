@@ -2,6 +2,9 @@
 # GLOBALS                                                                       #
 #################################################################################
 
+# We expect basic necessities to actually work...
+SHELL := /bin/bash
+
 PROJECT_NAME = stt_amh
 PYTHON_VERSION = 3
 PYTHON_INTERPRETER = python$(PYTHON_VERSION)
@@ -79,12 +82,12 @@ sync_data_up:
 
 ## Download experiment data w/o S3
 $(EXTERNAL_DATASETS):
-	mkdir -p data/external data/raw data/interim data/processed
+	mkdir -p data/{external,raw,interim,processed}
 	wget "https://tal-m2-amh.s3.gra.io.cloud.ovh.net/$@" -O "$@"
 
 $(PROCESSED_DATASETS):
 	for dataset in $(EXTERNAL_DATASETS) ; do \
-		[ "$${dataset}" == *.zip ] && unzip "$${dataset}" -d data/processed/ ; \
+		[[ "$${dataset}" == *.zip ]] && unzip "$${dataset}" -d data/processed/ ; \
 	done
 
 $(MODELS):
@@ -93,7 +96,7 @@ $(MODELS):
 
 $(MODELS_CACHE):
 	for model in $(MODELS) ; do \
-		[ "$${model}" == *.tar.gz ] && tar xvf "$${model}" -C models/ ; \
+		[[ "$${model}" == *.tar.gz ]] && tar xvf "$${model}" -C models/ ; \
 	done
 
 .PHONY: download_data
