@@ -3,1926 +3,2247 @@
     "sample": 0,
     "transcription": "የካይሮን ፍላጎት የሚፃራር ኃይል ወደሥልጣን እንዳይወጣት ሰጋለች",
     "romanized": "yakaayerone felaagote yamitzaaraare xaayele wadaseletaane enedaayewataate sagaalache",
-    "wer": 0.625
+    "wer": 0.625,
+    "cer": 0.14634146341463414
   },
   {
     "sample": 1,
     "transcription": "ከዚያም ልጁ እባክ ህድ መቷን እኔሉ ሰዳት ብሎ ወደ ቤቱ ይዟት ሄደ",
     "romanized": "kaziyaame leju ebaake hede matwane eneelu sadaate belo wada beetu yezwate heeda",
-    "wer": 0.7
+    "wer": 0.7,
+    "cer": 0.17073170731707318
   },
   {
     "sample": 2,
     "transcription": "ከባህር ውሥር አባቱን ሊያገኙት እየሄዱ ልጁን አባቴ እንደምነ ሲልህ እግዚአብሔር የመስገደናለኝ አልትበል",
     "romanized": "kabaahere wesere abaatune liyaaganyute eyaheedu lejune abaatee enedamena silehe egeziabehheere yamasegadanaalanye aletebale",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.16176470588235295
   },
   {
     "sample": 3,
     "transcription": "ቋሚውን ካላመጡ የሚከተላቸው ስቅላት ነውና ሩቅ እና ሰፊ ግዛትን ያካለለ ፍለጋ አደረጉ",
     "romanized": "qwaamiwene kaalaamatu yamikatalaachawe seqelaate nawenaa ruqe enaa safi gezaatene yaakaalala felagaa adaragu",
-    "wer": 0.18181818181818182
+    "wer": 0.18181818181818182,
+    "cer": 0.038461538461538464
   },
   {
     "sample": 4,
     "transcription": "ቡ ከፍተኛ የአየር ድብደባ ውስጥ የትራንስፖርት እንግስቃሴ ይቀጥሏል",
     "romanized": "bu kafetanyaa yaayare debedabaa wesete yateraaneseporete enegeseqaasee yeqatelwale",
-    "wer": 0.7142857142857143
+    "wer": 0.7142857142857143,
+    "cer": 0.125
   },
   {
     "sample": 5,
     "transcription": "በሩሲያ በስልላ ክሴት አሰረው አሜሪካዊ ጋዜጠኛ ፍርድ ቤት ቀረበ",
     "romanized": "barusiyaa baselelaa keseete asarawe ameerikaawi gaazeetanyaa ferede beete qaraba",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.125
   },
   {
     "sample": 6,
     "transcription": "ከወራት በፊት የተደረሰውን ግጭትን በዘላቂነት የማቆም ስምምነት ተከትለውን በተወሰነ መልኩ ኢንተርኔት ተመልሷል ብሏል",
     "romanized": "kawaraate bafite yatadarasawene gechetene bazalaaqinate yamaaqome sememenate takatelawene batawasana maleku inetareneete tamaleswale belwale",
-    "wer": 0.07692307692307693
+    "wer": 0.07692307692307693,
+    "cer": 0.041666666666666664
   },
   {
     "sample": 7,
     "transcription": "ልጆቻቸው ሳይጠግቧቸው እነርሱም እንደባቡ በቀኑ ክፍለ ጊዜ ዳግም ላይ የተያዩት እለያያሉ",
     "romanized": "lejochaachawe saayetagebwachawe enaresume enedabaabu baqanu kefela gizee daageme laaye yatayaayute elayaayaalu",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.07692307692307693
   },
   {
     "sample": 8,
     "transcription": "በጉድኙቱ የክልሉ ርእስ አንምስትራቶች መንጥሽ አዲሳ ታሐኝተዋል",
     "romanized": "bagudenyutu yakelelu reese anemeseteraatoche maneteshe adisaa taahhanyetawaale",
-    "wer": 0.8571428571428571
+    "wer": 0.8571428571428571,
+    "cer": 0.48717948717948717
   },
   {
     "sample": 9,
     "transcription": "በካይሮ መደብሮች በምግድ ቤቶች በሰዎች ቤት ውስጥም ሱዳናዊያን ሰራተኞችን ማይት የተለመደ ነው",
     "romanized": "bakaayero madaberoche bamegede beetoche basawoche beete weseteme sudaanaawiyaane saraatanyochene maayete yatalamada nawe",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.08620689655172414
   },
   {
     "sample": 10,
     "transcription": "ይህንንም ምልክት በጦርነቱ በሁለቱን በኩል ባሉ ተዋየዎችም ሲለበስም ታአይቷል",
     "romanized": "yeheneneme melekete batorenatu bahulatune bakule baalu tawaayawocheme silabaseme taaayetwale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.06382978723404255
   },
   {
     "sample": 11,
     "transcription": "የሕብረቱን ቁልፍ መርህ ገቢራዊ በማድረግ ትልቅ ማሳያኖ ሲሉም ተናግረዋል",
     "romanized": "yahheberatune qulefe marehe gabiraawi bamaaderage teleqe maasaayaano silume tanaagerawaale",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.0851063829787234
   },
   {
     "sample": 12,
     "transcription": "ብዙ ዓመት መኖር እንዴት እንችላለን",
     "romanized": "bezu aamate manore enedeete enechelaalane",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 13,
     "transcription": "የጄኔራል ሰዓረ መኰነን ቤተሰቦች እንዲሁም ጄኔራል መኮንኖች እና የጄኔራል ሰዕራ የቀድመው ባልደርጎች በተገኙበት ነው",
     "romanized": "yajeeneeraale saaara makwanane beetasaboche enedihume jeeneeraale makonenoche enaa yajeeneeraale saeraa yaqademawe baaledaregoche bataganyubate nawe",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 14,
     "transcription": "ቤተ ሰብ ዘመድ አዝማድ እና ወዳጆቿ ሀገር ቤት ናቸው",
     "romanized": "beeta sabe zamade azemaade enaa wadaajocwa hagare beete naachawe",
-    "wer": 1.1666666666666667
+    "wer": 1.1666666666666667,
+    "cer": 0.2
   },
   {
     "sample": 15,
     "transcription": "ስለዚህ ነው አባትህ አፈር መሬት የሰጠ",
     "romanized": "selazihe nawe abaatehe afare mareete yasata",
-    "wer": 0.16666666666666666
+    "wer": 0.16666666666666666,
+    "cer": 0.04
   },
   {
     "sample": 16,
     "transcription": "የእንስሳውጤን እነት የተመረመረ እና የሥጋው ምንጭ በደንቤትወቀ መሆን እንደሚገባው ይመክራሉ",
     "romanized": "yaenesesaaweteene enate yatamaramara enaa yasegaawe meneche badanebeetewaqa mahone enedamigabaawe yemakeraalu",
-    "wer": 0.36363636363636365
+    "wer": 0.36363636363636365,
+    "cer": 0.1206896551724138
   },
   {
     "sample": 17,
     "transcription": "በእድሜ ትልቁ ወንድ ደግሞ የመቶ አስራ ሶስት ዓመቱ ቬንዙዌላዊ ሆዋን ቪንሴንቴሞራ ናቸው",
     "romanized": "baedemee telequ wanede dagemo yamato aseraa sosete aamatu veenezuweelaawi howaane vineseeneteemoraa naachawe",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.10526315789473684
   },
   {
     "sample": 18,
     "transcription": "በዓሉን ከተቸግሮ ወገኖች ጋር አብሮ ማሳለፍ እንደሚገባም አሳስበዋል",
     "romanized": "baaalune katachagero waganoche gaare abero maasaalafe enedamigabaame asaasebawaale",
-    "wer": 0.125
+    "wer": 0.125,
+    "cer": 0.047619047619047616
   },
   {
     "sample": 19,
     "transcription": "ከፈንጂ መጸዳት ያለበት መሬት መጠነሰፊ በመሆኑ ሥራው ማቆመ የለውም",
     "romanized": "kafaneji matsadaate yaalabate mareete matanasafi bamahonu seraawe maaqoma yalaweme",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.08888888888888889
   },
   {
     "sample": 20,
     "transcription": "ለግዚሔር ምስጋና ይገባዋል",
     "romanized": "lagezihheere mesegaanaa yegabaawaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.15789473684210525
   },
   {
     "sample": 21,
     "transcription": "ከአፍሪካ ህብረት ከፍተኛ ተወካዮች መካከል አንዱ በመሆን ሁለቱ ተዋጊ ኃይሎች ያደራደሬ ነበሩት የኬናው ፕሬዝዳንት ነበሩ",
     "romanized": "kaaferikaa heberate kafetanyaa tawakaayoche makaakale anedu bamahone hulatu tawaagi xaayeloche yaadaraadaree nabarute yakeenaawe pereezedaanete nabaru",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.1125
   },
   {
     "sample": 22,
     "transcription": "ፈንጂዎቹ አደጋን ከማስከተል ባለፈ በተቀሩቧቸው አካባቢዎች ግብርና እና ግባታውን ጨምሮ መሰለታ እንቅስቃሴዎችን ይገድባሉ",
     "romanized": "fanejiwochu adagaane kamaasekatale baalafa bataqarubwachawe akaabaabiwoche geberenaa enaa gebaataawene chamero masalataa eneqeseqaaseewochene yegadebaalu",
-    "wer": 0.23076923076923078
+    "wer": 0.23076923076923078,
+    "cer": 0.09090909090909091
   },
   {
     "sample": 23,
     "transcription": "ታማኝ የሚባልቱ ውሾች በሰው ሥጋ ቁንጣን ተወጥረው እንቅልፍ ተጭኖቸው አለከለኩ",
     "romanized": "taamaanye yamibaaletu weshoche basawe segaa qunetaane tawaterawe eneqelefe tachenochawe alakalaku",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.061224489795918366
   },
   {
     "sample": 24,
     "transcription": "ላብናቱን ፋሽ ይጠይቀን",
     "romanized": "laabenaatune faashe yetayeqane",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.35714285714285715
   },
   {
     "sample": 25,
     "transcription": "የሚደንቀው ይህን የአንድ ዓመት ፍርድም አልፈጸሙት ንም",
     "romanized": "yamidaneqawe yehene yaanede aamate feredeme alefatsamute neme",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.0625
   },
   {
     "sample": 26,
     "transcription": "የገጠማትን የውጭ ምንዛሪ ጥረት በመሸፈን አስፈላጊ ለሆኑ ይገቢ ምህርቶች ክፍያ ለመፈጸም ድጋት ያስፈልጋታል",
     "romanized": "yagatamaatene yaweche menezaari terate bamashafane asefalaagi lahonu yegabi meheretoche kefeyaa lamafatsame degaate yaasefalegaataale",
-    "wer": 0.3076923076923077
+    "wer": 0.3076923076923077,
+    "cer": 0.05970149253731343
   },
   {
     "sample": 27,
     "transcription": "እንስሳቱ እንዴት እናየት ነው ያደጉት የሚለውን ነው ይላሉ የስለምግባለሙያ",
     "romanized": "enesesaatu enedeete enaayate nawe yaadagute yamilawene nawe yelaalu yaselamegebaalamuyaa",
-    "wer": 0.4166666666666667
+    "wer": 0.4166666666666667,
+    "cer": 0.13725490196078433
   },
   {
     "sample": 28,
     "transcription": "ከሌጉላ ለመውረድ ከሚደረጉት ንቅንቆች መካከል አንዱ ይህጨዋታ ነው",
     "romanized": "kaleegulaa lamawerade kamidaragute neqeneqoche makaakale anedu yehechawaataa nawe",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.14285714285714285
   },
   {
     "sample": 29,
     "transcription": "በዚህም ተስማምተ እድኩላውም ነብሩን ሳይፈራ ኖሮ መወፈርእና ነብሩን ማጓጓት ጀመረ",
     "romanized": "baziheme tasemaameta edekulaaweme naberune saayefaraa noro mawafareenaa naberune maagwaagwaate jamara",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.06
   },
   {
     "sample": 30,
     "transcription": "በትውልድ ቦታቸው አስመራ በሐዝዝ መካነመቃብር ለማድረግ ፈቃድ ማግኘት እንዳልቻሉ ፓስተር ሚካል አስረድተዋል",
     "romanized": "batewelede botaachawe asemaraa bahhazeze makaanamaqaabere lamaaderage faqaade maagenyate enedaalechaalu paasetare mikaale aseradetawaale",
-    "wer": 0.46153846153846156
+    "wer": 0.46153846153846156,
+    "cer": 0.07246376811594203
   },
   {
     "sample": 31,
     "transcription": "እንደዚህ እንደዚህ ከተባለ ቦታነ የወደቀውአለው",
     "romanized": "enedazihe enedazihe katabaala botaana yawadaqawealawe",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.09375
   },
   {
     "sample": 32,
     "transcription": "ሄምቲ በየመን ውስጥ ሳውዳ ረብ ያለምትመራው ጥምር ጦር የሚዋጉ ወጥታደሮችን በገፍ በማቅረብ ይታወቃሉ",
     "romanized": "heemeti bayamane wesete saawedaa rabe yaalametemaraawe temere tore yamiwaagu watetaadarochene bagafe bamaaqerabe yetaawaqaalu",
-    "wer": 0.3076923076923077
+    "wer": 0.3076923076923077,
+    "cer": 0.1111111111111111
   },
   {
     "sample": 33,
     "transcription": "የትኛውም አገር የአባይወን ዚን ሲጠቀም በሌሎች የተፋሰሱ ሀገራት ላይ ከፍተኛ ጉዳታ ለማስከትሉን ማረተገጣለበር",
     "romanized": "yatenyaaweme agare yaabaayewane zine sitaqame baleeloche yatafaasasu hagaraate laaye kafetanyaa gudaataa lamaasekatelune maaratagataalabare",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 34,
     "transcription": "ከአንድ የሕንፃ ተቋራች ገንዝር ተቀብለው ያልተብለው ነው ሉላ ለእዝር የተዳረጉት",
     "romanized": "kaanede yahhenetzaa taqwaaraache ganezere taqabelawe yaaletabelawe nawe lulaa laezere yatadaaragute",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.1836734693877551
   },
   {
     "sample": 35,
     "transcription": "ግድቡን በውሃ የመሙላት ሂደት በምንያል ጊዜ የከናውን የሚለው ቁልፋ ጉዳይ ተመክሯል",
     "romanized": "gedebune bawehaa yamamulaate hidate bameneyaale gizee yakanaawene yamilawe qulefaa gudaaye tamakerwale",
-    "wer": 0.38461538461538464
+    "wer": 0.38461538461538464,
+    "cer": 0.14035087719298245
   },
   {
     "sample": 36,
     "transcription": "ማገልገል ዋጋ ዓለም እስጠት እና ማሳነስድ",
     "romanized": "maagalegale waagaa aalame esetate enaa maasaanasede",
-    "wer": 1.25
+    "wer": 1.25,
+    "cer": 0.47619047619047616
   },
   {
     "sample": 37,
     "transcription": "የአዲሳባት አወላጆች በከተማ አዕካቢኔ ውስጥ ተሳትፏቸው እንዲጨምር ተጠየቀ",
     "romanized": "yaadisaabaate awalaajoche bakatamaa aekaabinee wesete tasaatefwachawe enedichamere tatayaqa",
-    "wer": 0.5555555555555556
+    "wer": 0.5555555555555556,
+    "cer": 0.19148936170212766
   },
   {
     "sample": 38,
     "transcription": "እኔ ወረራ ንቃወማሉ",
     "romanized": "enee wararaa neqaawamaalu",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.2857142857142857
   },
   {
     "sample": 39,
     "transcription": "ሶፋ ላይ ወይመኝታቤት አስቀምጣዋቸው ሥራቸው መጨረስ ላይ ነው ትኩረታቸው",
     "romanized": "sofaa laaye wayemanyetaabeete aseqametaawaachawe seraachawe macharase laaye nawe tekurataachawe",
-    "wer": 0.45454545454545453
+    "wer": 0.45454545454545453,
+    "cer": 0.08333333333333333
   },
   {
     "sample": 40,
     "transcription": "ጥሬሲካ የሚመገቡ ሰዎች መህበራ የተስስራቸው ነግረ መንገድ ያተናክራሉ",
     "romanized": "tereesikaa yamimagabu sawoche mahebaraa yataseseraachawe nagera manegade yaatanaakeraalu",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.24444444444444444
   },
   {
     "sample": 41,
     "transcription": "የስቅላት ጭካኔ አንዱ ማሳያ ነፍስ ከስጋ ስክትል ላይ ድረስ የሚፈጆ ጊዜ ረጅም መሆኑ ነው",
     "romanized": "yaseqelaate chekaanee anedu maasaayaa nafese kasegaa seketele laaye derase yamifajo gizee rajeme mahonu nawe",
-    "wer": 0.3076923076923077
+    "wer": 0.3076923076923077,
+    "cer": 0.125
   },
   {
     "sample": 42,
     "transcription": "እያፍደዱኝ ነበር",
     "romanized": "eyaafedadunye nabare",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.1
   },
   {
     "sample": 43,
     "transcription": "ነጥረው የወጡ የመሰሉኝን አንድ ሁለት ቁም ነገሮችን ላንሳ ና እንድታነቡት ልቆስቁስ",
     "romanized": "naterawe yawatu yamasalunyene anede hulate qume nagarochene laanesaa naa enedetaanabute leqosequse",
-    "wer": 0.5555555555555556
+    "wer": 0.5555555555555556,
+    "cer": 0.0784313725490196
   },
   {
     "sample": 44,
     "transcription": "ከአመታት በላይ ተለያተው የነበሩ ቤተ ሰዎች ለመጀመሪያ ጊዜ መሊሰው ለማገናኘት እና ለመነጋገር ችለዋል",
     "romanized": "kaamataate balaaye talayaatawe yanabaru beeta sawoche lamajamariyaa gizee malisawe lamaaganaanyate enaa lamanagaagare chelawaale",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.1111111111111111
   },
   {
     "sample": 45,
     "transcription": "ldldyldldldyljrylrlrlybylylylybylyrylylrylyldyry",
     "romanized": "ldldyldldldyljrylrlrlybylylylybylyrylylrylyldyry",
-    "wer": 1
+    "wer": 1,
+    "cer": 48
   },
   {
     "sample": 46,
     "transcription": "ሰቦቹም ሰማቸውን እንዳይ ጠፋ በመፍራት ሶስት ስልቻ ጠፍ ሰርተው ጤይፉን ይዘ ወደ መንደሩ ተመለሰ",
     "romanized": "sabochume samaachawene enedaaye tafaa bamaferaate sosete selechaa tafe saretawe teeyefune yeza wada manedaru tamalasa",
-    "wer": 0.6153846153846154
+    "wer": 0.6153846153846154,
+    "cer": 0.15254237288135594
   },
   {
     "sample": 47,
     "transcription": "ከሂሳማወራረዳ ባዚል ንውጣ",
     "romanized": "kahisaamaawaraaradaa baazile newetaa",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.3684210526315789
   },
   {
     "sample": 48,
     "transcription": "አሁን ዝምብላች ወደ መንደራችው ተመለሱ እና በኋላ የገባችዋል ሲላቸው ተነሥተው ሄዱ",
     "romanized": "ahune zemebelaache wada manedaraachewe tamalasu enaa baxwaalaa yagabaachewaale silaachawe tanasetawe heedu",
-    "wer": 0.6363636363636364
+    "wer": 0.6363636363636364,
+    "cer": 0.15384615384615385
   },
   {
     "sample": 49,
     "transcription": "ማሰብ ና መወሰን አለብን",
     "romanized": "maasabe naa mawasane alabene",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.07142857142857142
   },
   {
     "sample": 50,
     "transcription": "ክልከላውን ያደረጉት ይልትረ ባለሥልጣናት መሆናቸውን ለቤተሰቡ ቅርብ የሆኑም እንጩት ለቢቢሲ ይትግረኛ ገልጸዋል",
     "romanized": "kelekalaawene yaadaragute yeletera baalaseletaanaate mahonaachawene labeetasabu qerebe yahonume enechute labibisi yetegeranyaa galetsawaale",
-    "wer": 0.4166666666666667
+    "wer": 0.4166666666666667,
+    "cer": 0.16176470588235295
   },
   {
     "sample": 51,
     "transcription": "አንድ ነገር ለማድረግ ሁል ጊዜ ትግል ነውም",
     "romanized": "anede nagare lamaaderage hule gizee tegele naweme",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.08
   },
   {
     "sample": 52,
     "transcription": "የዞህን ጭራ ብላ መለተች",
     "romanized": "yazohene cheraa belaa malatache",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.2
   },
   {
     "sample": 53,
     "transcription": "መረገጋት የየሚለው አገላለፅ ግብፅን ጨምሮ በብዙ አንባግንን መንግስታት ተቃዋሚ የዎችን ለማፈን ይውላል",
     "romanized": "maragagaate yayamilawe agalaalatze gebetzene chamero babezu anebaagenene manegesetaate taqaawaami yawochene lamaafane yewelaale",
-    "wer": 0.7272727272727273
+    "wer": 0.7272727272727273,
+    "cer": 0.16393442622950818
   },
   {
     "sample": 54,
     "transcription": "ይህ ሜን ማለት ነው ብለቡ መንገዳቸውን ቀጠሉ",
     "romanized": "yehe meene maalate nawe belabu manegadaachawene qatalu",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.07142857142857142
   },
   {
     "sample": 55,
     "transcription": "ማማይ እንዳተኝሺ እየመጣሁ ነው የሚሉ ድምፆች ታክሲ ሰልፍ ላይ ሳይቀር ይሰማሉ",
     "romanized": "maamaaye enedaatanyeshi eyamataahu nawe yamilu demetzoche taakesi salefe laaye saayeqare yesamaalu",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.11764705882352941
   },
   {
     "sample": 56,
     "transcription": "ስለዚህም ከዛሬ ጀምሮ የክልልልዩ ኃይል የሚባላ ደረጃጀት እና መዋቅር የለም",
     "romanized": "selaziheme kazaaree jamero yakeleleleyu xaayele yamibaalaa darajaajate enaa mawaaqere yalame",
-    "wer": 0.36363636363636365
+    "wer": 0.36363636363636365,
+    "cer": 0.061224489795918366
   },
   {
     "sample": 57,
     "transcription": "ይህ ማሽን በተጠቃሚዎች ከእንብርት በታች ወይም በታችኛው ጀርባ ላይ የሚለጥፉት ነው",
     "romanized": "yehe maashene batataqaamiwoche kaeneberete bataache wayeme bataachenyaawe jarebaa laaye yamilatefute nawe",
-    "wer": 0.09090909090909091
+    "wer": 0.09090909090909091,
+    "cer": 0.019230769230769232
   },
   {
     "sample": 58,
     "transcription": "የዩክሬይን ወታዶች ሩሲያ ቀስበቀስ እያሸነፈች ነው አሉ",
     "romanized": "yayukereeyene wataadoche rusiyaa qasebaqase eyaashanafache nawe alu",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.11428571428571428
   },
   {
     "sample": 59,
     "transcription": "ከ2 ዓም በፊት የወራበባ ህመምንድ ለመቀነስ የሚረዳ ቴክኖሎዥን በተመለከተ በማበራ ሜድያ ላይ አየች",
     "romanized": "ka2 aame bafite yawaraababaa hemamenede lamaqanase yamiradaa teekenolozhene batamalakata bamaabaraa meedeyaa laaye ayache",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.20588235294117646
   },
   {
     "sample": 60,
     "transcription": "ከጋሃጡ ከብቶች በመቀጠልም ከደለቡ ከብቶች የሚግኝ ሥጋ በቅደም ተከትን እንደሚቀመጥ መሑሩ ያስረዳሉ",
     "romanized": "kagaahaatu kabetoche bamaqataleme kadalabu kabetoche yamigenye segaa baqedame takatene enedamiqamate mahhuru yaaseradaalu",
-    "wer": 0.4166666666666667
+    "wer": 0.4166666666666667,
+    "cer": 0.11290322580645161
   },
   {
     "sample": 61,
     "transcription": "ይህ ደግሞ አካላይ እድገት ብቻ የሚመለከት ነው",
     "romanized": "yehe dagemo akaalaaye edegate bechaa yamimalakate nawe",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.1
   },
   {
     "sample": 62,
     "transcription": "ጠቅላይ ሚኒስትር አብያህምር ለትንሳይ በዓል የእንኳና ደረሳቸው መልክት አስተላልፏል",
     "romanized": "taqelaaye minisetere abeyaahemere latenesaaye baaale yaenekwaanaa darasaachawe malekete asetalaalefwale",
-    "wer": 0.7
+    "wer": 0.7,
+    "cer": 0.2807017543859649
   },
   {
     "sample": 63,
     "transcription": "ጦርነቱ ከሶስት አስርት ዓመታት በኋላ በአውፓ የኑ ሁለት0ህ ሁለት ነበር የጥጓቸው",
     "romanized": "torenatu kasosete aserete aamataate baxwaalaa baawepaa yanu hulate0he hulate nabare yategwaachawe",
-    "wer": 0.45454545454545453
+    "wer": 0.45454545454545453,
+    "cer": 0.17307692307692307
   },
   {
     "sample": 64,
     "transcription": "ለዚህ ኦፕሬሽነት ሳካት ጂቡቲ ኢትዮጵያ እና ሳውድ አረቢያንም አመስግነዋል",
     "romanized": "lazihe opereeshenate saakaate jibuti iteyopheyaa enaa saawede arabiyaaneme amasegenawaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.10869565217391304
   },
   {
     "sample": 65,
     "transcription": "ለዲላ ዩኒቨርሲቲው መምሔር ዶክተር ይሆኔ በሶስቱ ምንስሳት ሥጋ ውስጥ የሚገኙት ንጥረ ምግቦች ተመሳሳይ ናቸው",
     "romanized": "ladilaa yunivaresitiwe mamehheere doketare yehonee basosetu menesesaate segaa wesete yamiganyute netera megeboche tamasaasaaye naachawe",
-    "wer": 0.35714285714285715
+    "wer": 0.35714285714285715,
+    "cer": 0.08695652173913043
   },
   {
     "sample": 66,
     "transcription": "ትኩረትን መስተት መንፈሳ ዊነት ማጎርበት በጥሞና ዘለግ ላለ ሰዓት መቆዕየት እና ራስ ማሸሻል ናው የላሉ በመጻፋቸው",
     "romanized": "tekuratene masetate manefasaa winate maagorebate batemonaa zalage laala saaate maqoeyate enaa raase maashashaale naawe yalaalu bamatsaafaachawe",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.1506849315068493
   },
   {
     "sample": 67,
     "transcription": "አንድ ሳንቡሳ በአማከኝ 2ለ00 ሃምሳ ካሮሊን አለው",
     "romanized": "anede saanebusaa baamaakanye 2la00 haamesaa kaaroline alawe",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.36363636363636365
   },
   {
     "sample": 68,
     "transcription": "አራት ዓምጥ ከትምህርት ቤት ዕርቀው የቆይ ወደ ትምህርት ቤት መመለስ ይፈልጋሉ",
     "romanized": "araate aamete katemeherete beete ereqawe yaqoye wada temeherete beete mamalase yefalegaalu",
-    "wer": 0.45454545454545453
+    "wer": 0.45454545454545453,
+    "cer": 0.13043478260869565
   },
   {
     "sample": 69,
     "transcription": "በቢሾፍቱ አዲስ የኢንዱስትሪ ፓርክ ለመገንባት የሚያስችረውን ስምምነት ከኢትዮጵያ ኢንቨስትመንት ኮሚሽን ጋር ተፈራርሟል",
     "romanized": "babishofetu adise yaineduseteri paareke lamaganebaate yamiyaasecherawene sememenate kaiteyopheyaa inevasetemanete komishene gaare tafaraaremwale",
-    "wer": 0.08333333333333333
+    "wer": 0.08333333333333333,
+    "cer": 0.013513513513513514
   },
   {
     "sample": 70,
     "transcription": "የኢትዮጵያችን ትንሳኤ እንደሚሳካ ምንም ጥርጥር የለው",
     "romanized": "yaiteyopheyaachene tenesaaee enedamisaakaa meneme teretere yalawe",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.058823529411764705
   },
   {
     "sample": 71,
     "transcription": "ከአሁን በኋላ ከቤተ መንግሥት የርቃችሁ ሀትሞሩም",
     "romanized": "kaahune baxwaalaa kabeeta manegesete yareqaachehu hatemorume",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.1724137931034483
   },
   {
     "sample": 72,
     "transcription": "ይህ ነው ከሚባል ስምምነት ላይ ያልደረሱም",
     "romanized": "yehe nawe kamibaale sememenate laaye yaaledarasume",
-    "wer": 0.16666666666666666
+    "wer": 0.16666666666666666,
+    "cer": 0.038461538461538464
   },
   {
     "sample": 73,
     "transcription": "በመጽሐፍ ቅዱስ መሠረት የሮማ ወታደሮች ከኢየሱስ ጋር አብረው የተሰቀሩት ሁለት ወንጀሎችን እግር ሰብረዋል",
     "romanized": "bamatsehhafe qeduse masarate yaromaa wataadaroche kaiyasuse gaare aberawe yatasaqarute hulate wanejalochene egere saberawaale",
-    "wer": 0.07692307692307693
+    "wer": 0.07692307692307693,
+    "cer": 0.015151515151515152
   },
   {
     "sample": 74,
     "transcription": "ውቅእና ከተሰጣቸው የዓይማኖት መሪዎች ውጪ ያሉ እምነቶች የምራባውያና ጅንዳመስፈጽሚያናቸው ይላሉ",
     "romanized": "weqeenaa katasataachawe yaaayemaanote mariwoche wechi yaalu emenatoche yameraabaaweyaanaa jenedaamasefatsemiyaanaachawe yelaalu",
-    "wer": 0.6363636363636364
+    "wer": 0.6363636363636364,
+    "cer": 0.288135593220339
   },
   {
     "sample": 75,
     "transcription": "አስክሬናቸው በሆስፒታል እንደሚገኝ ለደህንነታቸው ሲባል ስማቸውን ይምን ጠቅሳቸው ምንጮች ተናግረዋል",
     "romanized": "asekereenaachawe bahosepitaale enedamiganye ladahenenataachawe sibaale semaachawene yemene taqesaachawe menechoche tanaagerawaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.04918032786885246
   },
   {
     "sample": 76,
     "transcription": "ለትውልድ አራያ የሚሆን ቤተ ክነት እንዲኖወር ለማድረግ አሠራሯን በጥናት ተሻሽሎ ቤተ ክርስቲያናዋ ለትውልድ ማሻገር",
     "romanized": "latewelede araayaa yamihone beeta kenate enedinoware lamaaderage asaraarwane batenaate tashaashelo beeta keresetiyaanaawaa latewelede maashaagare",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.1095890410958904
   },
   {
     "sample": 77,
     "transcription": "የእርሻውን በሬ ሥራውኑን በሰላን ከመስራት ይልቅ በቀንዱ ይወጋቸው",
     "romanized": "yaereshaawene baree seraawenune basalaane kamaseraate yeleqe baqanedu yewagaachawe",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.15
   },
   {
     "sample": 78,
     "transcription": "በጀርመናዊው ጸሐፊ ኢዩብሉዶልፍ እና ኢትዮጵያዊ አባጎርጎሪውስትብብር የተደረሰ ያማረኛ መዝገበቅ አላት ነው",
     "romanized": "bajaremanaawiwe tsahhafi iyubeludolefe enaa iteyopheyaawi abaagoregoriwesetebebere yatadarasa yaamaaranyaa mazegabaqe alaate nawe",
-    "wer": 0.6428571428571429
+    "wer": 0.6428571428571429,
+    "cer": 0.18571428571428572
   },
   {
     "sample": 79,
     "transcription": "እርሱም ወላጆችሽ እነማናቸው ብሎ ሲጠይቀት እርሷም እኔ የማውቃት እናቴኝ ብቻ ነው",
     "romanized": "eresume walaajocheshe enamaanaachawe belo sitayeqate ereswame enee yamaaweqaate enaateenye bechaa nawe",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.07547169811320754
   },
   {
     "sample": 80,
     "transcription": "ከዚያም ወደ ቤቶ አወስዳው ከተራራ ላይ የሚዘራው ንዘር ሰጠችው",
     "romanized": "kaziyaame wada beeto awasedaawe kataraaraa laaye yamizaraawe nezare satachewe",
-    "wer": 0.4444444444444444
+    "wer": 0.4444444444444444,
+    "cer": 0.10526315789473684
   },
   {
     "sample": 81,
     "transcription": "በ6ል0ዎቹ ውድሜ የ ውስጥ የሚገኙኑት ፓስተር ተስፋኤ ባለተዳርና ያንድልጃሀባት ነበሩ",
     "romanized": "ba6le0wochu wedemee ya wesete yamiganyunute paasetare tasefaaee baalatadaarenaa yaanedelejaahabaate nabaru",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.2777777777777778
   },
   {
     "sample": 82,
     "transcription": "ተፈረደባቸው እና ዝብጥ ያወረዱ",
     "romanized": "tafaradabaachawe enaa zebete yaawaradu",
-    "wer": 1.3333333333333333
+    "wer": 1.3333333333333333,
+    "cer": 0.29411764705882354
   },
   {
     "sample": 83,
     "transcription": "ቤተዘምሮቹ አና ወዳጆቹ አሲገደሉ ግን ማሽወቷ አብረው መወተ ባለሆነት ወረሳት",
     "romanized": "beetazamerochu anaa wadaajochu asigadalu gene maashewatwa aberawe mawata baalahonate warasaate",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.4
   },
   {
     "sample": 84,
     "transcription": "አሜሪካ በስተትነ የስት የፈረንጆች ሲሆን ከእስር ለማስፈታትን በርቀታጥረተት እየተደረጉ ነው",
     "romanized": "ameerikaa basetatena yasete yafaranejoche sihone kaesere lamaasefataatene bareqataateratate eyatadaragu nawe",
-    "wer": 0.6153846153846154
+    "wer": 0.6153846153846154,
+    "cer": 0.24242424242424243
   },
   {
     "sample": 85,
     "transcription": "ስፔን ስድስት አውሮፕላኖች ወደ ጅቡት የመላኳን አስታውቃለች",
     "romanized": "sepeene sedesete aweropelaanoche wada jebute yamalaakwaane asetaaweqaalache",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.08333333333333333
   },
   {
     "sample": 86,
     "transcription": "ትዊተር ከትላንት ጀምሮ በሺዎች የሚቆጠሪ ተዋጅ ስዎችን ሰማይ የማረጋ ገጫ ሚልክት ማንሳት ጀምረል",
     "romanized": "tewitare katelaanete jamero bashiwoche yamiqotari tawaaje sewochene samaaye yamaaragaa gachaa milekete maanesaate jamerale",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 87,
     "transcription": "አሜሪካዊው ጋዜጠኛ ኢቫን ጌርሾኮቪች የእስሩን ሁኔታ ይግባኝ ለማለት ሞስኩ በሚገኙ ፍርድ ቤት ቀረበ",
     "romanized": "ameerikaawiwe gaazeetanyaa ivaane geereshokoviche yaeserune huneetaa yegebaanye lamaalate moseku bamiganyu ferede beete qaraba",
-    "wer": 0.23076923076923078
+    "wer": 0.23076923076923078,
+    "cer": 0.06349206349206349
   },
   {
     "sample": 88,
     "transcription": "በኬንያ ራሳቸውን አስርበው ሲጸሉ የሞቱናቸው የተባሉ የያንድ ሰዎች አስክሬትን ተገኘ",
     "romanized": "bakeeneyaa raasaachawene aserebawe sitsalu yamotunaachawe yatabaalu yayaanede sawoche asekereetene taganya",
-    "wer": 0.5833333333333334
+    "wer": 0.5833333333333334,
+    "cer": 0.15789473684210525
   },
   {
     "sample": 89,
     "transcription": "የባለፉ ዓመት የለንድን መራትሆን ውድድር አሸናፊዋ ያዓለም ዘርፍ የኋላው ክብሯን ለማስጠበቅ ትሮጣለች",
     "romanized": "yabaalafu aamate yalanedene maraatehone wededere ashanaafiwaa yaaaalame zarefe yaxwaalaawe keberwane lamaasetabaqe terotaalache",
-    "wer": 0.36363636363636365
+    "wer": 0.36363636363636365,
+    "cer": 0.11475409836065574
   },
   {
     "sample": 90,
     "transcription": "ጸብ በሰው ልጆች ስተት ምክንያት የመጣ ነው",
     "romanized": "tsabe basawe lejoche setate mekeneyaate yamataa nawe",
-    "wer": 0.14285714285714285
+    "wer": 0.14285714285714285,
+    "cer": 0.03571428571428571
   },
   {
     "sample": 91,
     "transcription": "ናሙና ተወስዶ ምርመራ እንደሚደረግ ዘስታንዳርዱ የተባለው የኬንያ ጋዜጣ ዘግቧል",
     "romanized": "naamunaa tawasedo meremaraa enedamidarage zasetaanedaaredu yatabaalawe yakeeneyaa gaazeetaa zagebwale",
-    "wer": 0.1111111111111111
+    "wer": 0.1111111111111111,
+    "cer": 0.02040816326530612
   },
   {
     "sample": 92,
     "transcription": "የመጀመሪያው ምክር በእጅህ ያለውን ነገር አትልቀቅ",
     "romanized": "yamajamariyaawe mekere baejehe yaalawene nagare ateleqaqe",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 93,
     "transcription": "ጄኔራል ቡረሃን የረጅም ዘመን ወታደር ናቸው",
     "romanized": "jeeneeraale burahaane yarajeme zamane wataadare naachawe",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.07407407407407407
   },
   {
     "sample": 94,
     "transcription": "በዚህም ግብፅ 66 በመቶ የውሃ ድርሻ ሲኖራት 202 በመ0 ደግሞ የሱዳን ነው",
     "romanized": "baziheme gebetze 66 bamato yawehaa dereshaa sinoraate 202 bama0 dagemo yasudaane nawe",
-    "wer": 0.35714285714285715
+    "wer": 0.35714285714285715,
+    "cer": 0.2631578947368421
   },
   {
     "sample": 95,
     "transcription": "በአሁኑ ወቅት የሁለተኛ ደረጃ ትምህርት ቤት እያለች በአቋቋመቹ ፕሮዳክሽን ኩባንያየሰራች ነው",
     "romanized": "baahunu waqete yahulatanyaa darajaa temeherete beete eyaalache baaqwaaqwaamachu perodaakeshene kubaaneyaayasaraache nawe",
-    "wer": 0.25
+    "wer": 0.25,
+    "cer": 0.1
   },
   {
     "sample": 96,
     "transcription": "እንደማትቀበል በተረጋጋ ሚስትገልዝ ቆይታለች",
     "romanized": "enedamaateqabale bataragaagaa misetegaleze qoyetaalache",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.14814814814814814
   },
   {
     "sample": 97,
     "transcription": "እናቶ አፈንጃምካኝ ወይም በሀገሬው ቋንቋ እንድትሆን ያደረጋትን ምክንያት ወደፊት እንደምትረዳ ሄለና ሙሉምነት አላት",
     "romanized": "enaato afanejaamekaanye wayeme bahagareewe qwaaneqwaa enedetehone yaadaragaatene mekeneyaate wadafite enedameteradaa heelanaa mulumenate alaate",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.10666666666666667
   },
   {
     "sample": 98,
     "transcription": "ይህ ብቻ በቂት ላልሆነ ለምን አንድ ቀን አብረን አናድርም",
     "romanized": "yehe bechaa baqite laalehona lamene anede qane aberane anaadereme",
-    "wer": 0.2222222222222222
+    "wer": 0.2222222222222222,
+    "cer": 0.05555555555555555
   },
   {
     "sample": 99,
     "transcription": "በተለይ በተለይ እንደይሁዳ ሀገርን በሽሩሾራፊ ሳንቲክ ለመሸጤ የማያመነቱ ሰዎችን ይዘን ግዟችን ቀለል አይሆንም",
     "romanized": "batalaye batalaye enedayehudaa hagarene basherushoraafi saanetike lamashatee yamaayaamanatu sawochene yezane gezwachene qalale ayehoneme",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.1
   },
   {
     "sample": 100,
     "transcription": "ልብ ልቱል የሚገበው የሚቀርቡ ምግቦችን በሙሉ መብላት እንደሌለባቹ ነው ይላሉ ባለሙያዎቹ",
     "romanized": "lebe letule yamigabawe yamiqarebu megebochene bamulu mabelaate enedaleelabaachu nawe yelaalu baalamuyaawochu",
-    "wer": 0.2727272727272727
+    "wer": 0.2727272727272727,
+    "cer": 0.08928571428571429
   },
   {
     "sample": 101,
     "transcription": "በድረጋገሚ ይጣሰነው ካለ በኋላ ከሕግ ሕግባብ ውጪ የታስሩ ወጤኖች እንዲፈቱ በመግለጫው ጠይቋል",
     "romanized": "baderagaagami yetaasanawe kaala baxwaalaa kahhege hhegebaabe wechi yataaseru wateenoche enedifatu bamagelachaawe tayeqwaale",
-    "wer": 0.46153846153846156
+    "wer": 0.46153846153846156,
+    "cer": 0.20634920634920634
   },
   {
     "sample": 102,
     "transcription": "ዝርዝር መረጃዎችን መሙላት የሚጠበቅባቸው ሲሆን ከዚያም የሴቶች ጤና ዶክተር ተስማሚ ተሰትፊዎችን መረጡ",
     "romanized": "zerezere marajaawochene mamulaate yamitabaqebaachawe sihone kaziyaame yaseetoche teenaa doketare tasemaami tasatefiwochene maratu",
-    "wer": 0.08333333333333333
+    "wer": 0.08333333333333333,
+    "cer": 0.03125
   },
   {
     "sample": 103,
     "transcription": "እያለ ፊለመን በለእሊቱጣት ላይ የወርቁን ቀለበታየው",
     "romanized": "eyaala filamane balaelitutaate laaye yawarequne qalabataayawe",
-    "wer": 0.625
+    "wer": 0.625,
+    "cer": 0.25
   },
   {
     "sample": 104,
     "transcription": "ባልንጀራቸው ቾይ ይባላሉ",
     "romanized": "baalenejaraachawe choye yebaalaalu",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 105,
     "transcription": "በአዲስ ሰበባ በሽብር እና ሕገ መንግስታዊ ሥርዓቱን በኃይል ለመናድን አሲረዋል በሚል በሽብር ወንጀልክስ ቀርቦባቸዋል",
     "romanized": "baadise sababaa bashebere enaa hhega manegesetaawi sereaatune baxaayele lamanaadene asirawaale bamile bashebere wanejalekese qarebobaachawaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.0547945205479452
   },
   {
     "sample": 106,
     "transcription": "አክለውን በፌዴራል መንግስቱእና በህዋት መካከል የተደረሰው ስምምነት ያላንዳሽ ማመንታት መተክበር ይኖውበት አልብለዋል",
     "romanized": "akelawene bafeedeeraale manegesetuenaa bahewaate makaakale yatadarasawe sememenate yaalaanedaashe maamanetaate matakebare yenowebate alebelawaale",
-    "wer": 0.7142857142857143
+    "wer": 0.7142857142857143,
+    "cer": 0.21052631578947367
   },
   {
     "sample": 107,
     "transcription": "ይመn አቡ ጋርጋ በተባለች ዜጊያ እስከፉ ሁለ ልጆቻ ቢመዘግቡም እስከሁምን ምላሽ እንዳተሰተ ተናግራለች",
     "romanized": "yeman abu gaaregaa batabaalache zeegiyaa esekafu hula lejochaa bimazagebume esekahumene melaashe enedaatasata tanaageraalache",
-    "wer": 0.7142857142857143
+    "wer": 0.7142857142857143,
+    "cer": 0.26865671641791045
   },
   {
     "sample": 108,
     "transcription": "ክፉ ለራሱም አንድ አይነህን አውጣና ምግብ ሰጥሃለው አለው",
     "romanized": "kefu laraasume anede ayenahene awetaanaa megebe satehaalawe alawe",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.08333333333333333
   },
   {
     "sample": 109,
     "transcription": "የግድቡን ግንባታ ከሚያከናውኑ ሥራ ተኳራጮች መካከል የጣሊያኑ ሳሌኒ ይጠቀሳል",
     "romanized": "yagedebune genebaataa kamiyaakanaawenu seraa takwaaraachoche makaakale yataaliyaanu saaleeni yetaqasaale",
-    "wer": 0.2222222222222222
+    "wer": 0.2222222222222222,
+    "cer": 0.041666666666666664
   },
   {
     "sample": 110,
     "transcription": "ዲ አጎቴ የተባለዊ የጀርመን መጽሄት የፊርግጽላሽ የሃንሳ አራት አመንቱን ስፖተኛ ኮጡ አትሟል",
     "romanized": "di agotee yatabaalawi yajaremane matseheete yafiregetselaashe yahaanesaa araate amanetune sepotanyaa kotu atemwale",
-    "wer": 0.7857142857142857
+    "wer": 0.7857142857142857,
+    "cer": 0.29508196721311475
   },
   {
     "sample": 111,
     "transcription": "በተከታታ44 ጥጫዋታዎች የተሸነፈ ቡድን እንዴት ሆኖ ከሜዳ ውጭ የበርተን ናሸነፍች አለ",
     "romanized": "batakataataa44 techaawaataawoche yatashanafa budene enedeete hono kameedaa weche yabaretane naashanafeche ala",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.2631578947368421
   },
   {
     "sample": 112,
     "transcription": "በመዲነዋ ከፍሰየ የተኩሰ ናይፍዳካድምስ ዜየተሰማ ነው",
     "romanized": "bamadinawaa kafesaya yatakusa naayefedaakaademese zeeyatasamaa nawe",
-    "wer": 0.875
+    "wer": 0.875,
+    "cer": 0.3055555555555556
   },
   {
     "sample": 113,
     "transcription": "እንዲሁም ኬናዊቱ አትሌት ፓይሬት ጄፕጅይትር ሦስተኛ ደረጃ ወታለች",
     "romanized": "enedihume keenaawitu ateleete paayereete jeepejeyetere sosetanyaa darajaa wataalache",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.23809523809523808
   },
   {
     "sample": 114,
     "transcription": "ሽማግሌዎቹም ሰላም ለማውረርተዋያዩ",
     "romanized": "shemaageleewochume salaame lamaaweraretawaayaayu",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.18181818181818182
   },
   {
     "sample": 115,
     "transcription": "ሆኖም ሲትያ በሴት የተመሰለች የሰይጣ ልጅ ነበረች",
     "romanized": "honome siteyaa baseete yatamasalache yasayetaa leje nabarache",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.12121212121212122
   },
   {
     "sample": 116,
     "transcription": "በመጨረሻ ምናህ ሀፊስ ይህን ይላሉ",
     "romanized": "bamacharashaa menaahe hafise yehene yelaalu",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.2857142857142857
   },
   {
     "sample": 117,
     "transcription": "በጡንቺ ሀፍታች ውጤቶች ምክንያት እንደሆነ ገምታለው ትላለች",
     "romanized": "batunechi hafetaache weteetoche mekeneyaate enedahona gametaalawe telaalache",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.10526315789473684
   },
   {
     "sample": 118,
     "transcription": "ባለፉ ስድስት ወራስ ብቻ ሁለት ቢሊዮን ዶላር የውጭ ይቀጥተ ኢንቨስትመንት መሳብ መቻሉንም ተመልክቷች",
     "romanized": "baalafu sedesete waraase bechaa hulate biliyone dolaare yaweche yeqateta inevasetemanete masaabe machaaluneme tamaleketwache",
-    "wer": 0.46153846153846156
+    "wer": 0.46153846153846156,
+    "cer": 0.12903225806451613
   },
   {
     "sample": 119,
     "transcription": "የህዳሴው ግድብ ግን ባታ ምንም አይነት የደንነት ሥጋት በሱዳንና በግብፅ ላይ እንደማያስገትል ለምክር ቤቱ አስርድታለች",
     "romanized": "yahedaaseewe gedebe gene baataa meneme ayenate yadanenate segaate basudaanenaa bagebetze laaye enedamaayaasegatele lamekere beetu aseredetaalache",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.0945945945945946
   },
   {
     "sample": 120,
     "transcription": "በጋር መመግብ በስነልብና ደረጃ መልካም ስሜት አለው",
     "romanized": "bagaare mamagebe basenalebenaa darajaa malekaame semeete alawe",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.15151515151515152
   },
   {
     "sample": 121,
     "transcription": "በተደረገው ውይት ጥያቄዎቹ ሙሉ በሙሉ ሙላሽ እንደሚያገኝ እና ሰልፉን መራዘሙን ገልፃ ነበር",
     "romanized": "batadaragawe weyete teyaaqeewochu mulu bamulu mulaashe enedamiyaaganye enaa salefune maraazamune galetzaa nabare",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.10344827586206896
   },
   {
     "sample": 122,
     "transcription": "የዓለም መፀ ሀፍት ቀን እናስመልክቶ የቀረበ",
     "romanized": "yaaalame matza hafete qane enaasemaleketo yaqaraba",
-    "wer": 0.8
+    "wer": 0.8,
+    "cer": 0.23076923076923078
   },
   {
     "sample": 123,
     "transcription": "የስሜን ኢትዮኪየን የእርስበርስጦርነት የክፋጨፈት የመንገደ አፍሪካ የራሷ ችግር በራሷ መሰት እንደምት ስማሳየ ለው",
     "romanized": "yasemeene iteyokiyane yaeresebaresetorenate yakefaachafate yamanegada aferikaa yaraaswa chegere baraaswa masate enedamete semaasaaya lawe",
-    "wer": 0.8
+    "wer": 0.8,
+    "cer": 0.24
   },
   {
     "sample": 124,
     "transcription": "ይበልጥ የሚያቆራኙ ብለውም ከሌላው እንዲለዩ ከሚያረጓቸው እውነታዎች ሆነው እናገኛቸዋለነውያሉት",
     "romanized": "yebalete yamiyaaqoraanyu belaweme kaleelaawe enedilayu kamiyaaragwaachawe ewenataawoche honawe enaaganyaachawaalanaweyaalute",
-    "wer": 0.36363636363636365
+    "wer": 0.36363636363636365,
+    "cer": 0.06451612903225806
   },
   {
     "sample": 125,
     "transcription": "በደረሰቢ ነገር ሁላ አዝነዋል የሚላው ከቃለ ምንልሱ አንዱ መስመር ነው",
     "romanized": "badarasabi nagare hulaa azenawaale yamilaawe kaqaala menelesu anedu masemare nawe",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.08888888888888889
   },
   {
     "sample": 126,
     "transcription": "እርሱም ጉዞውን ቀጥሎ አንድ ህል የሚያጭድ ሰው ዘንድ ደረሰ",
     "romanized": "eresume guzowene qatelo anede hele yamiyaachede sawe zanede darasa",
-    "wer": 0.1111111111111111
+    "wer": 0.1111111111111111,
+    "cer": 0.02631578947368421
   },
   {
     "sample": 127,
     "transcription": "የሩዋንዳ ልቂት ተጠናቀውም ሙዜይም ተሰርቶ ወለታል",
     "romanized": "yaruwaanedaa leqite tatanaaqaweme muzeeyeme tasareto walataale",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.27586206896551724
   },
   {
     "sample": 128,
     "transcription": "አባ ጎርጎሪዎስ ስለ ቅዱስት ማሪያም የደረሱትን ምስጋና ግጥሞች እና የለተለትነገግሮች መዝግብ ይገኛል",
     "romanized": "abaa goregoriwose sela qedusete maariyaame yadarasutene mesegaanaa getemoche enaa yalatalatenagageroche mazegebe yeganyaale",
-    "wer": 0.5833333333333334
+    "wer": 0.5833333333333334,
+    "cer": 0.15873015873015872
   },
   {
     "sample": 129,
     "transcription": "ምንም አስራጅ ይላቸውም",
     "romanized": "meneme aseraaje yelaachaweme",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.2857142857142857
   },
   {
     "sample": 130,
     "transcription": "ሼቪልድ ወደ ፕሪሚየር ሊጉ ለመመለዝ ከጫፍ ደርሷል",
     "romanized": "sheevilede wada perimiyare ligu lamamalaze kachaafe dareswale",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.06451612903225806
   },
   {
     "sample": 131,
     "transcription": "በዘጋቢነት ሲሠራ የነበረው ኢቫን የካትሪንበርግ በተባለሽ ከተማ በቁጥጥር ሥር ከዋለ በኋላ በስለላ ወንጀል ተከፏል",
     "romanized": "bazagaabinate sisaraa yanabarawe ivaane yakaaterinebarege batabaalashe katamaa baqutetere sere kawaala baxwaalaa baselalaa wanejale takafwale",
-    "wer": 0.35714285714285715
+    "wer": 0.35714285714285715,
+    "cer": 0.07042253521126761
   },
   {
     "sample": 132,
     "transcription": "slቤተlያይምግባቀረብለት",
     "romanized": "slbeetalyaayemegebaaqarabelate",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.6
   },
   {
     "sample": 133,
     "transcription": "ግድቡት ሲጠናቀቅ እስከ 6ሺ 40050 ሜጋዋት ማመንጨት ይችላል ተብሏል",
     "romanized": "gedebute sitanaaqaqe eseka 6shi 40050 meegaawaate maamanechate yechelaale tabelwale",
-    "wer": 0.5833333333333334
+    "wer": 0.5833333333333334,
+    "cer": 0.3076923076923077
   },
   {
     "sample": 134,
     "transcription": "ካሕክም እና መሣራይ የልቅ አዲስ ፋሽን ትሸርትም እንዲመስል እንዳአቀዱ ታትረዳለች",
     "romanized": "kaahhekeme enaa masaaraaye yaleqe adise faashene teshareteme enedimasele enedaaaqadu taateradaalache",
-    "wer": 0.7777777777777778
+    "wer": 0.7777777777777778,
+    "cer": 0.24489795918367346
   },
   {
     "sample": 135,
     "transcription": "ቴምዲዙ ይታቸውን ለተጠነኛ ዓመታቸው በእስጦታ የገዛችላቸው ነጭ ፓላዞ የተተኘው ሱሪ በአሁን ወቅት አለመሩ ይጠጥታቸዋል",
     "romanized": "teemedizu yetaachawene latatananyaa aamataachawe baesetotaa yagazaachelaachawe nache paalaazo yatatanyawe suri baahune waqete alamaru yetatetaachawaale",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.1643835616438356
   },
   {
     "sample": 136,
     "transcription": "የእንዲህ ዓይነቱ ጦርነት ጉዳያት የግብፅቁስነው ተሎ አይሽርም",
     "romanized": "yaenedihe aayenatu torenate gudaayaate yagebetzequsenawe talo ayeshereme",
-    "wer": 0.5555555555555556
+    "wer": 0.5555555555555556,
+    "cer": 0.15
   },
   {
     "sample": 137,
     "transcription": "ዩናይትድ በኤፍኤ ዋንጫ ከብራይተን ይጫውታል",
     "romanized": "yunaayetede baeefeee waanechaa kaberaayetane yechaawetaale",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.037037037037037035
   },
   {
     "sample": 138,
     "transcription": "ጓደኛዬሄድኩላ ሆይ እኔን ለምንትሸሸኛለህ",
     "romanized": "gwaadanyaayeeheedekulaa hoye eneene lameneteshashanyaalahe",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.07692307692307693
   },
   {
     "sample": 139,
     "transcription": "አብዛኛዎቹን ወደ አዋሽ ሰባት የጦር ካምፕ መወሰዳቸውን የቤተ ክርስቲያኗ የሕግ ባለሚያዎች ለቢቢሲ ገልፀዋል",
     "romanized": "abezaanyaawochune wada awaashe sabaate yatore kaamepe mawasadaachawene yabeeta keresetiyaanwa yahhege baalamiyaawoche labibisi galetzawaale",
-    "wer": 0.23076923076923078
+    "wer": 0.23076923076923078,
+    "cer": 0.04477611940298507
   },
   {
     "sample": 140,
     "transcription": "እስከ አሁን ግልፅ አቋም የያዘች አይመስለም",
     "romanized": "eseka ahune geletze aqwaame yayaazache ayemaselame",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.25
   },
   {
     "sample": 141,
     "transcription": "ሴናቶር እንዲወጡ ከተደረጉ በኋላ ለጋዜጠኞች ምልክታቸውን አስተላልፈዋል",
     "romanized": "seenaatore enediwatu katadaragu baxwaalaa lagaazeetanyoche meleketaachawene asetalaalefawaale",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.08888888888888889
   },
   {
     "sample": 142,
     "transcription": "ከካርቱን በተጨማሪም ፍጥኖ ደረሻ ይሉ የወጣባት የደርፉ ምራባ የክልልም በጦርነቱ ከፍተኛ ተገድጧል",
     "romanized": "kakaaretune batachamaarime feteno darashaa yelu yawataabaate yadarefu meraabaa yakeleleme batorenatu kafetanyaa tagadethwale",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.23809523809523808
   },
   {
     "sample": 143,
     "transcription": "ወደ ቤት ወስዶ ተካፍሎ መብላት ማህበረሰባዊ እና ቤተሰባዊ ሁኔታ ላይ አዎንታዊ የሚናንዳለው ይጠቅሳሉ",
     "romanized": "wada beete wasedo takaafelo mabelaate maahebarasabaawi enaa beetasabaawi huneetaa laaye awonetaawi yaminaanedaalawe yetaqesaalu",
-    "wer": 0.21428571428571427
+    "wer": 0.21428571428571427,
+    "cer": 0.0625
   },
   {
     "sample": 144,
     "transcription": "በሶማሊ የክልንሲቲዞን የሰጥታ ስጋት በመኖሩ ክሬዶዋ ወደ ዥቡት የሚወስሩ አስፋልት መንገድ ተዘጋ",
     "romanized": "basomaali yakelenesitizone yasatetaa segaate bamanoru kereedowaa wada zhebute yamiwaseru asefaalete manegade tazagaa",
-    "wer": 0.6428571428571429
+    "wer": 0.6428571428571429,
+    "cer": 0.2222222222222222
   },
   {
     "sample": 145,
     "transcription": "በዚህ ጊዜ ውሸታሙ ሰውሃውስጥ ወርውሮኝ እና ልሙት አላቸው",
     "romanized": "bazihe gizee weshataamu sawehaawesete wareweronye enaa lemute alaachawe",
-    "wer": 0.4444444444444444
+    "wer": 0.4444444444444444,
+    "cer": 0.16216216216216217
   },
   {
     "sample": 146,
     "transcription": "ቅድመ ንገዝ ፀሕይ ከመውጠቷ በፊት ጾ መያዛች ሰዓት ደግሞ ሱሑር ይበላል",
     "romanized": "qedema negaze tzahheye kamawetatwa bafite tso mayaazaache saaate dagemo suhhure yebalaale",
-    "wer": 0.6363636363636364
+    "wer": 0.6363636363636364,
+    "cer": 0.1956521739130435
   },
   {
     "sample": 147,
     "transcription": "የመለእክቱን ሙኖቃል እንደሚከተለው ቀርቧል",
     "romanized": "yamalaeketune munoqaale enedamikatalawe qarebwale",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.19230769230769232
   },
   {
     "sample": 148,
     "transcription": "እረኛውም ያዳመጠ ነበር",
     "romanized": "eranyaaweme yaadaamata nabare",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.06666666666666667
   },
   {
     "sample": 149,
     "transcription": "በዚህ ዓይነት ሦስቱም የሚፈልጉትን አግኝተው በሰላም መኖር ጨመሩ",
     "romanized": "bazihe aayenate sosetume yamifalegutene agenyetawe basalaame manore chamaru",
-    "wer": 0.25
+    "wer": 0.25,
+    "cer": 0.05
   },
   {
     "sample": 150,
     "transcription": "ለመሆኑ ይህ ሰውን በመስቀል ላይ በመስቀል የሚፈጸመው የሞትቅጣት መጀና ተጀመረ",
     "romanized": "lamahonu yehe sawene bamaseqale laaye bamaseqale yamifatsamawe yamoteqetaate majanaa tajamara",
-    "wer": 0.38461538461538464
+    "wer": 0.38461538461538464,
+    "cer": 0.12727272727272726
   },
   {
     "sample": 151,
     "transcription": "በቅዳኞቹ ዘመናት አባታችን አዳም አትብ ላይ የተባለውን እጸ በለስ በልቶ የፈጣሬ እንትዛዝ ተላለፈ",
     "romanized": "baqedaanyochu zamanaate abaataachene adaame atebe laaye yatabaalawene etsa balase baleto yafataaree enetezaaze talaalafa",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.18333333333333332
   },
   {
     "sample": 152,
     "transcription": "ይህ አሳዘንግጭት ሊቆ ሚይገባል ብለዋል ፕሬዝዳንቱ",
     "romanized": "yehe asaazanegechete liqo miyegabaale belawaale pereezedaanetu",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.15625
   },
   {
     "sample": 153,
     "transcription": "ለዚህ ስኬት የተቻለንን ለማድረግ ዝግጁ መሆናችንን አረጋግጣለ ብለዋል",
     "romanized": "lazihe sekeete yatachaalanene lamaaderage zegeju mahonaachenene aragaagetaala belawaale",
-    "wer": 0.2222222222222222
+    "wer": 0.2222222222222222,
+    "cer": 0.10416666666666667
   },
   {
     "sample": 154,
     "transcription": "ሥራሁን የሚሰራው ሁል ጊዜ እየተነገረው ነው",
     "romanized": "seraahune yamisaraawe hule gizee eyatanagarawe nawe",
-    "wer": 0.8
+    "wer": 0.8,
+    "cer": 0.18518518518518517
   },
   {
     "sample": 155,
     "transcription": "ቀነኒሳ አርባ ሁለት ኪ.ሜ ርቀትን በምሮጥ ምርጡን የግልሳት አስመዝግቧል",
     "romanized": "qananisaa arebaa hulate ki.mee reqatene bamerote meretune yagelesaate asemazegebwale",
-    "wer": 0.5454545454545454
+    "wer": 0.5454545454545454,
+    "cer": 0.2
   },
   {
     "sample": 156,
     "transcription": "ወቅቱ በአውሮፓውያኑ የክረምት ወቅት አጥምት የሚሰብር ቅጽቃዜ የነበረበት እናቱ በሐዘን የተሰበሩበት ያዕለት",
     "romanized": "waqetu baaweropaaweyaanu yakeramete waqete atemete yamisabere qetseqaazee yanabarabate enaatu bahhazane yatasabarubate yaaelate",
-    "wer": 0.3076923076923077
+    "wer": 0.3076923076923077,
+    "cer": 0.04411764705882353
   },
   {
     "sample": 157,
     "transcription": "ፎቶን እያነሱ ለነበሩት የጋዜጠኞች ቡድንም ምንም አልተነገረም",
     "romanized": "fotone eyaanasu lanabarute yagaazeetanyoche budeneme meneme aletanagarame",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.07894736842105263
   },
   {
     "sample": 158,
     "transcription": "የትግራይ ሕዝብ ሰላም እንዲሰፍን እና ወደ ቅድሞ ሕይወቱ ለመመለስ እንጂ የጥይህ ድምፃ የመስማት ፈቃር ይነት እንደሌለው ተናግረዋል",
     "romanized": "yategeraaye hhezebe salaame enedisafene enaa wada qedemo hheyewatu lamamalase eneji yateyehe demetzaa yamasemaate faqaare yenate enedaleelawe tanaagerawaale",
-    "wer": 0.4666666666666667
+    "wer": 0.4666666666666667,
+    "cer": 0.14102564102564102
   },
   {
     "sample": 159,
     "transcription": "አንተም እንደ በፊቱ በየሳመንቱ ገበያው ቦታ ታገኘኛለ",
     "romanized": "anetame eneda bafitu bayasaamanetu gabayaawe botaa taaganyanyaala",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.09090909090909091
   },
   {
     "sample": 160,
     "transcription": "አሜሪካ እንግሊዝና ጃፓንን ጨምሮ በርካታየዎች አገራት ኤንባሲዎች ዜጎቻቸውን ከካርቱ ማዕላስ ወጡም",
     "romanized": "ameerikaa enegelizenaa jaapaanene chamero barekaataayawoche agaraate eenebaasiwoche zeegochaachawene kakaaretu maaelaase watume",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.15873015873015872
   },
   {
     "sample": 161,
     "transcription": "የኢዳል ፈጥር በዓል በእስልም እና ምነት ተከታዮች ዘንድ በድምቀት ተከበረ",
     "romanized": "yaidaale fatere baaale baeseleme enaa menate takataayoche zanede bademeqate takabara",
-    "wer": 0.5555555555555556
+    "wer": 0.5555555555555556,
+    "cer": 0.17391304347826086
   },
   {
     "sample": 162,
     "transcription": "በዚህ አይነት ሰውየውን በነጉሡ ጅሎት ከሰሱት",
     "romanized": "bazihe ayenate saweyawene banagusu jelote kasasute",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.14285714285714285
   },
   {
     "sample": 163,
     "transcription": "ሰሐይ ስትተልቅ ጾም ያበቃል",
     "romanized": "sahhaye setetaleqe tsome yaabaqaale",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.11764705882352941
   },
   {
     "sample": 164,
     "transcription": "ከኢኒቨርሲ አማካሪዎች እንዲሁን የሙያ አስልታኞች ጋር ተነጋገሩ",
     "romanized": "kainivaresi amaakaariwoche enedihune yamuyaa aseletaanyoche gaare tanagaagaru",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.15
   },
   {
     "sample": 165,
     "transcription": "ኢንተርኔት እንደሚዘጋ የተለያዩ ድርጅቶች ሪፖርት ማድረጋቸውን የዛሬው አምነስቲ መግለጅ አስታውሷል",
     "romanized": "inetareneete enedamizagaa yatalayaayu derejetoche riporete maaderagaachawene yazaareewe amenaseti magelaje asetaaweswale",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.03225806451612903
   },
   {
     "sample": 166,
     "transcription": "በኢትዮጵያ ውስሮስ ቤተ ክርስቲያን የተከሰተውን ችግር ለመፍታት የተላለፉ ውሳኔዎች ምንድም ናቸው",
     "romanized": "baiteyopheyaa weserose beeta keresetiyaane yatakasatawene chegere lamafetaate yatalaalafu wesaaneewoche menedeme naachawe",
-    "wer": 0.18181818181818182
+    "wer": 0.18181818181818182,
+    "cer": 0.0967741935483871
   },
   {
     "sample": 167,
     "transcription": "ለመሆሩ ከሚደልቡ ከብቶች ይልቅ ግጦሽ ላይ ተሰማብቶ ያደጉእንስሰዓትን በሥጋችው ይዘት ይመርጧቸዋል",
     "romanized": "lamahoru kamidalebu kabetoche yeleqe getoshe laaye tasamaabeto yaadaguenesesaaatene basegaachewe yezate yemarethwachawaale",
-    "wer": 0.6363636363636364
+    "wer": 0.6363636363636364,
+    "cer": 0.16393442622950818
   },
   {
     "sample": 168,
     "transcription": "የዩኬ ዜጎች በአውሮፕላን ዜጎችን ለምን ማውጣት አልተቻለም ሲሉ ቅሬታ አሰምተዋል",
     "romanized": "yayukee zeegoche baaweropelaane zeegochene lamene maawetaate aletachaalame silu qereetaa asametawaale",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 169,
     "transcription": "ልጆች ከበሉ ከወፈሩ ድንቡሽቡሽ ካሉ እርገታቸው የተሟላ የመስለናል ነገር ግን ተሳስተናል ይላሉ",
     "romanized": "lejoche kabalu kawafaru denebushebushe kaalu eregataachawe yatamwalaa yamaselanaale nagare gene tasaasetanaale yelaalu",
-    "wer": 0.16666666666666666
+    "wer": 0.16666666666666666,
+    "cer": 0.05084745762711865
   },
   {
     "sample": 170,
     "transcription": "ያለንን ጽኖ እምነት ለመግለጽ እኖዳለን ሲሉ መአጽኖዖት ሰተዋል",
     "romanized": "yaalanene tseno emenate lamagelatse enodaalane silu maatsenoote satawaale",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.24390243902439024
   },
   {
     "sample": 171,
     "transcription": "ግብፅ ከሱዳን ጦር ጋር ዕቅርበት እንዳላት ይታወቃል",
     "romanized": "gebetze kasudaane tore gaare eqerebate enedaalaate yetaawaqaale",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.06451612903225806
   },
   {
     "sample": 172,
     "transcription": "ሚሱ ውሽማ ነበራት እና ውሽማ ወደቤቷ እንዲመጣ ስለፈለገች አንድ ዘዴ ቀየሰች",
     "romanized": "misu weshemaa nabaraate enaa weshemaa wadabeetwa enedimataa selafalagache anede zadee qayasache",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.10416666666666667
   },
   {
     "sample": 173,
     "transcription": "ከለታት አንድ ቀን ደግሞ አንዲት ቆንድ ወሴት ስታለቅስ ያገኛታል",
     "romanized": "kalataate anede qane dagemo anedite qonede waseete setaalaqese yaaganyaataale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.075
   },
   {
     "sample": 174,
     "transcription": "የመሕብረሰብ አንቄዎችን ኢላማ ያደረገ እስር እና ወከባ በጅጓ አሳ አስቦኛል ብሎ ነበር",
     "romanized": "yamahheberasabe aneqeewochene ilaamaa yaadaraga esere enaa wakabaa bajegwaa asaa asebonyaale belo nabare",
-    "wer": 0.5454545454545454
+    "wer": 0.5454545454545454,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 175,
     "transcription": "ብዙዎች በነገሩ ሲሳለጉ አንዳንዱች በወሳኔው ሲያዝኑም ነበር",
     "romanized": "bezuwoche banagaru sisaalagu anedaaneduche bawasaaneewe siyaazenume nabare",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.10810810810810811
   },
   {
     "sample": 176,
     "transcription": "ለዚህ ኖከብቶች እንዲትገዛ ገንዘብ የተወለ በቪር የተጨማሪ ሁላቹን ገንዘብ እንደምታገኙ አመላክቹ ሃል አላቹ",
     "romanized": "lazihe nokabetoche eneditegazaa ganezabe yatawala bavire yatachamaari hulaachune ganezabe enedametaaganyu amalaakechu haale alaachu",
-    "wer": 0.7692307692307693
+    "wer": 0.7692307692307693,
+    "cer": 0.25
   },
   {
     "sample": 177,
     "transcription": "የቢቢሲ የሩሲያ አዘጋጅ ስቲቭ ሮዝንበርግ ኢቫን ጎበትጋቤጠኛ እና በመርህ የሚመራ ሲሉ ገልጸውታል",
     "romanized": "yabibisi yarusiyaa azagaaje setive rozenebarege ivaane gobategaabeetanyaa enaa bamarehe yamimaraa silu galetsawetaale",
-    "wer": 0.15384615384615385
+    "wer": 0.15384615384615385,
+    "cer": 0.04918032786885246
   },
   {
     "sample": 178,
     "transcription": "ለገሰ ኩሳት አዋቂ የኢትዮጵያ የግርኳስ ጥጫዋች ነው",
     "romanized": "lagasa kusaate awaaqi yaiteyopheyaa yagerekwaase techaawaache nawe",
-    "wer": 0.625
+    "wer": 0.625,
+    "cer": 0.15151515151515152
   },
   {
     "sample": 179,
     "transcription": "የዘገባው ይህ ሰባኪ በአካባቢው ሶስት መንደሮችን ናዝሬት በተለይም እና ጁዲያ ብሎ ሰይሟል",
     "romanized": "yazagabaawe yehe sabaaki baakaabaabiwe sosete manedarochene naazereete batalayeme enaa judiyaa belo sayemwale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.125
   },
   {
     "sample": 180,
     "transcription": "የቴሌቪዥኑን ነገር እና ቆየው እና ልጆች በሠራተኛ ማደጋቸው ምንድ ነው ችግሉ",
     "romanized": "yateeleevizhenune nagare enaa qoyawe enaa lejoche basaraatanyaa maadagaachawe menede nawe chegelu",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.11363636363636363
   },
   {
     "sample": 181,
     "transcription": "ልጁም ይህን ማድረግ ይችላለሁ ብሎ ቃልገባ",
     "romanized": "lejume yehene maaderage yechelaalahu belo qaalegabaa",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.10714285714285714
   },
   {
     "sample": 182,
     "transcription": "የሱዳን መንግሥት በአብዛኛው አረብ ያልሆኑትን የዳርፎር አማፀይብዶችንም ለመደምሰስ ጀን ዳዊድ ዋነኛ መሪ ነበር",
     "romanized": "yasudaane manegesete baabezaanyaawe arabe yaalehonutene yadaarefore amaatzayebedocheneme lamadamesase jane daawide waananyaa mari nabare",
-    "wer": 0.46153846153846156
+    "wer": 0.46153846153846156,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 183,
     "transcription": "በሱዳን ጉዳይ ቀተኛ ፍላጎት ያላቸው ጎረቤት ሀገራት በርካቶች ናቸው",
     "romanized": "basudaane gudaaye qatanyaa felaagote yaalaachawe gorabeete hagaraate barekaatoche naachawe",
-    "wer": 0.2222222222222222
+    "wer": 0.2222222222222222,
+    "cer": 0.046511627906976744
   },
   {
     "sample": 184,
     "transcription": "ይህን ድየህንና አድርግ ካልተባለ ምንም አይሰራም",
     "romanized": "yehene deyahenenaa aderege kaaletabaala meneme ayesaraame",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.18181818181818182
   },
   {
     "sample": 185,
     "transcription": "ካሰብንበት ግብ በፍጥነት እንደርሳለ ማለት ዘበት ነው",
     "romanized": "kaasabenebate gebe bafetenate enedaresaala maalate zabate nawe",
-    "wer": 0.14285714285714285
+    "wer": 0.14285714285714285,
+    "cer": 0.029411764705882353
   },
   {
     "sample": 186,
     "transcription": "የሱዳን የበስተሰሜን ጎረቤት ሀገር ግብፅ በካርቱም ያለውሞታድ ግጭት እና በአንክሮ የተከታተለች ነው",
     "romanized": "yasudaane yabasetasameene gorabeete hagare gebetze bakaaretume yaalawemotaade gechete enaa baanekero yatakataatalache nawe",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.18461538461538463
   },
   {
     "sample": 187,
     "transcription": "ነገር ግን ምርት ካለችው ዩኒቨርሲቲ ተቀብለ ንሻሊ የሚልድብዳቤ ሲደርሳት ሌሎቹን ውድቅ ማድረግ ነበረባት",
     "romanized": "nagare gene merete kaalachewe yunivaresiti taqabela neshaali yamiledebedaabee sidaresaate leelochune wedeqe maaderage nabarabaate",
-    "wer": 0.38461538461538464
+    "wer": 0.38461538461538464,
+    "cer": 0.09230769230769231
   },
   {
     "sample": 188,
     "transcription": "ሁለተኛው ሰው ደግሞ ሙት ነው",
     "romanized": "hulatanyaawe sawe dagemo mute nawe",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.05555555555555555
   },
   {
     "sample": 189,
     "transcription": "ናጅቭ እኔ አማካሪ አሳስቶይ ነው እንጂ ንጹነኝ ይላሉ",
     "romanized": "naajeve enee amaakaari asaasetoye nawe eneji netsunanye yelaalu",
-    "wer": 0.5555555555555556
+    "wer": 0.5555555555555556,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 190,
     "transcription": "በዚያው ዓመት ሰኔወር ላይ ኢትዮጵያ ሁለተኛውን የውሃ ሙሌት አካሂዳለች",
     "romanized": "baziyaawe aamate saneeware laaye iteyopheyaa hulatanyaawene yawehaa muleete akaahidaalache",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.022222222222222223
   },
   {
     "sample": 191,
     "transcription": "ከጉባ እስከጸጥቷው ምክር ቤት የደረሰው ታላቁ የሂዳሴ ግድብ",
     "romanized": "kagubaa esekatsatetwawe mekere beete yadarasawe taalaaqu yahidaasee gedebe",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.10526315789473684
   },
   {
     "sample": 192,
     "transcription": "ቢቢሲ ግን ይህን በገልተኛው ግን አላጣራም",
     "romanized": "bibisi gene yehene bagaletanyaawe gene alaataaraame",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.17857142857142858
   },
   {
     "sample": 193,
     "transcription": "ምንም እንኳን ከግብፅ እና ከሱዳን ተደጋጋሚ ተቃዋመው ቢነሳባትም",
     "romanized": "meneme enekwaane kagebetze enaa kasudaane tadagaagaami taqaawaamawe binasaabaateme",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.13513513513513514
   },
   {
     "sample": 194,
     "transcription": "ሄንቲ በዋንይነት የሚይሻማይ ነበሩ",
     "romanized": "heeneti bawaaneyenate yamiyeshaamaaye nabaru",
-    "wer": 0.8
+    "wer": 0.8,
+    "cer": 0.391304347826087
   },
   {
     "sample": 195,
     "transcription": "የእርሻ በሬው ሥራውን መስራት አይፈልግም",
     "romanized": "yaereshaa bareewe seraawene maseraate ayefalegeme",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.04
   },
   {
     "sample": 196,
     "transcription": "ወደ ሌሎች ድሃይ የጎረቤት ሀገረት የሄደውን በአይነኩራኛ የተተባበከ ነው",
     "romanized": "wada leeloche dehaaye yagorabeete hagarate yaheedawene baayenakuraanyaa yatatabaabaka nawe",
-    "wer": 0.8888888888888888
+    "wer": 0.8888888888888888,
+    "cer": 0.2222222222222222
   },
   {
     "sample": 197,
     "transcription": "ያላቸው ውሃ የተመናመነ በስራባልደረቧቸ ና የጎረቦቶቻ ሞታ ዘል ልቧ በተሰብረበት ሁኔታምነ ያለቸው",
     "romanized": "yaalaachawe wehaa yatamanaamana baseraabaaledarabwacha naa yagorabotochaa motaa zale lebwa batasaberabate huneetaamena yaalachawe",
-    "wer": 0.7857142857142857
+    "wer": 0.7857142857142857,
+    "cer": 0.208955223880597
   },
   {
     "sample": 198,
     "transcription": "ከሰየመ በኋላ ተክታዮች በውሃ ማቆሪያ ቦታዎች ከጠመቀ በኋላ እንዲጾሙ ነግሯቸዋል",
     "romanized": "kasayama baxwaalaa taketaayoche bawehaa maaqoriyaa botaawoche katamaqa baxwaalaa eneditsomu nagerwachawaale",
-    "wer": 0.1
+    "wer": 0.1,
+    "cer": 0.058823529411764705
   },
   {
     "sample": 199,
     "transcription": "በሁለት ግብልይነት እየመራ ሁለቱንም ጫዋታ አቻ መለየቱ በተጫዋቾቹ እና በአሰልጣኙ ላይ ጫና የሚያበረታ ነው",
     "romanized": "bahulate gebeleyenate eyamaraa hulatuneme chaawaataa achaa malayatu batachaawaachochu enaa baasaletaanyu laaye chaanaa yamiyaabarataa nawe",
-    "wer": 0.26666666666666666
+    "wer": 0.26666666666666666,
+    "cer": 0.057971014492753624
   },
   {
     "sample": 200,
     "transcription": "ብያኔ ናፍርጃ ማግለልን ወለደ",
     "romanized": "beyaanee naaferejaa maagelalene walada",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.16666666666666666
   },
   {
     "sample": 201,
     "transcription": "በጉ ፈቃደኛ አውጣቶችም ከዚህ ቀደም ሲያደርጉት እንደነበረው የማስተባበሩድሚና በመወጣት ከፍተኛ አስተዋጽብ ማበረከታቸውን የተገለጸው",
     "romanized": "bagu faqaadanyaa awetaatocheme kazihe qadame siyaadaregute enedanabarawe yamaasetabaabarudeminaa bamawataate kafetanyaa asetawaatsebe maabarakataachawene yatagalatsawe",
-    "wer": 0.5333333333333333
+    "wer": 0.5333333333333333,
+    "cer": 0.15476190476190477
   },
   {
     "sample": 202,
     "transcription": "ደስ የሚል ጊዜ ከእሷ ጋር አሳለፍኩ",
     "romanized": "dase yamile gizee kaeswa gaare asaalafeku",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 203,
     "transcription": "ኢትዮጵያ ህዳሴ ግድብን በተመለከተ የጸጥታው ምክር ቤት መወያቱን እንደማትቀበለው አስታውቃለች",
     "romanized": "iteyopheyaa hedaasee gedebene batamalakata yatsatetaawe mekere beete mawayaatune enedamaateqabalawe asetaaweqaalache",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.05084745762711865
   },
   {
     "sample": 204,
     "transcription": "መስቀል ለዘመናት የከጠለ ጭካኔን የሚያስታውስ ቢሆንም ለክርስቲያኖች ግን ኢየሱስ ለፍቅር ሲል መሥዋትነትን መጥፈሉን የሚያመለክት ነው",
     "romanized": "maseqale lazamanaate yakatala chekaaneene yamiyaasetaawese bihoneme lakeresetiyaanoche gene iyasuse lafeqere sile masewaatenatene matefalune yamiyaamalakete nawe",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.047619047619047616
   },
   {
     "sample": 205,
     "transcription": "በቅኝ ግዛት ወቅት በእንግሊዝ አደራዳሪነት በተደረገ ስምምነት ወንዙን ለመከፋ ፈልከ ስምምነት ላይ ተደርሰዋል",
     "romanized": "baqenye gezaate waqete baenegelize adaraadaarinate batadaraga sememenate wanezune lamakafaa faleka sememenate laaye tadaresawaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.07575757575757576
   },
   {
     "sample": 206,
     "transcription": "በተጨማሪም የሚኒስትሯት ከጠቅላይ የሚስትር ሀቪ የአዓመድ እና ከሶማሊያ ፕሬዝዳንት ሐሰንሼክ መህሙድ ጋር የሦስት ይሹ ውይት አደርገዋል",
     "romanized": "batachamaarime yaminiseterwate kataqelaaye yamisetere havi yaaaamade enaa kasomaaliyaa pereezedaanete hhasanesheeke mahemude gaare yasosete yeshu weyete adaregawaale",
-    "wer": 0.8666666666666667
+    "wer": 0.8666666666666667,
+    "cer": 0.25925925925925924
   },
   {
     "sample": 207,
     "transcription": "በቢሸፍቱ ከተማ የ ኢንዱስትሪ መንደር ሊገነባእንደሆነ ተገለጸ",
     "romanized": "babishafetu katamaa ya ineduseteri manedare liganabaaenedahona tagalatsa",
-    "wer": 0.7142857142857143
+    "wer": 0.7142857142857143,
+    "cer": 0.07894736842105263
   },
   {
     "sample": 208,
     "transcription": "ጃንጃዊድ በዘር ማጭዳት ጅምላ መድፈርን እንደ ጦር መሳላይ በመጠቀም ክስ ይቀርብበታል",
     "romanized": "jaanejaawide bazare maachedaate jemelaa madefarene eneda tore masaalaaye bamataqame kese yeqarebebataale",
-    "wer": 0.18181818181818182
+    "wer": 0.18181818181818182,
+    "cer": 0.05660377358490566
   },
   {
     "sample": 209,
     "transcription": "የፈርትኖች በሜዳቸው ፍልሃምን ዓለም አስቆማቸው ትልቅ የማስጠቂቅ ያደዋል ነው",
     "romanized": "yafaretenoche bameedaachawe felehaamene aalame aseqomaachawe teleqe yamaasetaqiqe yaadawaale nawe",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.2765957446808511
   },
   {
     "sample": 210,
     "transcription": "እኔ ደግሞ ከፍተኝ አደጋ ባጋጠመ ጊዜ አድነያአለም",
     "romanized": "enee dagemo kafetanye adagaa baagaatama gizee adenayaaalame",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.1935483870967742
   },
   {
     "sample": 211,
     "transcription": "አባቷም ልጅቷ በጣም ሀብታሙ ንሹን እንደታገባው እና ከበዚህም መስማማቱንነገረት",
     "romanized": "abaatwame lejetwa bataame habetaamu neshune enedataagabaawe enaa kabaziheme masemaamaatunenagarate",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.2127659574468085
   },
   {
     "sample": 212,
     "transcription": "ዋና ውቁም ነገር የተፈጠረው ጸብ እስኪወዲያኛው አራርቆ አለመቆይቱ በርቅ እና በይቅር ተመቋጭቱ ላይ ነው",
     "romanized": "waanaa wequme nagare yatafatarawe tsabe esekiwadiyaanyaawe araareqo alamaqoyetu bareqe enaa bayeqere tamaqwaachetu laaye nawe",
-    "wer": 0.6153846153846154
+    "wer": 0.6153846153846154,
+    "cer": 0.171875
   },
   {
     "sample": 213,
     "transcription": "እርሱም መንገዱን ቀጥሎ ለሦስተኛ ጊዜ አገኘው ሰው ትልቅ አለት እየገፋ ነበር",
     "romanized": "eresume manegadune qatelo lasosetanyaa gizee aganyawe sawe teleqe alate eyagafaa nabare",
-    "wer": 0.18181818181818182
+    "wer": 0.18181818181818182,
+    "cer": 0.041666666666666664
   },
   {
     "sample": 214,
     "transcription": "ሲፈናሰን በመጀመሪያ የማራቱን ተሳትፏ የሌንደን ማራቱንን ማሽንፍች አለች",
     "romanized": "sifanaasane bamajamariyaa yamaaraatune tasaatefwa yaleenedane maaraatunene maashenefeche alache",
-    "wer": 0.8888888888888888
+    "wer": 0.8888888888888888,
+    "cer": 0.2553191489361702
   },
   {
     "sample": 215,
     "transcription": "እፃናት በቤት ስረተኞች ማደጋቸው ችግሩ ምንድነው",
     "romanized": "etzaanaate babeete seratanyoche maadagaachawe chegeru menedenawe",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.1875
   },
   {
     "sample": 216,
     "transcription": "በተለይ ጾም የሚገደፈው ቤተሰብ እና አውዳጅ በተሰበሰበበት ስለሆነ ምግብ በርከትትደርቆ ይዘጋጀል",
     "romanized": "batalaye tsome yamigadafawe beetasabe enaa awedaaje batasabasababate selahona megebe barekatetedareqo yezagaajale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.1
   },
   {
     "sample": 217,
     "transcription": "ከዛ ውጭ በሆነ በማንኛውም ድብቅ አጀንዳ የተነሳሳ የጠልቃ ገብነት እንቅስቃሴ በታሪክ ሸንጎ ላይ ተጠያቂ ያደርገን",
     "romanized": "kazaa weche bahona bamaanenyaaweme debeqe ajanedaa yatanasaasaa yataleqaa gabenate eneqeseqaasee bataarike shanego laaye tatayaaqi yaadaregane",
-    "wer": 0.13333333333333333
+    "wer": 0.13333333333333333,
+    "cer": 0.04225352112676056
   },
   {
     "sample": 218,
     "transcription": "እናቶች በተለይ የመጀመሪያ ለጃቸውን ከወለዱ በኋላ በአጭር ወርት ውስጥ ወደ ሥራ እንዲመለሱ ይገደዳሉ",
     "romanized": "enaatoche batalaye yamajamariyaa lajaachawene kawaladu baxwaalaa baachere warete wesete wada seraa enedimalasu yegadadaalu",
-    "wer": 0.15384615384615385
+    "wer": 0.15384615384615385,
+    "cer": 0.031746031746031744
   },
   {
     "sample": 219,
     "transcription": "ይህንንም ካለች በኋላ ተጋብተው በሰላም ብረው መኖር ጀመሩ",
     "romanized": "yeheneneme kaalache baxwaalaa tagaabetawe basalaame berawe manore jamaru",
-    "wer": 0.125
+    "wer": 0.125,
+    "cer": 0.02702702702702703
   },
   {
     "sample": 220,
     "transcription": "ከይሩምን አይነት እርምጃ እንደምት ውስት እናያለ",
     "romanized": "kayerumene ayenate eremejaa enedamete wesete enaayaala",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.25806451612903225
   },
   {
     "sample": 221,
     "transcription": "የሌላ የእምነት ተከተይጅ በእምነታቸው ምክንያት ለእስር ለስደት ና እንደሚደረሩ ይነገረ",
     "romanized": "yaleelaa yaemenate takatayeje baemenataachawe mekeneyaate laesere lasedate naa enedamidararu yenagara",
-    "wer": 0.5555555555555556
+    "wer": 0.5555555555555556,
+    "cer": 0.14814814814814814
   },
   {
     "sample": 222,
     "transcription": "ሁለቱ ሀገራት ጉዳዩን ወደ ተባበሩት መንግሥታት የጸጠታው ምክር ቤት ወስደውትም ነበር",
     "romanized": "hulatu hagaraate gudaayune wada tabaabarute manegesetaate yatsatataawe mekere beete wasedaweteme nabare",
-    "wer": 0.2727272727272727
+    "wer": 0.2727272727272727,
+    "cer": 0.07547169811320754
   },
   {
     "sample": 223,
     "transcription": "ሰውየውም አንበሳውን ከወጥመዱ አወጣው",
     "romanized": "saweyaweme anebasaawene kawatemadu awataawe",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 224,
     "transcription": "lsኪeቱ snጦeታጋl mnstr ሆbዬhml lslm lmsltn crrmjwሳይnbr",
     "romanized": "lskietu sntoetaagaal mnstr hobyeehml lslm lmsltn crrmjwsaayenbr",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.8793103448275862
   },
   {
     "sample": 225,
     "transcription": "እንዲህ እያለም ይፈትነው ጀመር",
     "romanized": "enedihe eyaalame yefatenawe jamare",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 226,
     "transcription": "ለዚህምነ አንዳንድ መስሪያ ቤቶች እና ትምህርት ቤቶች ለሴቶች የውራበባረፍት መስጠት ይጀመሩት",
     "romanized": "lazihemena anedaanede maseriyaa beetoche enaa temeherete beetoche laseetoche yaweraababaarafete masetate yejamarute",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.15625
   },
   {
     "sample": 227,
     "transcription": "በሕይወቴ የትርጉም ያለው ሥራም ለመሥራት እፈልግ ነበር",
     "romanized": "bahheyewatee yateregume yaalawe seraame lamaseraate efalege nabare",
-    "wer": 0.14285714285714285
+    "wer": 0.14285714285714285,
+    "cer": 0.030303030303030304
   },
   {
     "sample": 228,
     "transcription": "የኢትዮፒያ ግርኮስ ፌዴሬatoን አppልe ሲሆን መቀመጫ ወንጅ ስታዴም ነው",
     "romanized": "yaiteyopiyaa gerekose feedeereeatone applee sihone maqamachaa waneje setaadeeme nawe",
-    "wer": 0.8
+    "wer": 0.8,
+    "cer": 0.30434782608695654
   },
   {
     "sample": 229,
     "transcription": "ሆኖም ጄኔራል ቡራሃን አክራሪ ሙስሊሞችን እና የቀድሞ አገዛዛመራሮችን ወደ ቀደመ ቦታቸው መመለስ ጀመሩ ሲሉም ተናግረዋል",
     "romanized": "honome jeeneeraale buraahaane akeraari muselimochene enaa yaqademo agazaazaamaraarochene wada qadama botaachawe mamalase jamaru silume tanaagerawaale",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.09333333333333334
   },
   {
     "sample": 230,
     "transcription": "በዚህ ግጭት ማሃል ሁለት ጀኔራሎች በባላንጣነት በጽንፍ ስብራ ተቀምተዋል",
     "romanized": "bazihe gechete maahaale hulate janeeraaloche babaalaanetaanate batsenefe seberaa taqametawaale",
-    "wer": 0.4444444444444444
+    "wer": 0.4444444444444444,
+    "cer": 0.08888888888888889
   },
   {
     "sample": 231,
     "transcription": "ሰዎች እስከ መ020 5ምስት እና መ0 ሰላዓሳም ሊኖሩ ይችላሉ",
     "romanized": "sawoche eseka ma020 5mesete enaa ma0 salaaaasaame linoru yechelaalu",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.18421052631578946
   },
   {
     "sample": 232,
     "transcription": "ኬልቪስ ኪፕተም ሁለት ሰዓት ከንድ ደቂጋ ከ5ሰከንድ በመግባት የዓለም ሁለተኛ ፈጣን ሰዓት አስመዝግቧል",
     "romanized": "keelevise kipetame hulate saaate kanede daqigaa ka5sakanede bamagebaate yaaalame hulatanyaa fataane saaate asemazegebwale",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.16216216216216217
   },
   {
     "sample": 233,
     "transcription": "አባይ ከዓለማችን ረዣዥ ሞንዞች በቀዳሚነት ይቀመጣል",
     "romanized": "abaaye kaaalamaachene razhaazhe monezoche baqadaaminate yeqamataale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.09090909090909091
   },
   {
     "sample": 234,
     "transcription": "በአንድ ሙrቺ ኔተ ባለ ሰሁነግጓር",
     "romanized": "baanede murchi neeta baala sahunagegwaare",
-    "wer": 0.8571428571428571
+    "wer": 0.8571428571428571,
+    "cer": 0.5517241379310345
   },
   {
     "sample": 235,
     "transcription": "ባልየው ፍቅረኛውን ሊዘር ሲሞክር ፍቅረኛው ደግሞ ለማምለጥ ሲሞክር ትግልግማ ተጀመሩ",
     "romanized": "baaleyawe feqeranyaawene lizare simokere feqeranyaawe dagemo lamaamelate simokere tegelegemaa tajamaru",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.11764705882352941
   },
   {
     "sample": 236,
     "transcription": "በርካታ ፍንደታዎች የሚወነ ጭኩ ርኬቶች እንዲሁን ፈርዕት መንገስ የሱዳን የዕለት ተዕለት መድራ ሁኔታ ከሆነ ቀናትን አስቆጠረ",
     "romanized": "barekaataa fenedataawoche yamiwana cheku rekeetoche enedihune fareete manegase yasudaane yaelate taelate maderaa huneetaa kahona qanaatene aseqotara",
-    "wer": 0.4666666666666667
+    "wer": 0.4666666666666667,
+    "cer": 0.12987012987012986
   },
   {
     "sample": 237,
     "transcription": "ሱዳን ውስጥ የሚህኖውን ነገር በአሎታዊም ሆነ በአወንታዊ ተጽኖን ሊያሳድርባቸው ይችላል",
     "romanized": "sudaane wesete yamihenowene nagare baalotaawime hona baawanetaawi tatsenone liyaasaaderebaachawe yechelaale",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.15384615384615385
   },
   {
     "sample": 238,
     "transcription": "ከዚያ ደግሞ የተቀናቃኛቸውን ስልክ አስጠልፈው ምስጢሩ በጋዜጣል አድባዊ እንዲጋለጥ አድርገዋል በሚል አንድዓመት ተፈርዶባቸዋል",
     "romanized": "kaziyaa dagemo yataqanaaqaanyaachawene seleke asetalefawe mesetiru bagaazeetaale adebaawi enedigaalate aderegawaale bamile anedeaamate tafaredobaachawaale",
-    "wer": 0.35714285714285715
+    "wer": 0.35714285714285715,
+    "cer": 0.0875
   },
   {
     "sample": 239,
     "transcription": "ዕርቅ አውራጁም እሱ ይቅርባዩም እሱ ነው",
     "romanized": "ereqe aweraajume esu yeqerebaayume esu nawe",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.038461538461538464
   },
   {
     "sample": 240,
     "transcription": "በሦስተኛው ሳጥን ውስጥ ደግሞ ወርቅ አስቀምጠው አሸገው",
     "romanized": "basosetanyaawe saatene wesete dagemo wareqe aseqametawe ashagawe",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.09090909090909091
   },
   {
     "sample": 241,
     "transcription": "የግድቡ ቁመት ከባር ጠለልበላይ 50065 ሜትር ላይ ደርሰዋል",
     "romanized": "yagedebu qumate kabaare talalebalaaye 50065 meetere laaye daresawaale",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.4
   },
   {
     "sample": 242,
     "transcription": "ስቅላትን እና ሞትን ለማምለጥ ስል ከማኖዎቹ ዘንድ አደከለ",
     "romanized": "seqelaatene enaa motene lamaamelate sele kamaanowochu zanede adakala",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.1388888888888889
   },
   {
     "sample": 243,
     "transcription": "እርምጃው ያልተገባ የፖለቲካ ተጽዕኖን ለመከላከል ከቅርባ አመታት ወድ የተጀመረው ጥረታካል ነው",
     "romanized": "eremejaawe yaaletagabaa yapolatikaa tatseenone lamakalaakale kaqerebaa amataate wade yatajamarawe terataakaale nawe",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.14516129032258066
   },
   {
     "sample": 244,
     "transcription": "እኅቷን በመግደድ ከተከሰሱት አራት የቀድሞው የደህነት ፖሊስ አባላት መካከል ሁለቱ ሕይወታችው አልፏል",
     "romanized": "exetwane bamagedade katakasasute araate yaqademowe yadahenate polise abaalaate makaakale hulatu hheyewataachewe alefwale",
-    "wer": 0.4166666666666667
+    "wer": 0.4166666666666667,
+    "cer": 0.09523809523809523
   },
   {
     "sample": 245,
     "transcription": "ከኢኮኖሚ እና ማሕበራ የሁኔታን ማንፃር ጥሬይስጋ መመገብ የራሱ ተጽኖ እንዳለ ዶክተር ካሊቢ አስረዳሉ",
     "romanized": "kaikonomi enaa maahhebaraa yahuneetaane maanetzaare tereeyesegaa mamagabe yaraasu tatseno enedaala doketare kaalibi aseradaalu",
-    "wer": 0.6428571428571429
+    "wer": 0.6428571428571429,
+    "cer": 0.2
   },
   {
     "sample": 246,
     "transcription": "ባራተኛውን ቀን ይህንኑ አደረገ",
     "romanized": "baaraatanyaawene qane yehenenu adaraga",
-    "wer": 0.25
+    "wer": 0.25,
+    "cer": 0.15
   },
   {
     "sample": 247,
     "transcription": "ባለፉውስጥ ሳምንታት ለአስቶንቪላ አነስተኛ ግምት የሰጠውትን የብቻ አይመስለኝም",
     "romanized": "baalafuwesete saamenetaate laasetonevilaa anasetanyaa gemete yasatawetene yabechaa ayemaselanyeme",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.1836734693877551
   },
   {
     "sample": 248,
     "transcription": "የቲዩተር ሰማያዊ ጭረት የግለሰቡን ትክክለኛ ማንነት ከማረጋገጥ ባለፈ እንደ ክብር እና ሞገስ መቈጠር ጀምሯል",
     "romanized": "yatiyutare samaayaawi cherate yagelasabune tekekelanyaa maanenate kamaaragaagate baalafa eneda kebere enaa mogase maqwatare jamerwale",
-    "wer": 0.3076923076923077
+    "wer": 0.3076923076923077,
+    "cer": 0.07575757575757576
   },
   {
     "sample": 249,
     "transcription": "ለምንድንነው ይህንን ያደረገው በርግጥ አትቃውሙ ብሉን ስለነበረ መካውም አንችልም",
     "romanized": "lamenedenenawe yehenene yaadaragawe baregete ateqaawemu belune selanabara makaaweme anecheleme",
-    "wer": 0.4444444444444444
+    "wer": 0.4444444444444444,
+    "cer": 0.10204081632653061
   },
   {
     "sample": 250,
     "transcription": "አሦራውያን እንዲሁን በባቢሎናውያን ዘመን በመስቀል ላይ የሚፈጸም የመውጥ ቅጣት እንደተጀመረ ዶተር ሺልዮር ያምናሉ",
     "romanized": "asoraaweyaane enedihune babaabilonaaweyaane zamane bamaseqale laaye yamifatsame yamawete qetaate enedatajamara dotare shileyore yaamenaalu",
-    "wer": 0.38461538461538464
+    "wer": 0.38461538461538464,
+    "cer": 0.11267605633802817
   },
   {
     "sample": 251,
     "transcription": "ቢዮን ሲ እና አቡነ ፍራንሲስ የትዊተር ሰማያዊ ምልክት አጡ",
     "romanized": "biyone si enaa abuna feraanesise yatewitare samaayaawi melekete atu",
-    "wer": 0.25
+    "wer": 0.25,
+    "cer": 0.05555555555555555
   },
   {
     "sample": 252,
     "transcription": "ቤተ ክርስቲያኗ ችግሩን በሃይማኖታው ይቀኖና እና ሥርዓትን በጠበቀ መልኩን እንደተፈታም ማስታወቋ  አይታወሳል",
     "romanized": "beeta keresetiyaanwa chegerune bahaayemaanotaawe yeqanonaa enaa sereaatene batabaqa malekune enedatafataame maasetaawaqwaa  ayetaawasaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.078125
   },
   {
     "sample": 253,
     "transcription": "በመስቀድ ላይ የሚፈጸመው ስቅላት የተወገዙ የተጠሉ ሰዎች ለማጋለት እና ለማዋረድ የሚደረግነው ይላሉ ፕሮፌሰር ፔሬዝ",
     "romanized": "bamaseqade laaye yamifatsamawe seqelaate yatawagazu yatatalu sawoche lamaagaalate enaa lamaawaarade yamidaragenawe yelaalu perofeesare peereeze",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.05405405405405406
   },
   {
     "sample": 254,
     "transcription": "ታማኝ የሚባሉት ውሾች እንኳን ሰው ሰውን በዚያ አመልኩ ሲጨጭፈው ሀይተው ጨከኑ",
     "romanized": "taamaanye yamibaalute weshoche enekwaane sawe sawene baziyaa amaleku sichachefawe hayetawe chakanu",
-    "wer": 0.2727272727272727
+    "wer": 0.2727272727272727,
+    "cer": 0.061224489795918366
   },
   {
     "sample": 255,
     "transcription": "የመንደሩም ሰዎች ምን እንደሚያደርጉት ግራ ገብቷቸው ነበር",
     "romanized": "yamanedarume sawoche mene enedamiyaadaregute geraa gabetwachawe nabare",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 256,
     "transcription": "አርብ ምሽት መድፈኞቹ በሜዳቸው ሳው ዛንፕተንን ያስተናግዳሉ",
     "romanized": "arebe meshete madefanyochu bameedaachawe saawe zaanepetanene yaasetanaagedaalu",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.13513513513513514
   },
   {
     "sample": 257,
     "transcription": "ከተማ የማያቋሩጥ የፈንዳታ ድምጥ በብርሃን ሲሞላትም የህይወት ንቅስካሴች ቀጥለ",
     "romanized": "katamaa yamaayaaqwaarute yafanedaataa demete baberehaane simolaateme yaheyewate neqesekaaseeche qatela",
-    "wer": 0.7777777777777778
+    "wer": 0.7777777777777778,
+    "cer": 0.18518518518518517
   },
   {
     "sample": 258,
     "transcription": "ታፍነው እየታሰሩ እና መእገናኛ ብዙን ተቋማት ያለ ፍርክ ቤትዛዝብ ብርበራይ እየተካሄደባቸው ነው አለ",
     "romanized": "taafenawe eyataasaru enaa maeganaanyaa bezune taqwaamaate yaala fereke beetezaazebe berebaraaye eyatakaaheedabaachawe nawe ala",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.13846153846153847
   },
   {
     "sample": 259,
     "transcription": "በጋራ ከስምምነሳይ ለመድረስ ለአገራቱ ረሰ ብ ሔራን ጉዳዩን ሊቀርቡ ይችላሉ",
     "romanized": "bagaaraa kasememenasaaye lamaderase laagaraatu rasa be hheeraane gudaayune liqarebu yechelaalu",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.14
   },
   {
     "sample": 260,
     "transcription": "በዚህ ጊዜም ሰው የውን ምን እያደረክነው አለው",
     "romanized": "bazihe gizeeme sawe yawene mene eyaadarakenawe alawe",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.06896551724137931
   },
   {
     "sample": 261,
     "transcription": "በሱዳን መዲና ካርቱም እንዲሁን በሌሎች በርካታ የአገሪቱ ክፍሎች የሚኖሩ የሚሊዮኖች ሕይወት አደጋ ላይ ወድቋል",
     "romanized": "basudaane madinaa kaaretume enedihune baleeloche barekaataa yaagaritu kefeloche yaminoru yamiliyonoche hheyewate adagaa laaye wadeqwaale",
-    "wer": 0.14285714285714285
+    "wer": 0.14285714285714285,
+    "cer": 0.028985507246376812
   },
   {
     "sample": 262,
     "transcription": "ሁለተኛው ሰው ደግሞ በከፊል እምነት ያለው ነው",
     "romanized": "hulatanyaawe sawe dagemo bakafile emenate yaalawe nawe",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 263,
     "transcription": "የክራዶክ አራት ቤተሰዎች ከ3ሳ 8ምንት ዓመታት በኋላ ገዳዮቹን ለፍርድ ለማቅረብ እና ፍትህን ለማግኘት እየተጠባበቁ ነው",
     "romanized": "yakeraadoke araate beetasawoche ka3saa 8menete aamataate baxwaalaa gadaayochune laferede lamaaqerabe enaa fetehene lamaagenyate eyatatabaabaqu nawe",
-    "wer": 0.26666666666666666
+    "wer": 0.26666666666666666,
+    "cer": 0.06578947368421052
   },
   {
     "sample": 264,
     "transcription": "አሁን ወደቤት ባትመለሺህ ነው የሚሻያለች",
     "romanized": "ahune wadabeete baatemalashihe nawe yamishaayaalache",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.17391304347826086
   },
   {
     "sample": 265,
     "transcription": "ወደ ፌዴራል እና ክልል የጸጥታ ኃይል ውስጥ በማካተት መልሶ ለመዋጋር ምክንያት መሆኑን የታማዦች ሽሙ ገጸዋል",
     "romanized": "wada feedeeraale enaa kelele yatsatetaa xaayele wesete bamaakaatate maleso lamawaagaare mekeneyaate mahonune yataamaazhoche shemu gatsawaale",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.11594202898550725
   },
   {
     "sample": 266,
     "transcription": "በመደበኛው ጦር እና በፈጽሮ ደራሽ ኃይል መካከል ያለው ውጥረት እየጨመረ መጣ",
     "romanized": "bamadabanyaawe tore enaa bafatsero daraashe xaayele makaakale yaalawe weterate eyachamara mataa",
-    "wer": 0.18181818181818182
+    "wer": 0.18181818181818182,
+    "cer": 0.041666666666666664
   },
   {
     "sample": 267,
     "transcription": "በአባየተፋሰሱ ውስጥ አ0ር አገራት አለምለ",
     "romanized": "baabaayatafaasasu wesete a0re agaraate alamela",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.28
   },
   {
     "sample": 268,
     "transcription": "ከሀገር ክህደት ከወታደራዊ አመፅ ከሽብርተኝነት እና ደመፋሰ ስን አስከተለ አንዳንድ ወንጀሎች ጋር የተያዘ ነው",
     "romanized": "kahagare kehedate kawataadaraawi amatze kasheberetanyenate enaa damafaasa sene asekatala anedaanede wanejaloche gaare yatayaaza nawe",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.09859154929577464
   },
   {
     "sample": 269,
     "transcription": "የዩክራይም ምርማሪዎቹ የኦርቶዶክስ ቤተ ክርስቲያን መሪው የሩሲ አደጋፊ ናቸው በማለት የኬቭ መኖሪያ ቤታቸውን በረበሩ",
     "romanized": "yayukeraayeme meremaariwochu yaoretodokese beeta keresetiyaane mariwe yarusi adagaafi naachawe bamaalate yakeeve manoriyaa beetaachawene barabaru",
-    "wer": 0.5384615384615384
+    "wer": 0.5384615384615384,
+    "cer": 0.1527777777777778
   },
   {
     "sample": 270,
     "transcription": "በዓለም ላይ ወደ ሁለት ቢሊየን የሚጠጉ ሙስሊሞች ዓመታዊውን የረመዳን ጾም ይጀምረዋል",
     "romanized": "baaalame laaye wada hulate biliyane yamitagu muselimoche aamataawiwene yaramadaane tsome yejamerawaale",
-    "wer": 0.2727272727272727
+    "wer": 0.2727272727272727,
+    "cer": 0.057692307692307696
   },
   {
     "sample": 271,
     "transcription": "ከመደበኛ ትምህርቱ ውጪ አለወት ንክስቃሲዎች በዩኒቨርሲቶች ዘንደርስዎ ስላለወት ማንነት መስካሪዎች ናቸው",
     "romanized": "kamadabanyaa temeheretu wechi alawate nekeseqaasiwoche bayunivaresitoche zanedaresewo selaalawate maanenate masekaariwoche naachawe",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.2028985507246377
   },
   {
     "sample": 272,
     "transcription": "oኖoም አስከriኖo ስከሁn አልተገኘም",
     "romanized": "onoome asekarinoo sekahun aletaganyame",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.4090909090909091
   },
   {
     "sample": 273,
     "transcription": "ደረቅ ቆዳ በከብቶች የሚቀይር አንድሰዋ አለ",
     "romanized": "daraqe qodaa bakabetoche yamiqayere anedesawaa ala",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.07142857142857142
   },
   {
     "sample": 274,
     "transcription": "በመገረፍ ብቻ የሞቶ ሰዎችን በታሪክ ድርሳናት ውስጥ አሉ በማዕጥ ፕሮፌሰሩ ያክላሉ",
     "romanized": "bamagarafe bechaa yamoto sawochene bataarike deresaanaate wesete alu bamaaete perofeesaru yaakelaalu",
-    "wer": 0.2727272727272727
+    "wer": 0.2727272727272727,
+    "cer": 0.0784313725490196
   },
   {
     "sample": 275,
     "transcription": "lwc ጌreloclcrtom liotono",
     "romanized": "lwc geereloclcrtom liotono",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.96
   },
   {
     "sample": 276,
     "transcription": "የሙየተራዘመ ውጊያ በግብፅ ላይ የሚያሳድረው ተጽዕኖ አያጣያይቅ",
     "romanized": "yamuyataraazama wegiyaa bagebetze laaye yamiyaasaaderawe tatseeno ayaataayaayeqe",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.13157894736842105
   },
   {
     "sample": 277,
     "transcription": "በሁለትሺህ 1ስራ 4ራት መንግስታቸው ተገለበጠ",
     "romanized": "bahulateshihe 1seraa 4raate manegesetaachawe tagalabata",
-    "wer": 0.8571428571428571
+    "wer": 0.8571428571428571,
+    "cer": 0.20689655172413793
   },
   {
     "sample": 278,
     "transcription": "እነዚህ ሰዎች እድሜያቸው ቢገፋም በአንፃራዊነት ጤነኛ ናቸው",
     "romanized": "enazihe sawoche edemeeyaachawe bigafaame baanetzaaraawinate teenanyaa naachawe",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.05405405405405406
   },
   {
     "sample": 279,
     "transcription": "በማግስቱም የነባና የፍየሉ አግልግሎች ተገናኙ",
     "romanized": "bamaagesetume yanabaanaa yafeyalu agelegeloche taganaanyu",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.17857142857142858
   },
   {
     "sample": 280,
     "transcription": "እንደ ሮማዊ እውነቱ አለቃ እውነትን በደፍረት የሚመሰክሩ ዜጎች ሲበዙ ነው",
     "romanized": "eneda romaawi ewenatu alaqaa ewenatene badaferate yamimasakeru zeegoche sibazu nawe",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.13333333333333333
   },
   {
     "sample": 281,
     "transcription": "ግራዳሌ አካባቢው ችግር ገጥሞ ይመቆም ግትሆኖቤ ነበር",
     "romanized": "geraadaalee akaabaabiwe chegere gatemo yemaqome getehonobee nabare",
-    "wer": 0.7777777777777778
+    "wer": 0.7777777777777778,
+    "cer": 0.2777777777777778
   },
   {
     "sample": 282,
     "transcription": "እነዚህ ሰዎች በእድሜ የገፉ ሰዎች ከሚያሳዩት የተለዩ ናቸው",
     "romanized": "enazihe sawoche baedemee yagafu sawoche kamiyaasaayute yatalayu naachawe",
-    "wer": 0.125
+    "wer": 0.125,
+    "cer": 0.02702702702702703
   },
   {
     "sample": 283,
     "transcription": "በዚህ ቪዲዮ ላይ አንደኛው ግለተብ የዩክራይንን ገዛት ምልክት ያለበት ባጅ አድርጎም ያሳያል",
     "romanized": "bazihe vidiyo laaye anedanyaawe gelatabe yayukeraayenene gazaate melekete yaalabate baaje aderegome yaasaayaale",
-    "wer": 0.3333333333333333
+    "wer": 0.3333333333333333,
+    "cer": 0.08771929824561403
   },
   {
     "sample": 284,
     "transcription": "ኢቲዮጵያ አይኤmfን ጨምሮ ከተለያዩ ዓለም አቀፍ የገንዘብ ተቋማት ጋር የነበራት ገኝኖት ተከዛቅዞ መቆየቱ ይታወቃል",
     "romanized": "itiyopheyaa ayeeemfne chamero katalayaayu aalame aqafe yaganezabe taqwaamaate gaare yanabaraate ganyenote takazaaqezo maqoyatu yetaawaqaale",
-    "wer": 0.2857142857142857
+    "wer": 0.2857142857142857,
+    "cer": 0.12162162162162163
   },
   {
     "sample": 285,
     "transcription": "ስለዚህ ወደ ሱዳን የመግባት እድሏ ሰፊ ሊዮን እንደሚችልም ያነሳሉ",
     "romanized": "selazihe wada sudaane yamagebaate edelwa safi liyone enedamicheleme yaanasaalu",
-    "wer": 0.2222222222222222
+    "wer": 0.2222222222222222,
+    "cer": 0.09523809523809523
   },
   {
     "sample": 286,
     "transcription": "ከሠራተኛ ጋር እንደ ሳሎን ውሻ ሶፋ ላይ ተጎልተው የሚሉ ልጆች ታዲያ በዚህ ረገድ ብዙ ይጎድ ልባቸዋል",
     "romanized": "kasaraatanyaa gaare eneda saalone weshaa sofaa laaye tagoletawe yamilu lejoche taadiyaa bazihe ragade bezu yegode lebaachawaale",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.03125
   },
   {
     "sample": 287,
     "transcription": "መዳኔቶች ከመፈጠራቸው እንዲሁን ከተሻላ አመጋገብ እና ኗኗዋር ጋር በት እያያዘ ሰዎች በሕይወት የሚቆዩበት ዘመን እየጨመረ መቅቷል",
     "romanized": "madaaneetoche kamafataraachawe enedihune katashaalaa amagaagabe enaa nwanwawaare gaare bate eyaayaaza sawoche bahheyewate yamiqoyubate zamane eyachamara maqetwale",
-    "wer": 0.4666666666666667
+    "wer": 0.4666666666666667,
+    "cer": 0.1375
   },
   {
     "sample": 288,
     "transcription": "js tm rno alu",
     "romanized": "js tm rno alu",
-    "wer": 1.3333333333333333
+    "wer": 1.3333333333333333,
+    "cer": 1.0
   },
   {
     "sample": 289,
     "transcription": "የሚሊዮኖች ሕይወት ስጋት ውስጥ ገብቷል",
     "romanized": "yamiliyonoche hheyewate segaate wesete gabetwale",
-    "wer": 0.2
+    "wer": 0.2,
+    "cer": 0.041666666666666664
   },
   {
     "sample": 290,
     "transcription": "ድርሻቸውን ለተወጡ ሁሉ የጸታ እና ደህነት የጋር ግብር ኃይድ ምስጋና አቅርቧል",
     "romanized": "dereshaachawene latawatu hulu yatsataa enaa dahenate yagaare gebere xaayede mesegaanaa aqerebwale",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.1836734693877551
   },
   {
     "sample": 291,
     "transcription": "የጄኔራል ብሮሃን ዕቅድ የቀድመውን ኦማር አልበሽር አገዛት ለመመለስ እየሰሩ መሆኑን ግልፅ ይሆን መጣ",
     "romanized": "yajeeneeraale berohaane eqede yaqademawene omaare alebashere agazaate lamamalase eyasaru mahonune geletze yehone mataa",
-    "wer": 0.7857142857142857
+    "wer": 0.7857142857142857,
+    "cer": 0.2463768115942029
   },
   {
     "sample": 292,
     "transcription": "በባህሉ መሠረት ስጋ የሚበለው መጨረሻ ላይነ",
     "romanized": "babaahelu masarate segaa yamibalawe macharashaa laayena",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.13793103448275862
   },
   {
     "sample": 293,
     "transcription": "ከዚያም በወጥመዱ የተያዘው ሰው ዬ እኔ ደግሞ ው ረኛውኜ ከብቶችህን እጠብቅላሃለሁ",
     "romanized": "kaziyaame bawatemadu yatayaazawe sawe yee enee dagemo we ranyaawenyee kabetochehene etabeqelaahaalahu",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.13725490196078433
   },
   {
     "sample": 294,
     "transcription": "ሊቨርፑል ሲቲን አፍቁሙ ለአርሰናል ሁለት ዩው ልሆን",
     "romanized": "livarepule sitine afequmu laaresanaale hulate yuwe lehone",
-    "wer": 0.5714285714285714
+    "wer": 0.5714285714285714,
+    "cer": 0.21212121212121213
   },
   {
     "sample": 295,
     "transcription": "ፍላዴስ በጻፈው ወተገባ በሰማያ ስምንት አመተ ዓለም አካባቢ የጅምላ ስቅለቶች ይፈጠቡ እንደነበር ተቅፋል",
     "romanized": "felaadeese batsaafawe watagabaa basamaayaa semenete amata aalame akaabaabi yajemelaa seqelatoche yefatabu enedanabare taqefaale",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.16417910447761194
   },
   {
     "sample": 296,
     "transcription": "የብርሃን ሞገድ ከኤሌክትሪክና ከመግነጢስ የተሠራ ስለሆነ ሞገዱ የኤሌክትሮ መግነጢስ ጨረራ ይባላል",
     "romanized": "yaberehaane mogade kaeeleeketerikenaa kamagenatise yatasaraa selahona mogadu yaeeleeketero magenatise chararaa yebaalaale",
-    "wer": 0.4166666666666667
+    "wer": 0.4166666666666667,
+    "cer": 0.07936507936507936
   },
   {
     "sample": 297,
     "transcription": "ለግድያዋ ግን ማንም መህረት የጠየቀ የለም",
     "romanized": "lagedeyaawaa gene maaneme maherate yatayaqa yalame",
-    "wer": 0.16666666666666666
+    "wer": 0.16666666666666666,
+    "cer": 0.038461538461538464
   },
   {
     "sample": 298,
     "transcription": "jክr lመsኩr ለ ተሻጉl ታ",
     "romanized": "jker lmaskur la tashaagul taa",
-    "wer": 1.0
+    "wer": 1.0,
+    "cer": 0.65
   },
   {
     "sample": 299,
     "transcription": "ሕማማት የበዛበት ነበር",
     "romanized": "hhemaamaate yabazaabate nabare",
-    "wer": 0.0
+    "wer": 0.0,
+    "cer": 0.0
   },
   {
     "sample": 300,
     "transcription": "ከዚያም ምንነካሽ ብሎ ጠየቃት",
     "romanized": "kaziyaame menenakaashe belo tayaqaate",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.05263157894736842
   },
   {
     "sample": 301,
     "transcription": "ይህም ወጥቅጣት የተፈረደበትን ሰው መሳዕቂ መዘባበች ማድረግ እንዲሁም ጭካኒ የአማማቶችን ማጣመድ የተለመደ ነበር",
     "romanized": "yeheme wateqetaate yatafaradabatene sawe masaaeqi mazabaabache maaderage enedihume chekaani yaamaamaatochene maataamade yatalamada nabare",
-    "wer": 0.5384615384615384
+    "wer": 0.5384615384615384,
+    "cer": 0.21739130434782608
   },
   {
     "sample": 302,
     "transcription": "በሸገር ከተማ ቤቶች በማፍረስ ሂደት የጸጥታ ኃይሎች ተመጣጣኝ ያልሆነ የኃይል እርንጃ ወስደዋል ተባለ",
     "romanized": "bashagare katamaa beetoche bamaaferase hidate yatsatetaa xaayeloche tamataataanye yaalehona yaxaayele erenejaa wasedawaale tabaala",
-    "wer": 0.23076923076923078
+    "wer": 0.23076923076923078,
+    "cer": 0.046875
   },
   {
     "sample": 303,
     "transcription": "በዚህም ምክንያት ፕሮፌሰር ፔሬዝ ኢየሱስ መስቀሉ በጣም ምክንያታዊ እንደሆነ ይታመናን ይላሉ",
     "romanized": "baziheme mekeneyaate perofeesare peereeze iyasuse maseqalu bataame mekeneyaataawi enedahona yetaamanaane yelaalu",
-    "wer": 0.18181818181818182
+    "wer": 0.18181818181818182,
+    "cer": 0.03508771929824561
   },
   {
     "sample": 304,
     "transcription": "ይህም በአአዝ ማስደገፍ ባይቻልም በደምሳሳው ግን ምርታማነታቸው እንደሚቀንስ መገመት ይቻላል",
     "romanized": "yeheme baaaze maasedagafe baayechaaleme badamesaasaawe gene meretaamaanataachawe enedamiqanese magamate yechaalaale",
-    "wer": 0.3
+    "wer": 0.3,
+    "cer": 0.05172413793103448
   },
   {
     "sample": 305,
     "transcription": "በአሁን ወርት ኢኪዮፒያ ከተቋሙ ጋር የሚታደርገው ን የየርግር አሁንም ዋሽhንግተን ውስጥ በመካሄር ላይ ነው",
     "romanized": "baahune warete ikiyopiyaa kataqwaamu gaare yamitaadaregawe ne yayaregere ahuneme waashehnegetane wesete bamakaaheere laaye nawe",
-    "wer": 0.6153846153846154
+    "wer": 0.6153846153846154,
+    "cer": 0.19047619047619047
   },
   {
     "sample": 306,
     "transcription": "ግዳሜ እና እሁድ ለሰራተኞች ይናቶች ብርቅ የሚሆንበት ለዚሁ ነው",
     "romanized": "gedaamee enaa ehude lasaraatanyoche yenaatoche bereqe yamihonebate lazihu nawe",
-    "wer": 0.6666666666666666
+    "wer": 0.6666666666666666,
+    "cer": 0.28205128205128205
   },
   {
     "sample": 307,
     "transcription": "እናትየም ይህንን ማድረግ እንዴት ይቸራል ብላ ጠየቀቸው",
     "romanized": "enaateyame yehenene maaderage enedeete yecharaale belaa tayaqachawe",
-    "wer": 0.42857142857142855
+    "wer": 0.42857142857142855,
+    "cer": 0.1388888888888889
   },
   {
     "sample": 308,
     "transcription": "በዚህም የአዲሳ በባ ነዋሪኝ ጨምሮ የሶላት ስነ ሥርዓቱ በሚካሄድበት ስፍራ በመገኘት በዓሉ በሰላም እንዲጠናቀቅ አድርገዋል",
     "romanized": "baziheme yaadisaa babaa nawaarinye chamero yasolaate sena sereaatu bamikaaheedebate seferaa bamaganyate baaalu basalaame eneditanaaqaqe aderegawaale",
-    "wer": 0.26666666666666666
+    "wer": 0.26666666666666666,
+    "cer": 0.06493506493506493
   },
   {
     "sample": 309,
     "transcription": "በሁለቱ ጀናሮች መካከል የተፈጠረው የሥልጣን ሽሚያ ውጥረት ፈንድቶ በመዲናዋ ካርቱም እና በብርካታ ከተሞች ግጅት ቀስቅሷል",
     "romanized": "bahulatu janaaroche makaakale yatafatarawe yaseletaane shemiyaa weterate fanedeto bamadinaawaa kaaretume enaa baberekaataa katamoche gejete qaseqeswale",
-    "wer": 0.26666666666666666
+    "wer": 0.26666666666666666,
+    "cer": 0.07792207792207792
   },
   {
     "sample": 310,
     "transcription": "በትብብር ፈንታ መጓተትን በመደጋገብ ፈንታ መገባባትን ከመረጥን ጉዞችን አንድ ርምጃ ወደፊት መቶር ምጫው ደኋል ይሆነው",
     "romanized": "batebebere fanetaa magwaatatene bamadagaagabe fanetaa magabaabaatene kamaratene guzochene anede remejaa wadafite matore mechaawe daxwaale yehonawe",
-    "wer": 0.6
+    "wer": 0.6,
+    "cer": 0.1891891891891892
   },
   {
     "sample": 311,
     "transcription": "አብዛኛውም ጊዜ ተማሪዎቹ ከዩኒቨርሲቶች ምን አይነት እርዳታሊያገኙ እንደኝችሉ ሆነ ስላሉ ነገሮች ለመጠይቅ ይፈራሉ",
     "romanized": "abezaanyaaweme gizee tamaariwochu kayunivaresitoche mene ayenate eredaataaliyaaganyu enedanyechelu hona selaalu nagaroche lamatayeqe yefaraalu",
-    "wer": 0.5
+    "wer": 0.5,
+    "cer": 0.14666666666666667
   },
   {
     "sample": 312,
     "transcription": "ከመሞቱን በፊት እንዳንጣላቃላ አስገብቶዎን ስለ ነበር አልተጣላንም",
     "romanized": "kamamotune bafite enedaanetaalaaqaalaa asegabetowone sela nabare aletataalaaneme",
-    "wer": 0.7142857142857143
+    "wer": 0.7142857142857143,
+    "cer": 0.15
   },
   {
     "sample": 313,
     "transcription": "ሚስቱም እርፉ በሚፈለግ ጊዜ ምግብ እና መጠ አትሰጠውም በሰላም እንዲተኛ ማተደርገው",
     "romanized": "misetume erefu bamifalage gizee megebe enaa mata atesataweme basalaame eneditanyaa maatadaregawe",
-    "wer": 0.7
+    "wer": 0.7,
+    "cer": 0.19230769230769232
   },
   {
     "sample": 314,
     "transcription": "እውነትም ልጅ ሞትን መሸወጃ ብቸኛው መንገድ ናው ያስብላል",
     "romanized": "ewenateme leje motene mashawajaa bechanyaawe manegade naawe yaasebelaale",
-    "wer": 0.125
+    "wer": 0.125,
+    "cer": 0.027777777777777776
   },
   {
     "sample": 315,
     "transcription": "ነገር ግን ለቤተሰቡ አጠቃላይ ሕመም የሆነባቸው ምርመራውእና የፍርድሂደቱ የፈጀው ጊዜ ነው",
     "romanized": "nagare gene labeetasabu ataqaalaaye hhemame yahonabaachawe meremaraaweenaa yaferedehidatu yafajawe gizee nawe",
-    "wer": 0.38461538461538464
+    "wer": 0.38461538461538464,
+    "cer": 0.05172413793103448
   },
   {
     "sample": 316,
     "transcription": "ግብ ሱዳንን እንደአገር ከምታየባቸው ምክንያቶች አንዱ ከኢትዮጵያ ጋር የሚትወዛግብበት የኢትዮጵያ ዳሴግግብ ጉዳይ ይጠቀሰ",
     "romanized": "gebe sudaanene enedaagare kametaayabaachawe mekeneyaatoche anedu kaiteyopheyaa gaare yamitewazaagebebate yaiteyopheyaa daaseegegebe gudaaye yetaqasa",
-    "wer": 0.5333333333333333
+    "wer": 0.5333333333333333,
+    "cer": 0.1375
   },
   {
     "sample": 317,
     "transcription": "ይህ ጥያቄ ከተመለሰ ረዥም ዕድሜን ጤነኛ ሆነ ንንገፋለን ይላሉ ተመራ ማሪው",
     "romanized": "yehe teyaaqee katamalasa razheme edemeene teenanyaa hona nenegafaalane yelaalu tamaraa maariwe",
-    "wer": 0.4
+    "wer": 0.4,
+    "cer": 0.06382978723404255
   },
   {
     "sample": 318,
     "transcription": "ብሏት የኔ ቪጤዋ ሴት የሀብታም ሰው ቤተ ሰብ ሆነች",
     "romanized": "belwate yanee viteewaa seete yahabetaame sawe beeta sabe honache",
-    "wer": 0.625
+    "wer": 0.625,
+    "cer": 0.125
   },
   {
     "sample": 319,
     "transcription": "አርፈህ ጉዞህን ቀጠል አለው",
     "romanized": "arefahe guzohene qatale alawe",
-    "wer": 0.25
+    "wer": 0.25,
+    "cer": 0.058823529411764705
   },
   {
     "sample": 320,
     "transcription": "በግብፅ በኩል ፕሬዝዳንት አብዱል ፈታል ሲሲ ንዲዩም የቀድሞ የስዳን ፕሬዝዳንት ኦማራአል በሽር ነበሩ",
     "romanized": "bagebetze bakule pereezedaanete abedule fataale sisi nediyume yaqademo yasedaane pereezedaanete omaaraaale bashere nabaru",
-    "wer": 0.75
+    "wer": 0.75,
+    "cer": 0.18181818181818182
   }
 ]

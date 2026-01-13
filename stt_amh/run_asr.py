@@ -5,7 +5,7 @@ import re
 import statistics
 
 from datasets import load_from_disk
-from jiwer import wer
+from jiwer import cer, wer
 from loguru import logger
 import torch
 from torchcodec.decoders import AudioDecoder
@@ -68,6 +68,7 @@ class InferenceContext:
 
 		# Compute the WER
 		jiwer_wer = wer(reference, transcription)
+		jiwer_cer = cer(reference, transcription)
 
 		# Strip tags for loguru's sake...
 		safe_tr = re.sub(r"<[^<]+?>", "", transcription)
@@ -75,8 +76,9 @@ class InferenceContext:
 		logger.info(f"Transcription: <blue>{safe_tr}</blue>")
 		logger.info(f"Romanized: <green>{safe_ro}</green>")
 		logger.info(f"WER: <yellow>{jiwer_wer:.4f}</yellow>")
+		logger.info(f"CER: <yellow>{jiwer_cer:.4f}</yellow>")
 
-		return transcription, romanized, jiwer_wer
+		return transcription, romanized, jiwer_wer, jiwer_cer
 
 
 @app.command()
@@ -90,17 +92,20 @@ def main(custom_adapter: Annotated[bool, typer.Option(help="Use our own custom a
 	for i, data_point in enumerate(tqdm(ctx.dataset["test"], desc="Inferencing...")):
 		sample = data_point["audio"]["array"]
 		ref = data_point["sentence"]
-		transcription, romanized, wer_score = ctx.run_asr(sample, ref)
+		transcription, romanized, wer_score, cer_score = ctx.run_asr(sample, ref)
 		results.append(
 			{
 				"sample": i,
 				"transcription": transcription,
 				"romanized": romanized,
 				"wer": wer_score,
+				"cer": cer_score,
 			}
 		)
 	scores = [e["wer"] for e in results]
 	logger.info(f"Mean WER: <red>{statistics.mean(scores)}</red>")
+	scores = [e["cer"] for e in results]
+	logger.info(f"Mean CER: <red>{statistics.mean(scores)}</red>")
 
 	# Dump the results to disk
 	report = REPORTS_DIR / f"stt-test-{custom_adapter and 'custom' or 'stock'}.json"
