@@ -306,8 +306,8 @@ class TrainContext:
 
 		# Actually save the whole thing, as i'm not sure mixing our adapter with the stock model quite works...
 		logger.info("Saving model to disk...")
-		self.trainer.save_model(save_dir / "mms-1b-amh")
-		self.processor.save_pretrained(save_dir / "mms-1b-amh")
+		self.trainer.save_model(save_dir)
+		self.processor.save_pretrained(save_dir)
 
 
 @app.command()
